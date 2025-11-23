@@ -1,1 +1,696 @@
-
+{
+  "Topics": [
+    {
+      "Topic": "Numbers",
+      "Cards": [
+        {
+          "Kanji": "一",
+          "Meaning": "One",
+          "KunyomiKana": "ひとつ",
+          "KunyomiRomaji": "hitotsu",
+          "OnyomiKana": "いち",
+          "OnyomiRomaji": "ichi",
+          "Examples": [
+            {
+              "Kanji": "一人",
+              "Furigana": "ひとり",
+              "Romaji": "hitori",
+              "Meaning": "One person"
+            },
+            {
+              "Kanji": "一分",
+              "Furigana": "いっぷん",
+              "Romaji": "ippun",
+              "Meaning": "One minute"
+            },
+            {
+              "Kanji": "一日",
+              "Furigana": "いちにち",
+              "Romaji": "ichinichi",
+              "Meaning": "One day"
+            }
+          ]
+        },
+        {
+          "Kanji": "二",
+          "Meaning": "Two",
+          "KunyomiKana": "ふたつ",
+          "KunyomiRomaji": "futatsu",
+          "OnyomiKana": "に",
+          "OnyomiRomaji": "ni",
+          "Examples": [
+            {
+              "Kanji": "二人",
+              "Furigana": "ふたり",
+              "Romaji": "futari",
+              "Meaning": "Two people"
+            },
+            {
+              "Kanji": "二月",
+              "Furigana": "にがつ",
+              "Romaji": "nigatsu",
+              "Meaning": "February"
+            },
+            {
+              "Kanji": "二時",
+              "Furigana": "にじ",
+              "Romaji": "niji",
+              "Meaning": "Two o’clock"
+            }
+          ]
+        },
+        {
+          "Kanji": "三",
+          "Meaning": "Number three",
+          "KunyomiKana": "みっつ",
+          "KunyomiRomaji": "mittsu",
+          "OnyomiKana": "さん",
+          "OnyomiRomaji": "san",
+          "Examples": [
+            {
+              "Kanji": "三日",
+              "Furigana": "みっか",
+              "Romaji": "mikka",
+              "Meaning": "Third day"
+            },
+            {
+              "Kanji": "三年",
+              "Furigana": "さんねん",
+              "Romaji": "sannen",
+              "Meaning": "Three years"
+            },
+            {
+              "Kanji": "三角",
+              "Furigana": "さんかく",
+              "Romaji": "sankaku",
+              "Meaning": "Triangle"
+            }
+          ]
+        },
+        {
+          "Kanji": "四",
+          "Meaning": "Number four",
+          "KunyomiKana": "よっつ",
+          "KunyomiRomaji": "yottsu",
+          "OnyomiKana": "し, よん",
+          "OnyomiRomaji": "shi, yon",
+          "Examples": [
+            {
+              "Kanji": "四人",
+              "Furigana": "よにん",
+              "Romaji": "yonin",
+              "Meaning": "Four people"
+            },
+            {
+              "Kanji": "四月",
+              "Furigana": "しがつ",
+              "Romaji": "shigatsu",
+              "Meaning": "April"
+            },
+            {
+              "Kanji": "四角",
+              "Furigana": "しかく",
+              "Romaji": "shikaku",
+              "Meaning": "Square"
+            }
+          ]
+        },
+        {
+          "Kanji": "五",
+          "Meaning": "Number five",
+          "KunyomiKana": "いつつ",
+          "KunyomiRomaji": "itsutsu",
+          "OnyomiKana": "ご",
+          "OnyomiRomaji": "go",
+          "Examples": [
+            {
+              "Kanji": "五分",
+              "Furigana": "ごふん",
+              "Romaji": "gofun",
+              "Meaning": "Five minutes"
+            },
+            {
+              "Kanji": "五階",
+              "Furigana": "ごかい",
+              "Romaji": "gokai",
+              "Meaning": "Fifth floor"
+            },
+            {
+              "Kanji": "五日",
+              "Furigana": "いつか",
+              "Romaji": "itsuka",
+              "Meaning": "Fifth day"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Topic": "Animals",
+      "Cards": [
+        {
+          "Kanji": "猫",
+          "Meaning": "Cat",
+          "KunyomiKana": "ねこ",
+          "KunyomiRomaji": "neko",
+          "OnyomiKana": "ビョウ",
+          "OnyomiRomaji": "byou",
+          "Examples": [
+            {
+              "Kanji": "子猫",
+              "Furigana": "こねこ",
+              "Romaji": "koneko",
+              "Meaning": "Kitten"
+            },
+            {
+              "Kanji": "野良猫",
+              "Furigana": "のらねこ",
+              "Romaji": "noraneko",
+              "Meaning": "Stray cat"
+            },
+            {
+              "Kanji": "黒猫",
+              "Furigana": "くろねこ",
+              "Romaji": "kuroneko",
+              "Meaning": "Black cat"
+            }
+          ]
+        },
+        {
+          "Kanji": "犬",
+          "Meaning": "Dog",
+          "KunyomiKana": "いぬ",
+          "KunyomiRomaji": "inu",
+          "OnyomiKana": "ケン",
+          "OnyomiRomaji": "ken",
+          "Examples": [
+            {
+              "Kanji": "子犬",
+              "Furigana": "こいぬ",
+              "Romaji": "koinu",
+              "Meaning": "Puppy"
+            },
+            {
+              "Kanji": "番犬",
+              "Furigana": "ばんけん",
+              "Romaji": "banken",
+              "Meaning": "Guard dog"
+            },
+            {
+              "Kanji": "盲導犬",
+              "Furigana": "もうどうけん",
+              "Romaji": "moudouken",
+              "Meaning": "Guide dog"
+            }
+          ]
+        },
+        {
+          "Kanji": "鳥",
+          "Meaning": "Bird",
+          "KunyomiKana": "とり",
+          "KunyomiRomaji": "tori",
+          "OnyomiKana": "チョウ",
+          "OnyomiRomaji": "chou",
+          "Examples": [
+            {
+              "Kanji": "小鳥",
+              "Furigana": "ことり",
+              "Romaji": "kotori",
+              "Meaning": "Small bird"
+            },
+            {
+              "Kanji": "野鳥",
+              "Furigana": "やちょう",
+              "Romaji": "yachou",
+              "Meaning": "Wild bird"
+            },
+            {
+              "Kanji": "鳥類",
+              "Furigana": "ちょうるい",
+              "Romaji": "chourui",
+              "Meaning": "Bird species"
+            }
+          ]
+        },
+        {
+          "Kanji": "魚",
+          "Meaning": "Fish",
+          "KunyomiKana": "さかな",
+          "KunyomiRomaji": "sakana",
+          "OnyomiKana": "ギョ",
+          "OnyomiRomaji": "gyo",
+          "Examples": [
+            {
+              "Kanji": "金魚",
+              "Furigana": "きんぎょ",
+              "Romaji": "kingyo",
+              "Meaning": "Goldfish"
+            },
+            {
+              "Kanji": "熱帯魚",
+              "Furigana": "ねったいぎょ",
+              "Romaji": "nettaigyo",
+              "Meaning": "Tropical fish"
+            },
+            {
+              "Kanji": "魚介",
+              "Furigana": "ぎょかい",
+              "Romaji": "gyokai",
+              "Meaning": "Seafood"
+            }
+          ]
+        },
+        {
+          "Kanji": "馬",
+          "Meaning": "Horse",
+          "KunyomiKana": "うま",
+          "KunyomiRomaji": "uma",
+          "OnyomiKana": "バ",
+          "OnyomiRomaji": "ba",
+          "Examples": [
+            {
+              "Kanji": "子馬",
+              "Furigana": "こうま",
+              "Romaji": "kouma",
+              "Meaning": "Foal"
+            },
+            {
+              "Kanji": "競馬",
+              "Furigana": "けいば",
+              "Romaji": "keiba",
+              "Meaning": "Horse racing"
+            },
+            {
+              "Kanji": "野馬",
+              "Furigana": "のうま",
+              "Romaji": "nouma",
+              "Meaning": "Wild horse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Topic": "Directions",
+      "Cards": [
+        {
+          "Kanji": "北",
+          "Meaning": "North",
+          "KunyomiKana": "きた",
+          "KunyomiRomaji": "kita",
+          "OnyomiKana": "ホク",
+          "OnyomiRomaji": "hoku",
+          "Examples": [
+            {
+              "Kanji": "北風",
+              "Furigana": "きたかぜ",
+              "Romaji": "kitakaze",
+              "Meaning": "North wind"
+            },
+            {
+              "Kanji": "北極",
+              "Furigana": "ほっきょく",
+              "Romaji": "hokkyoku",
+              "Meaning": "North Pole"
+            },
+            {
+              "Kanji": "北口",
+              "Furigana": "きたぐち",
+              "Romaji": "kitaguchi",
+              "Meaning": "North entrance"
+            }
+          ]
+        },
+        {
+          "Kanji": "南",
+          "Meaning": "South",
+          "KunyomiKana": "みなみ",
+          "KunyomiRomaji": "minami",
+          "OnyomiKana": "ナン",
+          "OnyomiRomaji": "nan",
+          "Examples": [
+            {
+              "Kanji": "南風",
+              "Furigana": "みなみかぜ",
+              "Romaji": "minamikaze",
+              "Meaning": "South wind"
+            },
+            {
+              "Kanji": "南国",
+              "Furigana": "なんごく",
+              "Romaji": "nangoku",
+              "Meaning": "Southern country"
+            },
+            {
+              "Kanji": "南口",
+              "Furigana": "みなみぐち",
+              "Romaji": "minamiguchi",
+              "Meaning": "South entrance"
+            }
+          ]
+        },
+        {
+          "Kanji": "東",
+          "Meaning": "East",
+          "KunyomiKana": "ひがし",
+          "KunyomiRomaji": "higashi",
+          "OnyomiKana": "トウ",
+          "OnyomiRomaji": "tou",
+          "Examples": [
+            {
+              "Kanji": "東京",
+              "Furigana": "とうきょう",
+              "Romaji": "toukyou",
+              "Meaning": "Tokyo (Eastern capital)"
+            },
+            {
+              "Kanji": "東口",
+              "Furigana": "ひがしぐち",
+              "Romaji": "higashiguchi",
+              "Meaning": "East exit"
+            },
+            {
+              "Kanji": "東側",
+              "Furigana": "ひがしがわ",
+              "Romaji": "higashigawa",
+              "Meaning": "East side"
+            }
+          ]
+        },
+        {
+          "Kanji": "西",
+          "Meaning": "West",
+          "KunyomiKana": "にし",
+          "KunyomiRomaji": "nishi",
+          "OnyomiKana": "セイ, サイ",
+          "OnyomiRomaji": "sei, sai",
+          "Examples": [
+            {
+              "Kanji": "西口",
+              "Furigana": "にしぐち",
+              "Romaji": "nishiguchi",
+              "Meaning": "West exit"
+            },
+            {
+              "Kanji": "西日",
+              "Furigana": "にしび",
+              "Romaji": "nishibi",
+              "Meaning": "Setting sun"
+            },
+            {
+              "Kanji": "西側",
+              "Furigana": "にしがわ",
+              "Romaji": "nishigawa",
+              "Meaning": "West side"
+            }
+          ]
+        },
+        {
+          "Kanji": "中",
+          "Meaning": "Center, Inside",
+          "KunyomiKana": "なか",
+          "KunyomiRomaji": "naka",
+          "OnyomiKana": "チュウ",
+          "OnyomiRomaji": "chuu",
+          "Examples": [
+            {
+              "Kanji": "中心",
+              "Furigana": "ちゅうしん",
+              "Romaji": "chuushin",
+              "Meaning": "Center"
+            },
+            {
+              "Kanji": "中間",
+              "Furigana": "ちゅうかん",
+              "Romaji": "chuukan",
+              "Meaning": "Middle"
+            },
+            {
+              "Kanji": "中庭",
+              "Furigana": "なかにわ",
+              "Romaji": "nakaniwa",
+              "Meaning": "Courtyard"
+            }
+          ]
+        },
+        {
+          "Kanji": "右",
+          "Meaning": "Right",
+          "KunyomiKana": "みぎ",
+          "KunyomiRomaji": "migi",
+          "OnyomiKana": "ウ",
+          "OnyomiRomaji": "u",
+          "Examples": [
+            {
+              "Kanji": "右手",
+              "Furigana": "みぎて",
+              "Romaji": "migite",
+              "Meaning": "Right hand"
+            },
+            {
+              "Kanji": "右側",
+              "Furigana": "みぎがわ",
+              "Romaji": "migigawa",
+              "Meaning": "Right side"
+            },
+            {
+              "Kanji": "右折",
+              "Furigana": "うせつ",
+              "Romaji": "usetsu",
+              "Meaning": "Right turn"
+            }
+          ]
+        },
+        {
+          "Kanji": "左",
+          "Meaning": "Left",
+          "KunyomiKana": "ひだり",
+          "KunyomiRomaji": "hidari",
+          "OnyomiKana": "サ",
+          "OnyomiRomaji": "sa",
+          "Examples": [
+            {
+              "Kanji": "左手",
+              "Furigana": "ひだりて",
+              "Romaji": "hidarite",
+              "Meaning": "Left hand"
+            },
+            {
+              "Kanji": "左側",
+              "Furigana": "ひだりがわ",
+              "Romaji": "hidarigawa",
+              "Meaning": "Left side"
+            },
+            {
+              "Kanji": "左折",
+              "Furigana": "させつ",
+              "Romaji": "sasetsu",
+              "Meaning": "Left turn"
+            }
+          ]
+        },
+        {
+          "Kanji": "上",
+          "Meaning": "Up",
+          "KunyomiKana": "うえ",
+          "KunyomiRomaji": "ue",
+          "OnyomiKana": "ジョウ",
+          "OnyomiRomaji": "jou",
+          "Examples": [
+            {
+              "Kanji": "上昇",
+              "Furigana": "じょうしょう",
+              "Romaji": "joushou",
+              "Meaning": "Rise, ascent"
+            },
+            {
+              "Kanji": "上手",
+              "Furigana": "うわて, じょうず",
+              "Romaji": "uwate, jouzu",
+              "Meaning": "Skilled, upper side"
+            },
+            {
+              "Kanji": "上階",
+              "Furigana": "じょうかい",
+              "Romaji": "joukai",
+              "Meaning": "Upper floor"
+            }
+          ]
+        },
+        {
+          "Kanji": "下",
+          "Meaning": "Down",
+          "KunyomiKana": "した",
+          "KunyomiRomaji": "shita",
+          "OnyomiKana": "カ, ゲ",
+          "OnyomiRomaji": "ka, ge",
+          "Examples": [
+            {
+              "Kanji": "下降",
+              "Furigana": "かこう",
+              "Romaji": "kakou",
+              "Meaning": "Descent"
+            },
+            {
+              "Kanji": "地下",
+              "Furigana": "ちか",
+              "Romaji": "chika",
+              "Meaning": "Underground"
+            },
+            {
+              "Kanji": "下手",
+              "Furigana": "したて, へた",
+              "Romaji": "shitate, heta",
+              "Meaning": "Unskilled, lower side"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Topic": "Nature",
+      "Cards": [
+        {
+          "Kanji": "木",
+          "Meaning": "Tree",
+          "KunyomiKana": "き",
+          "KunyomiRomaji": "ki",
+          "OnyomiKana": "モク, ボク",
+          "OnyomiRomaji": "moku, boku",
+          "Examples": [
+            {
+              "Kanji": "木材",
+              "Furigana": "もくざい",
+              "Romaji": "mokuzai",
+              "Meaning": "Lumber"
+            },
+            {
+              "Kanji": "木陰",
+              "Furigana": "こかげ",
+              "Romaji": "kokage",
+              "Meaning": "Shade"
+            },
+            {
+              "Kanji": "木の葉",
+              "Furigana": "このは",
+              "Romaji": "konoha",
+              "Meaning": "Leaf"
+            }
+          ]
+        },
+        {
+          "Kanji": "水",
+          "Meaning": "Water",
+          "KunyomiKana": "みず",
+          "KunyomiRomaji": "mizu",
+          "OnyomiKana": "スイ",
+          "OnyomiRomaji": "sui",
+          "Examples": [
+            {
+              "Kanji": "水中",
+              "Furigana": "すいちゅう",
+              "Romaji": "suichuu",
+              "Meaning": "Underwater"
+            },
+            {
+              "Kanji": "水面",
+              "Furigana": "すいめん",
+              "Romaji": "suimen",
+              "Meaning": "Water surface"
+            },
+            {
+              "Kanji": "水滴",
+              "Furigana": "すいてき",
+              "Romaji": "suiteki",
+              "Meaning": "Water droplet"
+            }
+          ]
+        },
+        {
+          "Kanji": "火",
+          "Meaning": "Fire",
+          "KunyomiKana": "ひ",
+          "KunyomiRomaji": "hi",
+          "OnyomiKana": "カ",
+          "OnyomiRomaji": "ka",
+          "Examples": [
+            {
+              "Kanji": "火山",
+              "Furigana": "かざん",
+              "Romaji": "kazan",
+              "Meaning": "Volcano"
+            },
+            {
+              "Kanji": "火事",
+              "Furigana": "かじ",
+              "Romaji": "kaji",
+              "Meaning": "Fire incident"
+            },
+            {
+              "Kanji": "火花",
+              "Furigana": "ひばな",
+              "Romaji": "hibana",
+              "Meaning": "Spark"
+            }
+          ]
+        },
+        {
+          "Kanji": "山",
+          "Meaning": "Mountain",
+          "KunyomiKana": "やま",
+          "KunyomiRomaji": "yama",
+          "OnyomiKana": "サン",
+          "OnyomiRomaji": "san",
+          "Examples": [
+            {
+              "Kanji": "山頂",
+              "Furigana": "さんちょう",
+              "Romaji": "sanchou",
+              "Meaning": "Summit"
+            },
+            {
+              "Kanji": "山道",
+              "Furigana": "やまみち",
+              "Romaji": "yamamichi",
+              "Meaning": "Mountain path"
+            },
+            {
+              "Kanji": "富士山",
+              "Furigana": "ふじさん",
+              "Romaji": "fujisan",
+              "Meaning": "Mount Fuji"
+            }
+          ]
+        },
+        {
+          "Kanji": "風",
+          "Meaning": "Wind",
+          "KunyomiKana": "かぜ",
+          "KunyomiRomaji": "kaze",
+          "OnyomiKana": "フウ",
+          "OnyomiRomaji": "fuu",
+          "Examples": [
+            {
+              "Kanji": "強風",
+              "Furigana": "きょうふう",
+              "Romaji": "kyoufuu",
+              "Meaning": "Strong wind"
+            },
+            {
+              "Kanji": "風車",
+              "Furigana": "ふうしゃ",
+              "Romaji": "fuusha",
+              "Meaning": "Windmill"
+            },
+            {
+              "Kanji": "風速",
+              "Furigana": "ふうそく",
+              "Romaji": "fuusoku",
+              "Meaning": "Wind speed"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
