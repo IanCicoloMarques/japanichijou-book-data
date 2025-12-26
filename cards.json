@@ -6,8 +6,8 @@
         {
           "Kanji": "一",
           "Meaning": "One",
-          "KunyomiKana": "ひとつ",
-          "KunyomiRomaji": "hitotsu",
+          "KunyomiKana": "ひ",
+          "KunyomiRomaji": "hi",
           "OnyomiKana": "いち",
           "OnyomiRomaji": "ichi",
           "Examples": [
@@ -34,8 +34,8 @@
         {
           "Kanji": "二",
           "Meaning": "Two",
-          "KunyomiKana": "ふたつ",
-          "KunyomiRomaji": "futatsu",
+          "KunyomiKana": "ふ",
+          "KunyomiRomaji": "fu",
           "OnyomiKana": "に",
           "OnyomiRomaji": "ni",
           "Examples": [
@@ -62,8 +62,8 @@
         {
           "Kanji": "三",
           "Meaning": "Number three",
-          "KunyomiKana": "みっつ",
-          "KunyomiRomaji": "mittsu",
+          "KunyomiKana": "み",
+          "KunyomiRomaji": "mi",
           "OnyomiKana": "さん",
           "OnyomiRomaji": "san",
           "Examples": [
@@ -90,8 +90,8 @@
         {
           "Kanji": "四",
           "Meaning": "Number four",
-          "KunyomiKana": "よっつ",
-          "KunyomiRomaji": "yottsu",
+          "KunyomiKana": "よ",
+          "KunyomiRomaji": "yo",
           "OnyomiKana": "し, よん",
           "OnyomiRomaji": "shi, yon",
           "Examples": [
@@ -118,8 +118,8 @@
         {
           "Kanji": "五",
           "Meaning": "Number five",
-          "KunyomiKana": "いつつ",
-          "KunyomiRomaji": "itsutsu",
+          "KunyomiKana": "いつ",
+          "KunyomiRomaji": "itsu",
           "OnyomiKana": "ご",
           "OnyomiRomaji": "go",
           "Examples": [
@@ -140,6 +140,146 @@
               "Furigana": "いつか",
               "Romaji": "itsuka",
               "Meaning": "Fifth day"
+            }
+          ]
+        },
+        {
+          "Kanji": "六",
+          "Meaning": "Six",
+          "KunyomiKana": "む",
+          "KunyomiRomaji": "mu",
+          "OnyomiKana": "ろく",
+          "OnyomiRomaji": "roku",
+          "Examples": [
+            {
+              "Kanji": "六分",
+              "Furigana": "ろっぷん",
+              "Romaji": "roppun",
+              "Meaning": "Six minutes"
+            },
+            {
+              "Kanji": "六個",
+              "Furigana": "ろっこ",
+              "Romaji": "rokko",
+              "Meaning": "Six things"
+            },
+            {
+              "Kanji": "六人",
+              "Furigana": "ろくにん",
+              "Romaji": "rokunin",
+              "Meaning": "Six people"
+            }
+          ]
+        },
+        {
+          "Kanji": "七",
+          "Meaning": "Seven",
+          "KunyomiKana": "なな",
+          "KunyomiRomaji": "nana",
+          "OnyomiKana": "しち, なな",
+          "OnyomiRomaji": "shichi, nana",
+          "Examples": [
+            {
+              "Kanji": "七人",
+              "Furigana": "ななにん",
+              "Romaji": "nananin",
+              "Meaning": "Seven people"
+            },
+            {
+              "Kanji": "七時",
+              "Furigana": "しちじ",
+              "Romaji": "shichiji",
+              "Meaning": "Seven o'clock"
+            },
+            {
+              "Kanji": "七日",
+              "Furigana": "なのか",
+              "Romaji": "nanoka",
+              "Meaning": "Seventh day"
+            }
+          ]
+        },
+        {
+          "Kanji": "八",
+          "Meaning": "Eight",
+          "KunyomiKana": "や",
+          "KunyomiRomaji": "ya",
+          "OnyomiKana": "はち",
+          "OnyomiRomaji": "hachi",
+          "Examples": [
+            {
+              "Kanji": "八人",
+              "Furigana": "はちにん",
+              "Romaji": "hachinin",
+              "Meaning": "Eight people"
+            },
+            {
+              "Kanji": "八月",
+              "Furigana": "はちがつ",
+              "Romaji": "hachigatsu",
+              "Meaning": "August"
+            },
+            {
+              "Kanji": "八日",
+              "Furigana": "よおか",
+              "Romaji": "yooka",
+              "Meaning": "Eighth day"
+            }
+          ]
+        },
+        {
+          "Kanji": "九",
+          "Meaning": "Nine",
+          "KunyomiKana": "ここの",
+          "KunyomiRomaji": "kokono",
+          "OnyomiKana": "く, きゅう",
+          "OnyomiRomaji": "ku, kyuu",
+          "Examples": [
+            {
+              "Kanji": "九個",
+              "Furigana": "きゅうこ",
+              "Romaji": "kyuuko",
+              "Meaning": "Nine things"
+            },
+            {
+              "Kanji": "九月",
+              "Furigana": "くがつ",
+              "Romaji": "kugatsu",
+              "Meaning": "September"
+            },
+            {
+              "Kanji": "九日",
+              "Furigana": "ここのか",
+              "Romaji": "kokonoka",
+              "Meaning": "Nineth day"
+            }
+          ]
+        },
+        {
+          "Kanji": "十",
+          "Meaning": "Ten",
+          "KunyomiKana": "とお",
+          "KunyomiRomaji": "too",
+          "OnyomiKana": "じゅう",
+          "OnyomiRomaji": "juu",
+          "Examples": [
+            {
+              "Kanji": "十個",
+              "Furigana": "じゅっこ",
+              "Romaji": "jukko",
+              "Meaning": "Ten things"
+            },
+            {
+              "Kanji": "十人",
+              "Furigana": "じゅうにん",
+              "Romaji": "juunin",
+              "Meaning": "Ten people"
+            },
+            {
+              "Kanji": "十日",
+              "Furigana": "とおか",
+              "Romaji": "tooka",
+              "Meaning": "Tenth day"
             }
           ]
         }
@@ -285,6 +425,426 @@
               "Furigana": "のうま",
               "Romaji": "nouma",
               "Meaning": "Wild horse"
+            }
+          ]
+        },
+        {
+          "Kanji": "牛",
+          "Meaning": "Cow",
+          "KunyomiKana": "うし",
+          "KunyomiRomaji": "ushi",
+          "OnyomiKana": "ギュウ",
+          "OnyomiRomaji": "gyuu",
+          "Examples": [
+            {
+              "Kanji": "牛肉",
+              "Furigana": "ぎゅうにく",
+              "Romaji": "gyuuniku",
+              "Meaning": "Beef"
+            },
+            {
+              "Kanji": "牛乳",
+              "Furigana": "ぎゅうにゅう",
+              "Romaji": "gyuunyuu",
+              "Meaning": "Milk"
+            },
+            {
+              "Kanji": "子牛",
+              "Furigana": "こうし",
+              "Romaji": "koushi",
+              "Meaning": "Calf"
+            }
+          ]
+        },
+        {
+          "Kanji": "豚",
+          "Meaning": "Pig",
+          "KunyomiKana": "ぶた",
+          "KunyomiRomaji": "buta",
+          "OnyomiKana": "トン",
+          "OnyomiRomaji": "ton",
+          "Examples": [
+            {
+              "Kanji": "豚肉",
+              "Furigana": "ぶたにく",
+              "Romaji": "butaniku",
+              "Meaning": "Pork"
+            },
+            {
+              "Kanji": "豚骨",
+              "Furigana": "とんこつ",
+              "Romaji": "tonkotsu",
+              "Meaning": "Pork bone"
+            },
+            {
+              "Kanji": "子豚",
+              "Furigana": "こぶた",
+              "Romaji": "kobuta",
+              "Meaning": "Piglet"
+            }
+          ]
+        },
+        {
+          "Kanji": "羊",
+          "Meaning": "Sheep",
+          "KunyomiKana": "ひつじ",
+          "KunyomiRomaji": "hitsuji",
+          "OnyomiKana": "ヨウ",
+          "OnyomiRomaji": "you",
+          "Examples": [
+            {
+              "Kanji": "羊肉",
+              "Furigana": "ようにく",
+              "Romaji": "youniku",
+              "Meaning": "Mutton"
+            },
+            {
+              "Kanji": "羊毛",
+              "Furigana": "ようもう",
+              "Romaji": "youmou",
+              "Meaning": "Wool"
+            },
+            {
+              "Kanji": "子羊",
+              "Furigana": "こひつじ",
+              "Romaji": "kohitsuji",
+              "Meaning": "Lamb"
+            }
+          ]
+        },
+        {
+          "Kanji": "猿",
+          "Meaning": "Monkey",
+          "KunyomiKana": "さる",
+          "KunyomiRomaji": "saru",
+          "OnyomiKana": "エン",
+          "OnyomiRomaji": "en",
+          "Examples": [
+            {
+              "Kanji": "子猿",
+              "Furigana": "こざる",
+              "Romaji": "kozaru",
+              "Meaning": "Baby monkey"
+            },
+            {
+              "Kanji": "猿山",
+              "Furigana": "さるやま",
+              "Romaji": "saruyama",
+              "Meaning": "Monkey park"
+            }
+          ]
+        },
+        {
+          "Kanji": "熊",
+          "Meaning": "Bear",
+          "KunyomiKana": "くま",
+          "KunyomiRomaji": "kuma",
+          "OnyomiKana": "ユウ",
+          "OnyomiRomaji": "yuu",
+          "Examples": [
+            {
+              "Kanji": "子熊",
+              "Furigana": "こぐま",
+              "Romaji": "koguma",
+              "Meaning": "Bear cub"
+            },
+            {
+              "Kanji": "熊本県",
+              "Furigana": "くまもとけん",
+              "Romaji": "kumamotoken",
+              "Meaning": "Kumamoto prefecture"
+            }
+          ]
+        },
+        {
+          "Kanji": "鹿",
+          "Meaning": "Deer",
+          "KunyomiKana": "しか",
+          "KunyomiRomaji": "shika",
+          "OnyomiKana": "ロク",
+          "OnyomiRomaji": "roku",
+          "Examples": [
+            {
+              "Kanji": "鹿肉",
+              "Furigana": "しかにく",
+              "Romaji": "shikaniku",
+              "Meaning": "Venison"
+            },
+            {
+              "Kanji": "子鹿",
+              "Furigana": "こじか",
+              "Romaji": "kojika",
+              "Meaning": "Fawn"
+            }
+          ]
+        },
+        {
+          "Kanji": "兎",
+          "Meaning": "Rabbit",
+          "KunyomiKana": "うさぎ",
+          "KunyomiRomaji": "usagi",
+          "OnyomiKana": "トン",
+          "OnyomiRomaji": "ton",
+          "Examples": [
+            {
+              "Kanji": "子兎",
+              "Furigana": "こうさぎ",
+              "Romaji": "kousagi",
+              "Meaning": "Baby rabbit"
+            },
+            {
+              "Kanji": "野兎",
+              "Furigana": "のうさぎ",
+              "Romaji": "nousagi",
+              "Meaning": "Wild rabbit"
+            }
+          ]
+        },
+        {
+          "Kanji": "狐",
+          "Meaning": "Fox",
+          "KunyomiKana": "きつね",
+          "KunyomiRomaji": "kitsune",
+          "OnyomiKana": "コ",
+          "OnyomiRomaji": "ko",
+          "Examples": [
+            {
+              "Kanji": "子狐",
+              "Furigana": "こぎつね",
+              "Romaji": "kogitsune",
+              "Meaning": "Fox cub"
+            },
+            {
+              "Kanji": "狐火",
+              "Furigana": "きつねび",
+              "Romaji": "kitsunebi",
+              "Meaning": "Fox fire"
+            },
+            {
+              "Kanji": "狐面",
+              "Furigana": "きつねめん",
+              "Romaji": "kitsunemen",
+              "Meaning": "Fox mask"
+            }
+          ]
+        },
+        {
+          "Kanji": "象",
+          "Meaning": "Elephant",
+          "OnyomiKana": "ショウ, ゾウ",
+          "OnyomiRomaji": "shou, zou",
+          "Examples": [
+            {
+              "Kanji": "印象",
+              "Furigana": "いんしょう",
+              "Romaji": "inshou",
+              "Meaning": "Impression"
+            },
+            {
+              "Kanji": "象牙",
+              "Furigana": "ぞうげ",
+              "Romaji": "zouge",
+              "Meaning": "Ivory"
+            }
+          ]
+        },
+        {
+          "Kanji": "虎",
+          "Meaning": "Tiger",
+          "KunyomiKana": "とら",
+          "KunyomiRomaji": "tora",
+          "OnyomiKana": "コ",
+          "OnyomiRomaji": "ko",
+          "Examples": [
+            {
+              "Kanji": "虎柄",
+              "Furigana": "とらがら",
+              "Romaji": "toragara",
+              "Meaning": "Tiger pattern"
+            },
+            {
+              "Kanji": "白虎",
+              "Furigana": "びゃっこ",
+              "Romaji": "byakko",
+              "Meaning": "White tiger"
+            }
+          ]
+        },
+        {
+          "Kanji": "狼",
+          "Meaning": "Wolf",
+          "KunyomiKana": "おおかみ",
+          "KunyomiRomaji": "ookami",
+          "OnyomiKana": "ロウ",
+          "OnyomiRomaji": "rou",
+          "Examples": [
+            {
+              "Kanji": "一匹狼",
+              "Furigana": "いっぴきおおかみ",
+              "Romaji": "ippikiookami",
+              "Meaning": "Lone wolf"
+            },
+            {
+              "Kanji": "狼男",
+              "Furigana": "おおかみおとこ",
+              "Romaji": "ookamiotoko",
+              "Meaning": "Werewolf"
+            }
+          ]
+        },
+        {
+          "Kanji": "鼠",
+          "Meaning": "Mouse",
+          "KunyomiKana": "ねずみ",
+          "KunyomiRomaji": "nezumi",
+          "Examples": [
+            {
+              "Kanji": "子鼠",
+              "Furigana": "こねずみ",
+              "Romaji": "konezumi",
+              "Meaning": "Baby mouse"
+            },
+            {
+              "Kanji": "鼠色",
+              "Furigana": "ねずみいろ",
+              "Romaji": "nezumiiro",
+              "Meaning": "Gray"
+            }
+          ]
+        },
+        {
+          "Kanji": "亀",
+          "Meaning": "Turtle",
+          "KunyomiKana": "かめ",
+          "KunyomiRomaji": "kame",
+          "OnyomiKana": "キ",
+          "OnyomiRomaji": "ki",
+          "Examples": [
+            {
+              "Kanji": "子亀",
+              "Furigana": "こがめ",
+              "Romaji": "kogame",
+              "Meaning": "Baby turtle"
+            },
+            {
+              "Kanji": "海亀",
+              "Furigana": "うみがめ",
+              "Romaji": "umigame",
+              "Meaning": "Sea turtle"
+            }
+          ]
+        },
+        {
+          "Kanji": "蛙",
+          "Meaning": "Frog",
+          "KunyomiKana": "かえる",
+          "KunyomiRomaji": "kaeru",
+          "OnyomiKana": "ア",
+          "OnyomiRomaji": "a",
+          "Examples": [
+            {
+              "Kanji": "蛙の歌",
+              "Furigana": "かえるのうた",
+              "Romaji": "kaerunouta",
+              "Meaning": "Frog song"
+            }
+          ]
+        },
+        {
+          "Kanji": "鶏",
+          "Meaning": "Chicken",
+          "KunyomiKana": "にわとり, とり",
+          "KunyomiRomaji": "niwatori, tori",
+          "OnyomiKana": "ケイ",
+          "OnyomiRomaji": "kei",
+          "Examples": [
+            {
+              "Kanji": "鶏肉",
+              "Furigana": "とりにく",
+              "Romaji": "toriniku",
+              "Meaning": "Chicken meat"
+            },
+            {
+              "Kanji": "鶏卵",
+              "Furigana": "けいらん",
+              "Romaji": "keiran",
+              "Meaning": "Chicken egg"
+            }
+          ]
+        },
+        {
+          "Kanji": "鳩",
+          "Meaning": "Pigeon",
+          "KunyomiKana": "はと",
+          "KunyomiRomaji": "hato",
+          "OnyomiKana": "キュウ",
+          "OnyomiRomaji": "kyuu",
+          "Examples": [
+            {
+              "Kanji": "伝書鳩",
+              "Furigana": "でんしょばと",
+              "Romaji": "denshobato",
+              "Meaning": "Carrier pigeon"
+            },
+            {
+              "Kanji": "白鳩",
+              "Furigana": "しろばと",
+              "Romaji": "shirobato",
+              "Meaning": "White dove"
+            }
+          ]
+        },
+        {
+          "Kanji": "鯨",
+          "Meaning": "Whale",
+          "KunyomiKana": "くじら",
+          "KunyomiRomaji": "kujira",
+          "OnyomiKana": "ゲイ",
+          "OnyomiRomaji": "gei",
+          "Examples": [
+            {
+              "Kanji": "捕鯨",
+              "Furigana": "ほげい",
+              "Romaji": "hogei",
+              "Meaning": "Whaling"
+            }
+          ]
+        },
+        {
+          "Kanji": "鮫",
+          "Meaning": "Shark",
+          "KunyomiKana": "さめ",
+          "KunyomiRomaji": "same",
+          "OnyomiKana": "コウ",
+          "OnyomiRomaji": "kou",
+          "Examples": [
+            {
+              "Kanji": "鮫肌",
+              "Furigana": "さめはだ",
+              "Romaji": "samehada",
+              "Meaning": "Rough skin"
+            },
+            {
+              "Kanji": "人喰い鮫",
+              "Furigana": "ひとくいざめ",
+              "Romaji": "hitokuizame",
+              "Meaning": "Man-eating shark"
+            }
+          ]
+        },
+        {
+          "Kanji": "雀",
+          "Meaning": "Sparrow",
+          "KunyomiKana": "すずめ",
+          "KunyomiRomaji": "suzume",
+          "OnyomiKana": "ジャク",
+          "OnyomiRomaji": "jaku",
+          "Examples": [
+            {
+              "Kanji": "子雀",
+              "Furigana": "こすずめ",
+              "Romaji": "kosuzume",
+              "Meaning": "Baby sparrow"
             }
           ]
         }
@@ -438,8 +998,8 @@
           "Meaning": "Right",
           "KunyomiKana": "みぎ",
           "KunyomiRomaji": "migi",
-          "OnyomiKana": "ウ",
-          "OnyomiRomaji": "u",
+          "OnyomiKana": "ウ, ユウ",
+          "OnyomiRomaji": "u, yuu",
           "Examples": [
             {
               "Kanji": "右手",
@@ -486,6 +1046,12 @@
               "Furigana": "させつ",
               "Romaji": "sasetsu",
               "Meaning": "Left turn"
+            },
+            {
+              "Kanji": "左右",
+              "Furigana": "さゆう",
+              "Romaji": "sayuu",
+              "Meaning": "Left right"
             }
           ]
         },
@@ -514,6 +1080,12 @@
               "Furigana": "じょうかい",
               "Romaji": "joukai",
               "Meaning": "Upper floor"
+            },
+            {
+              "Kanji": "上下",
+              "Furigana": "じょうげ",
+              "Romaji": "jouge",
+              "Meaning": "Up down"
             }
           ]
         },
