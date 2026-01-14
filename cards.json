@@ -6,6 +6,7 @@
         {
           "Kanji": "一",
           "Meaning": "One",
+          "CardId": 1,
           "KunyomiKana": "ひ",
           "KunyomiRomaji": "hi",
           "OnyomiKana": "いち",
@@ -34,6 +35,7 @@
         {
           "Kanji": "二",
           "Meaning": "Two",
+          "CardId": 2,
           "KunyomiKana": "ふ",
           "KunyomiRomaji": "fu",
           "OnyomiKana": "に",
@@ -62,6 +64,7 @@
         {
           "Kanji": "三",
           "Meaning": "Number three",
+          "CardId": 3,
           "KunyomiKana": "み",
           "KunyomiRomaji": "mi",
           "OnyomiKana": "さん",
@@ -90,6 +93,7 @@
         {
           "Kanji": "四",
           "Meaning": "Number four",
+          "CardId": 4,
           "KunyomiKana": "よ",
           "KunyomiRomaji": "yo",
           "OnyomiKana": "し, よん",
@@ -118,6 +122,7 @@
         {
           "Kanji": "五",
           "Meaning": "Number five",
+          "CardId": 5,
           "KunyomiKana": "いつ",
           "KunyomiRomaji": "itsu",
           "OnyomiKana": "ご",
@@ -146,6 +151,7 @@
         {
           "Kanji": "六",
           "Meaning": "Six",
+          "CardId": 6,
           "KunyomiKana": "む",
           "KunyomiRomaji": "mu",
           "OnyomiKana": "ろく",
@@ -174,6 +180,7 @@
         {
           "Kanji": "七",
           "Meaning": "Seven",
+          "CardId": 7,
           "KunyomiKana": "なな",
           "KunyomiRomaji": "nana",
           "OnyomiKana": "しち, なな",
@@ -202,6 +209,7 @@
         {
           "Kanji": "八",
           "Meaning": "Eight",
+          "CardId": 8,
           "KunyomiKana": "や",
           "KunyomiRomaji": "ya",
           "OnyomiKana": "はち",
@@ -230,6 +238,7 @@
         {
           "Kanji": "九",
           "Meaning": "Nine",
+          "CardId": 9,
           "KunyomiKana": "ここの",
           "KunyomiRomaji": "kokono",
           "OnyomiKana": "く, きゅう",
@@ -258,6 +267,7 @@
         {
           "Kanji": "十",
           "Meaning": "Ten",
+          "CardId": 10,
           "KunyomiKana": "とお",
           "KunyomiRomaji": "too",
           "OnyomiKana": "じゅう",
@@ -291,6 +301,7 @@
         {
           "Kanji": "猫",
           "Meaning": "Cat",
+          "CardId": 11,
           "KunyomiKana": "ねこ",
           "KunyomiRomaji": "neko",
           "OnyomiKana": "ビョウ",
@@ -319,6 +330,7 @@
         {
           "Kanji": "犬",
           "Meaning": "Dog",
+          "CardId": 12,
           "KunyomiKana": "いぬ",
           "KunyomiRomaji": "inu",
           "OnyomiKana": "ケン",
@@ -347,6 +359,7 @@
         {
           "Kanji": "鳥",
           "Meaning": "Bird",
+          "CardId": 13,
           "KunyomiKana": "とり",
           "KunyomiRomaji": "tori",
           "OnyomiKana": "チョウ",
@@ -375,6 +388,7 @@
         {
           "Kanji": "魚",
           "Meaning": "Fish",
+          "CardId": 14,
           "KunyomiKana": "さかな",
           "KunyomiRomaji": "sakana",
           "OnyomiKana": "ギョ",
@@ -403,6 +417,7 @@
         {
           "Kanji": "馬",
           "Meaning": "Horse",
+          "CardId": 15,
           "KunyomiKana": "うま",
           "KunyomiRomaji": "uma",
           "OnyomiKana": "バ",
@@ -431,6 +446,7 @@
         {
           "Kanji": "牛",
           "Meaning": "Cow",
+          "CardId": 16,
           "KunyomiKana": "うし",
           "KunyomiRomaji": "ushi",
           "OnyomiKana": "ギュウ",
@@ -459,6 +475,7 @@
         {
           "Kanji": "豚",
           "Meaning": "Pig",
+          "CardId": 17,
           "KunyomiKana": "ぶた",
           "KunyomiRomaji": "buta",
           "OnyomiKana": "トン",
@@ -487,6 +504,7 @@
         {
           "Kanji": "羊",
           "Meaning": "Sheep",
+          "CardId": 18,
           "KunyomiKana": "ひつじ",
           "KunyomiRomaji": "hitsuji",
           "OnyomiKana": "ヨウ",
@@ -515,6 +533,7 @@
         {
           "Kanji": "猿",
           "Meaning": "Monkey",
+          "CardId": 19,
           "KunyomiKana": "さる",
           "KunyomiRomaji": "saru",
           "OnyomiKana": "エン",
@@ -537,6 +556,7 @@
         {
           "Kanji": "熊",
           "Meaning": "Bear",
+          "CardId": 20,
           "KunyomiKana": "くま",
           "KunyomiRomaji": "kuma",
           "OnyomiKana": "ユウ",
@@ -559,6 +579,7 @@
         {
           "Kanji": "鹿",
           "Meaning": "Deer",
+          "CardId": 21,
           "KunyomiKana": "しか",
           "KunyomiRomaji": "shika",
           "OnyomiKana": "ロク",
@@ -581,6 +602,7 @@
         {
           "Kanji": "兎",
           "Meaning": "Rabbit",
+          "CardId": 22,
           "KunyomiKana": "うさぎ",
           "KunyomiRomaji": "usagi",
           "OnyomiKana": "トン",
@@ -603,6 +625,7 @@
         {
           "Kanji": "狐",
           "Meaning": "Fox",
+          "CardId": 23,
           "KunyomiKana": "きつね",
           "KunyomiRomaji": "kitsune",
           "OnyomiKana": "コ",
@@ -631,6 +654,7 @@
         {
           "Kanji": "象",
           "Meaning": "Elephant",
+          "CardId": 24,
           "OnyomiKana": "ショウ, ゾウ",
           "OnyomiRomaji": "shou, zou",
           "Examples": [
@@ -651,6 +675,7 @@
         {
           "Kanji": "虎",
           "Meaning": "Tiger",
+          "CardId": 25,
           "KunyomiKana": "とら",
           "KunyomiRomaji": "tora",
           "OnyomiKana": "コ",
@@ -673,6 +698,7 @@
         {
           "Kanji": "狼",
           "Meaning": "Wolf",
+          "CardId": 26,
           "KunyomiKana": "おおかみ",
           "KunyomiRomaji": "ookami",
           "OnyomiKana": "ロウ",
@@ -695,6 +721,7 @@
         {
           "Kanji": "鼠",
           "Meaning": "Mouse",
+          "CardId": 27,
           "KunyomiKana": "ねずみ",
           "KunyomiRomaji": "nezumi",
           "Examples": [
@@ -715,6 +742,7 @@
         {
           "Kanji": "亀",
           "Meaning": "Turtle",
+          "CardId": 28,
           "KunyomiKana": "かめ",
           "KunyomiRomaji": "kame",
           "OnyomiKana": "キ",
@@ -737,6 +765,7 @@
         {
           "Kanji": "蛙",
           "Meaning": "Frog",
+          "CardId": 29,
           "KunyomiKana": "かえる",
           "KunyomiRomaji": "kaeru",
           "OnyomiKana": "ア",
@@ -753,6 +782,7 @@
         {
           "Kanji": "鶏",
           "Meaning": "Chicken",
+          "CardId": 30,
           "KunyomiKana": "にわとり, とり",
           "KunyomiRomaji": "niwatori, tori",
           "OnyomiKana": "ケイ",
@@ -775,6 +805,7 @@
         {
           "Kanji": "鳩",
           "Meaning": "Pigeon",
+          "CardId": 31,
           "KunyomiKana": "はと",
           "KunyomiRomaji": "hato",
           "OnyomiKana": "キュウ",
@@ -797,6 +828,7 @@
         {
           "Kanji": "鯨",
           "Meaning": "Whale",
+          "CardId": 32,
           "KunyomiKana": "くじら",
           "KunyomiRomaji": "kujira",
           "OnyomiKana": "ゲイ",
@@ -813,6 +845,7 @@
         {
           "Kanji": "鮫",
           "Meaning": "Shark",
+          "CardId": 33,
           "KunyomiKana": "さめ",
           "KunyomiRomaji": "same",
           "OnyomiKana": "コウ",
@@ -835,6 +868,7 @@
         {
           "Kanji": "雀",
           "Meaning": "Sparrow",
+          "CardId": 34,
           "KunyomiKana": "すずめ",
           "KunyomiRomaji": "suzume",
           "OnyomiKana": "ジャク",
@@ -856,6 +890,7 @@
         {
           "Kanji": "北",
           "Meaning": "North",
+          "CardId": 35,
           "KunyomiKana": "きた",
           "KunyomiRomaji": "kita",
           "OnyomiKana": "ホク",
@@ -884,6 +919,7 @@
         {
           "Kanji": "南",
           "Meaning": "South",
+          "CardId": 36,
           "KunyomiKana": "みなみ",
           "KunyomiRomaji": "minami",
           "OnyomiKana": "ナン",
@@ -912,6 +948,7 @@
         {
           "Kanji": "東",
           "Meaning": "East",
+          "CardId": 37,
           "KunyomiKana": "ひがし",
           "KunyomiRomaji": "higashi",
           "OnyomiKana": "トウ",
@@ -940,6 +977,7 @@
         {
           "Kanji": "西",
           "Meaning": "West",
+          "CardId": 38,
           "KunyomiKana": "にし",
           "KunyomiRomaji": "nishi",
           "OnyomiKana": "セイ, サイ",
@@ -968,6 +1006,7 @@
         {
           "Kanji": "中",
           "Meaning": "Center, Inside",
+          "CardId": 39,
           "KunyomiKana": "なか",
           "KunyomiRomaji": "naka",
           "OnyomiKana": "チュウ",
@@ -996,6 +1035,7 @@
         {
           "Kanji": "右",
           "Meaning": "Right",
+          "CardId": 40,
           "KunyomiKana": "みぎ",
           "KunyomiRomaji": "migi",
           "OnyomiKana": "ウ, ユウ",
@@ -1024,6 +1064,7 @@
         {
           "Kanji": "左",
           "Meaning": "Left",
+          "CardId": 41,
           "KunyomiKana": "ひだり",
           "KunyomiRomaji": "hidari",
           "OnyomiKana": "サ",
@@ -1058,6 +1099,7 @@
         {
           "Kanji": "上",
           "Meaning": "Up",
+          "CardId": 42,
           "KunyomiKana": "うえ",
           "KunyomiRomaji": "ue",
           "OnyomiKana": "ジョウ",
@@ -1092,6 +1134,7 @@
         {
           "Kanji": "下",
           "Meaning": "Down",
+          "CardId": 43,
           "KunyomiKana": "した",
           "KunyomiRomaji": "shita",
           "OnyomiKana": "カ, ゲ",
@@ -1125,6 +1168,7 @@
         {
           "Kanji": "木",
           "Meaning": "Tree",
+          "CardId": 44,
           "KunyomiKana": "き",
           "KunyomiRomaji": "ki",
           "OnyomiKana": "モク, ボク",
@@ -1153,6 +1197,7 @@
         {
           "Kanji": "水",
           "Meaning": "Water",
+          "CardId": 45,
           "KunyomiKana": "みず",
           "KunyomiRomaji": "mizu",
           "OnyomiKana": "スイ",
@@ -1181,6 +1226,7 @@
         {
           "Kanji": "火",
           "Meaning": "Fire",
+          "CardId": 46,
           "KunyomiKana": "ひ",
           "KunyomiRomaji": "hi",
           "OnyomiKana": "カ",
@@ -1209,6 +1255,7 @@
         {
           "Kanji": "山",
           "Meaning": "Mountain",
+          "CardId": 47,
           "KunyomiKana": "やま",
           "KunyomiRomaji": "yama",
           "OnyomiKana": "サン",
@@ -1237,6 +1284,7 @@
         {
           "Kanji": "風",
           "Meaning": "Wind",
+          "CardId": 48,
           "KunyomiKana": "かぜ",
           "KunyomiRomaji": "kaze",
           "OnyomiKana": "フウ",
