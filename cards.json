@@ -1,6 +1,2090 @@
 {
   "Topics": [
     {
+      "Topic": "Verbs",
+      "Cards": [
+        {
+          "Kanji": "行く",
+          "Meaning": "to go",
+          "CardId": 49,
+          "KunyomiKana": "いく",
+          "KunyomiRomaji": "iku",
+          "Examples": [
+            {
+              "Kanji": "行った",
+              "Furigana": "いった",
+              "Romaji": "itta",
+              "Meaning": "went"
+            },
+            {
+              "Kanji": "行きます",
+              "Furigana": "いきます",
+              "Romaji": "ikimasu",
+              "Meaning": "to go"
+            }
+          ]
+        },
+        {
+          "Kanji": "来る",
+          "Meaning": "to come",
+          "CardId": 50,
+          "KunyomiKana": "くる",
+          "KunyomiRomaji": "kuru",
+          "Examples": [
+            {
+              "Kanji": "来た",
+              "Furigana": "きた",
+              "Romaji": "kita",
+              "Meaning": "came"
+            },
+            {
+              "Kanji": "来ます",
+              "Furigana": "きます",
+              "Romaji": "kimasu",
+              "Meaning": "to come"
+            }
+          ]
+        },
+        {
+          "Kanji": "帰る",
+          "Meaning": "to return / go home",
+          "CardId": 51,
+          "KunyomiKana": "かえる",
+          "KunyomiRomaji": "kaeru",
+          "Examples": [
+            {
+              "Kanji": "帰った",
+              "Furigana": "かえった",
+              "Romaji": "kaetta",
+              "Meaning": "returned / went home"
+            },
+            {
+              "Kanji": "帰ります",
+              "Furigana": "かえります",
+              "Romaji": "kaerimasu",
+              "Meaning": "to return / go home"
+            }
+          ]
+        },
+        {
+          "Kanji": "する",
+          "Meaning": "to do",
+          "CardId": 52,
+          "KunyomiKana": "する",
+          "KunyomiRomaji": "suru",
+          "Examples": [
+            {
+              "Kanji": "した",
+              "Furigana": "した",
+              "Romaji": "shita",
+              "Meaning": "did"
+            },
+            {
+              "Kanji": "します",
+              "Furigana": "します",
+              "Romaji": "shimasu",
+              "Meaning": "to do"
+            }
+          ]
+        },
+        {
+          "Kanji": "なる",
+          "Meaning": "to become",
+          "CardId": 53,
+          "KunyomiKana": "なる",
+          "KunyomiRomaji": "naru",
+          "Examples": [
+            {
+              "Kanji": "なった",
+              "Furigana": "なった",
+              "Romaji": "natta",
+              "Meaning": "became"
+            },
+            {
+              "Kanji": "なります",
+              "Furigana": "なります",
+              "Romaji": "narimasu",
+              "Meaning": "to become"
+            }
+          ]
+        },
+        {
+          "Kanji": "ある",
+          "Meaning": "to exist (inanimate)",
+          "CardId": 54,
+          "KunyomiKana": "ある",
+          "KunyomiRomaji": "aru",
+          "Examples": [
+            {
+              "Kanji": "あった",
+              "Furigana": "あった",
+              "Romaji": "atta",
+              "Meaning": "existed (inanimate)"
+            },
+            {
+              "Kanji": "あります",
+              "Furigana": "あります",
+              "Romaji": "arimasu",
+              "Meaning": "to exist (inanimate)"
+            }
+          ]
+        },
+        {
+          "Kanji": "いる",
+          "Meaning": "to exist (animate)",
+          "CardId": 55,
+          "KunyomiKana": "いる",
+          "KunyomiRomaji": "iru",
+          "Examples": [
+            {
+              "Kanji": "いた",
+              "Furigana": "いた",
+              "Romaji": "ita",
+              "Meaning": "existed (animate)"
+            },
+            {
+              "Kanji": "います",
+              "Furigana": "います",
+              "Romaji": "imasu",
+              "Meaning": "to exist (animate)"
+            }
+          ]
+        },
+        {
+          "Kanji": "見る",
+          "Meaning": "to see / look",
+          "CardId": 56,
+          "KunyomiKana": "みる",
+          "KunyomiRomaji": "miru",
+          "Examples": [
+            {
+              "Kanji": "見た",
+              "Furigana": "みた",
+              "Romaji": "mita",
+              "Meaning": "saw / looked"
+            },
+            {
+              "Kanji": "見ます",
+              "Furigana": "みます",
+              "Romaji": "mimasu",
+              "Meaning": "to see / look"
+            }
+          ]
+        },
+        {
+          "Kanji": "聞く",
+          "Meaning": "to hear / listen",
+          "CardId": 57,
+          "KunyomiKana": "きく",
+          "KunyomiRomaji": "kiku",
+          "Examples": [
+            {
+              "Kanji": "聞いた",
+              "Furigana": "きいた",
+              "Romaji": "kiita",
+              "Meaning": "heard / listened"
+            },
+            {
+              "Kanji": "聞きます",
+              "Furigana": "ききます",
+              "Romaji": "kikimasu",
+              "Meaning": "to hear / listen"
+            }
+          ]
+        },
+        {
+          "Kanji": "言う",
+          "Meaning": "to say",
+          "CardId": 58,
+          "KunyomiKana": "いう",
+          "KunyomiRomaji": "iu",
+          "Examples": [
+            {
+              "Kanji": "言った",
+              "Furigana": "いった",
+              "Romaji": "itta",
+              "Meaning": "said"
+            },
+            {
+              "Kanji": "言います",
+              "Furigana": "いいます",
+              "Romaji": "iimasu",
+              "Meaning": "to say"
+            }
+          ]
+        },
+        {
+          "Kanji": "食べる",
+          "Meaning": "to eat",
+          "CardId": 59,
+          "KunyomiKana": "たべる",
+          "KunyomiRomaji": "taberu",
+          "Examples": [
+            {
+              "Kanji": "食べた",
+              "Furigana": "たべた",
+              "Romaji": "tabeta",
+              "Meaning": "ate"
+            },
+            {
+              "Kanji": "食べます",
+              "Furigana": "たべます",
+              "Romaji": "tabemasu",
+              "Meaning": "to eat"
+            }
+          ]
+        },
+        {
+          "Kanji": "飲む",
+          "Meaning": "to drink",
+          "CardId": 60,
+          "KunyomiKana": "のむ",
+          "KunyomiRomaji": "nomu",
+          "Examples": [
+            {
+              "Kanji": "飲んだ",
+              "Furigana": "のんだ",
+              "Romaji": "nonda",
+              "Meaning": "drank"
+            },
+            {
+              "Kanji": "飲みます",
+              "Furigana": "のみます",
+              "Romaji": "nomimasu",
+              "Meaning": "to drink"
+            }
+          ]
+        },
+        {
+          "Kanji": "寝る",
+          "Meaning": "to sleep",
+          "CardId": 61,
+          "KunyomiKana": "ねる",
+          "KunyomiRomaji": "neru",
+          "Examples": [
+            {
+              "Kanji": "寝た",
+              "Furigana": "ねた",
+              "Romaji": "neta",
+              "Meaning": "slept"
+            },
+            {
+              "Kanji": "寝ます",
+              "Furigana": "ねます",
+              "Romaji": "nemasu",
+              "Meaning": "to sleep"
+            }
+          ]
+        },
+        {
+          "Kanji": "起きる",
+          "Meaning": "to wake up",
+          "CardId": 62,
+          "KunyomiKana": "おきる",
+          "KunyomiRomaji": "okiru",
+          "Examples": [
+            {
+              "Kanji": "起きた",
+              "Furigana": "おきた",
+              "Romaji": "okita",
+              "Meaning": "woke up"
+            },
+            {
+              "Kanji": "起きます",
+              "Furigana": "おきます",
+              "Romaji": "okimasu",
+              "Meaning": "to wake up"
+            }
+          ]
+        },
+        {
+          "Kanji": "休む",
+          "Meaning": "to rest",
+          "CardId": 63,
+          "KunyomiKana": "やすむ",
+          "KunyomiRomaji": "yasumu",
+          "Examples": [
+            {
+              "Kanji": "休んだ",
+              "Furigana": "やすんだ",
+              "Romaji": "yasunda",
+              "Meaning": "rested"
+            },
+            {
+              "Kanji": "休みます",
+              "Furigana": "やすみます",
+              "Romaji": "yasumimasu",
+              "Meaning": "to rest"
+            }
+          ]
+        },
+        {
+          "Kanji": "働く",
+          "Meaning": "to work",
+          "CardId": 64,
+          "KunyomiKana": "はたらく",
+          "KunyomiRomaji": "hataraku",
+          "Examples": [
+            {
+              "Kanji": "働いた",
+              "Furigana": "はたらいた",
+              "Romaji": "hataraita",
+              "Meaning": "worked"
+            },
+            {
+              "Kanji": "働きます",
+              "Furigana": "はたらきます",
+              "Romaji": "hatarakimasu",
+              "Meaning": "to work"
+            }
+          ]
+        },
+        {
+          "Kanji": "勉強する",
+          "Meaning": "to study",
+          "CardId": 65,
+          "KunyomiKana": "べんきょうする",
+          "KunyomiRomaji": "benkyou suru",
+          "Examples": [
+            {
+              "Kanji": "勉強した",
+              "Furigana": "べんきょうした",
+              "Romaji": "benkyou shita",
+              "Meaning": "studied"
+            },
+            {
+              "Kanji": "勉強します",
+              "Furigana": "べんきょうします",
+              "Romaji": "benkyou shimasu",
+              "Meaning": "to study"
+            }
+          ]
+        },
+        {
+          "Kanji": "洗う",
+          "Meaning": "to wash",
+          "CardId": 66,
+          "KunyomiKana": "あらう",
+          "KunyomiRomaji": "arau",
+          "Examples": [
+            {
+              "Kanji": "洗った",
+              "Furigana": "あらった",
+              "Romaji": "aratta",
+              "Meaning": "washed"
+            },
+            {
+              "Kanji": "洗います",
+              "Furigana": "あらいます",
+              "Romaji": "araimasu",
+              "Meaning": "to wash"
+            }
+          ]
+        },
+        {
+          "Kanji": "使う",
+          "Meaning": "to use",
+          "CardId": 67,
+          "KunyomiKana": "つかう",
+          "KunyomiRomaji": "tsukau",
+          "Examples": [
+            {
+              "Kanji": "使った",
+              "Furigana": "つかった",
+              "Romaji": "tsukatta",
+              "Meaning": "used"
+            },
+            {
+              "Kanji": "使います",
+              "Furigana": "つかいます",
+              "Romaji": "tsukaimasu",
+              "Meaning": "to use"
+            }
+          ]
+        },
+        {
+          "Kanji": "持つ",
+          "Meaning": "to have / hold",
+          "CardId": 68,
+          "KunyomiKana": "もつ",
+          "KunyomiRomaji": "motsu",
+          "Examples": [
+            {
+              "Kanji": "持った",
+              "Furigana": "もった",
+              "Romaji": "motta",
+              "Meaning": "held / had"
+            },
+            {
+              "Kanji": "持ちます",
+              "Furigana": "もちます",
+              "Romaji": "mochimasu",
+              "Meaning": "to hold / have"
+            }
+          ]
+        },
+        {
+          "Kanji": "歩く",
+          "Meaning": "to walk",
+          "CardId": 69,
+          "KunyomiKana": "あるく",
+          "KunyomiRomaji": "aruku",
+          "Examples": [
+            {
+              "Kanji": "歩いた",
+              "Furigana": "あるいた",
+              "Romaji": "aruita",
+              "Meaning": "walked"
+            },
+            {
+              "Kanji": "歩きます",
+              "Furigana": "あるきます",
+              "Romaji": "arukimasu",
+              "Meaning": "to walk"
+            }
+          ]
+        },
+        {
+          "Kanji": "走る",
+          "Meaning": "to run",
+          "CardId": 70,
+          "KunyomiKana": "はしる",
+          "KunyomiRomaji": "hashiru",
+          "Examples": [
+            {
+              "Kanji": "走った",
+              "Furigana": "はしった",
+              "Romaji": "hashitta",
+              "Meaning": "ran"
+            },
+            {
+              "Kanji": "走ります",
+              "Furigana": "はしります",
+              "Romaji": "hashirimasu",
+              "Meaning": "to run"
+            }
+          ]
+        },
+        {
+          "Kanji": "入る",
+          "Meaning": "to enter",
+          "CardId": 71,
+          "KunyomiKana": "はいる",
+          "KunyomiRomaji": "hairu",
+          "Examples": [
+            {
+              "Kanji": "入った",
+              "Furigana": "はいった",
+              "Romaji": "haitta",
+              "Meaning": "entered"
+            },
+            {
+              "Kanji": "入ります",
+              "Furigana": "はいります",
+              "Romaji": "hairimasu",
+              "Meaning": "to enter"
+            }
+          ]
+        },
+        {
+          "Kanji": "出る",
+          "Meaning": "to exit",
+          "CardId": 72,
+          "KunyomiKana": "でる",
+          "KunyomiRomaji": "deru",
+          "Examples": [
+            {
+              "Kanji": "出た",
+              "Furigana": "でた",
+              "Romaji": "deta",
+              "Meaning": "left / exited"
+            },
+            {
+              "Kanji": "出ます",
+              "Furigana": "でます",
+              "Romaji": "demasu",
+              "Meaning": "to leave / exit"
+            }
+          ]
+        },
+        {
+          "Kanji": "座る",
+          "Meaning": "to sit",
+          "CardId": 73,
+          "KunyomiKana": "すわる",
+          "KunyomiRomaji": "suwaru",
+          "Examples": [
+            {
+              "Kanji": "座った",
+              "Furigana": "すわった",
+              "Romaji": "suwatta",
+              "Meaning": "sat"
+            },
+            {
+              "Kanji": "座ります",
+              "Furigana": "すわります",
+              "Romaji": "suwarimasu",
+              "Meaning": "to sit"
+            }
+          ]
+        },
+        {
+          "Kanji": "立つ",
+          "Meaning": "to stand",
+          "CardId": 74,
+          "KunyomiKana": "たつ",
+          "KunyomiRomaji": "tatsu",
+          "Examples": [
+            {
+              "Kanji": "立った",
+              "Furigana": "たった",
+              "Romaji": "tatta",
+              "Meaning": "stood"
+            },
+            {
+              "Kanji": "立ちます",
+              "Furigana": "たちます",
+              "Romaji": "tachimasu",
+              "Meaning": "to stand"
+            }
+          ]
+        },
+        {
+          "Kanji": "止まる",
+          "Meaning": "to stop",
+          "CardId": 75,
+          "KunyomiKana": "とまる",
+          "KunyomiRomaji": "tomaru",
+          "Examples": [
+            {
+              "Kanji": "止まった",
+              "Furigana": "とまった",
+              "Romaji": "tomatta",
+              "Meaning": "stopped"
+            },
+            {
+              "Kanji": "止まります",
+              "Furigana": "とまります",
+              "Romaji": "tomarimasu",
+              "Meaning": "to stop"
+            }
+          ]
+        },
+        {
+          "Kanji": "泳ぐ",
+          "Meaning": "to swim",
+          "CardId": 76,
+          "KunyomiKana": "およぐ",
+          "KunyomiRomaji": "oyogu",
+          "Examples": [
+            {
+              "Kanji": "泳いだ",
+              "Furigana": "およいだ",
+              "Romaji": "oyoida",
+              "Meaning": "swam"
+            },
+            {
+              "Kanji": "泳ぎます",
+              "Furigana": "およぎます",
+              "Romaji": "oyogimasu",
+              "Meaning": "to swim"
+            }
+          ]
+        },
+        {
+          "Kanji": "飛ぶ",
+          "Meaning": "to fly",
+          "CardId": 77,
+          "KunyomiKana": "とぶ",
+          "KunyomiRomaji": "tobu",
+          "Examples": [
+            {
+              "Kanji": "飛んだ",
+              "Furigana": "とんだ",
+              "Romaji": "tonda",
+              "Meaning": "flew"
+            },
+            {
+              "Kanji": "飛びます",
+              "Furigana": "とびます",
+              "Romaji": "tobimasu",
+              "Meaning": "to fly"
+            }
+          ]
+        },
+        {
+          "Kanji": "登る",
+          "Meaning": "to climb",
+          "CardId": 78,
+          "KunyomiKana": "のぼる",
+          "KunyomiRomaji": "noboru",
+          "Examples": [
+            {
+              "Kanji": "登った",
+              "Furigana": "のぼった",
+              "Romaji": "nobotta",
+              "Meaning": "climbed"
+            },
+            {
+              "Kanji": "登ります",
+              "Furigana": "のぼります",
+              "Romaji": "noborimasu",
+              "Meaning": "to climb"
+            }
+          ]
+        },
+        {
+          "Kanji": "話す",
+          "Meaning": "to speak / talk",
+          "CardId": 79,
+          "KunyomiKana": "はなす",
+          "KunyomiRomaji": "hanasu",
+          "Examples": [
+            {
+              "Kanji": "話した",
+              "Furigana": "はなした",
+              "Romaji": "hanashita",
+              "Meaning": "spoke / talked"
+            },
+            {
+              "Kanji": "話します",
+              "Furigana": "はなします",
+              "Romaji": "hanashimasu",
+              "Meaning": "to speak / talk"
+            }
+          ]
+        },
+        {
+          "Kanji": "教える",
+          "Meaning": "to teach",
+          "CardId": 80,
+          "KunyomiKana": "おしえる",
+          "KunyomiRomaji": "oshieru",
+          "Examples": [
+            {
+              "Kanji": "教えた",
+              "Furigana": "おしえた",
+              "Romaji": "oshieta",
+              "Meaning": "taught"
+            },
+            {
+              "Kanji": "教えます",
+              "Furigana": "おしえます",
+              "Romaji": "oshieimasu",
+              "Meaning": "to teach"
+            }
+          ]
+        },
+        {
+          "Kanji": "聞く",
+          "Meaning": "to listen",
+          "CardId": 57,
+          "KunyomiKana": "きく",
+          "KunyomiRomaji": "kiku",
+          "Examples": [
+            {
+              "Kanji": "聞いた",
+              "Furigana": "きいた",
+              "Romaji": "kiita",
+              "Meaning": "listened"
+            },
+            {
+              "Kanji": "聞きます",
+              "Furigana": "ききます",
+              "Romaji": "kikimasu",
+              "Meaning": "to listen"
+            }
+          ]
+        },
+        {
+          "Kanji": "答える",
+          "Meaning": "to answer",
+          "CardId": 81,
+          "KunyomiKana": "こたえる",
+          "KunyomiRomaji": "kotaeru",
+          "Examples": [
+            {
+              "Kanji": "答えた",
+              "Furigana": "こたえた",
+              "Romaji": "kotaeta",
+              "Meaning": "answered"
+            },
+            {
+              "Kanji": "答えます",
+              "Furigana": "こたえます",
+              "Romaji": "kotaemasu",
+              "Meaning": "to answer"
+            }
+          ]
+        },
+        {
+          "Kanji": "呼ぶ",
+          "Meaning": "to call",
+          "CardId": 82,
+          "KunyomiKana": "よぶ",
+          "KunyomiRomaji": "yobu",
+          "Examples": [
+            {
+              "Kanji": "呼んだ",
+              "Furigana": "よんだ",
+              "Romaji": "yonda",
+              "Meaning": "called"
+            },
+            {
+              "Kanji": "呼びます",
+              "Furigana": "よびます",
+              "Romaji": "yobimasu",
+              "Meaning": "to call"
+            }
+          ]
+        },
+        {
+          "Kanji": "伝える",
+          "Meaning": "to convey / tell",
+          "CardId": 83,
+          "KunyomiKana": "つたえる",
+          "KunyomiRomaji": "tsutaeru",
+          "Examples": [
+            {
+              "Kanji": "伝えた",
+              "Furigana": "つたえた",
+              "Romaji": "tsutaeta",
+              "Meaning": "conveyed / told"
+            },
+            {
+              "Kanji": "伝えます",
+              "Furigana": "つたえます",
+              "Romaji": "tsutaemasu",
+              "Meaning": "to convey / tell"
+            }
+          ]
+        },
+        {
+          "Kanji": "説明する",
+          "Meaning": "to explain",
+          "CardId": 84,
+          "KunyomiKana": "せつめいする",
+          "KunyomiRomaji": "setsumei suru",
+          "Examples": [
+            {
+              "Kanji": "説明した",
+              "Furigana": "せつめいした",
+              "Romaji": "setsumei shita",
+              "Meaning": "explained"
+            },
+            {
+              "Kanji": "説明します",
+              "Furigana": "せつめいします",
+              "Romaji": "setsumei shimasu",
+              "Meaning": "to explain"
+            }
+          ]
+        },
+        {
+          "Kanji": "質問する",
+          "Meaning": "to ask a question",
+          "CardId": 85,
+          "KunyomiKana": "しつもんする",
+          "KunyomiRomaji": "shitsumon suru",
+          "Examples": [
+            {
+              "Kanji": "質問した",
+              "Furigana": "しつもんした",
+              "Romaji": "shitsumon shita",
+              "Meaning": "asked a question"
+            },
+            {
+              "Kanji": "質問します",
+              "Furigana": "しつもんします",
+              "Romaji": "shitsumon shimasu",
+              "Meaning": "to ask a question"
+            }
+          ]
+        },
+        {
+          "Kanji": "約束する",
+          "Meaning": "to promise",
+          "CardId": 86,
+          "KunyomiKana": "やくそくする",
+          "KunyomiRomaji": "yakusoku suru",
+          "Examples": [
+            {
+              "Kanji": "約束した",
+              "Furigana": "やくそくした",
+              "Romaji": "yakusoku shita",
+              "Meaning": "promised"
+            },
+            {
+              "Kanji": "約束します",
+              "Furigana": "やくそくします",
+              "Romaji": "yakusoku shimasu",
+              "Meaning": "to promise"
+            }
+          ]
+        },
+        {
+          "Kanji": "相談する",
+          "Meaning": "to consult / discuss",
+          "CardId": 87,
+          "KunyomiKana": "そうだんする",
+          "KunyomiRomaji": "soudan suru",
+          "Examples": [
+            {
+              "Kanji": "相談した",
+              "Furigana": "そうだんした",
+              "Romaji": "soudan shita",
+              "Meaning": "consulted / discussed"
+            },
+            {
+              "Kanji": "相談します",
+              "Furigana": "そうだんします",
+              "Romaji": "soudan shimasu",
+              "Meaning": "to consult / discuss"
+            }
+          ]
+        },
+        {
+          "Kanji": "思う",
+          "Meaning": "to think",
+          "CardId": 88,
+          "KunyomiKana": "おもう",
+          "KunyomiRomaji": "omou",
+          "Examples": [
+            {
+              "Kanji": "思った",
+              "Furigana": "おもった",
+              "Romaji": "omotta",
+              "Meaning": "thought"
+            },
+            {
+              "Kanji": "思います",
+              "Furigana": "おもいます",
+              "Romaji": "omoimasu",
+              "Meaning": "to think"
+            }
+          ]
+        },
+        {
+          "Kanji": "知る",
+          "Meaning": "to know",
+          "CardId": 89,
+          "KunyomiKana": "しる",
+          "KunyomiRomaji": "shiru",
+          "Examples": [
+            {
+              "Kanji": "知った",
+              "Furigana": "しった",
+              "Romaji": "shitta",
+              "Meaning": "knew"
+            },
+            {
+              "Kanji": "知ります",
+              "Furigana": "しります",
+              "Romaji": "shirimasu",
+              "Meaning": "to know"
+            }
+          ]
+        },
+        {
+          "Kanji": "分かる",
+          "Meaning": "to understand",
+          "CardId": 90,
+          "KunyomiKana": "わかる",
+          "KunyomiRomaji": "wakaru",
+          "Examples": [
+            {
+              "Kanji": "分かった",
+              "Furigana": "わかった",
+              "Romaji": "wakatta",
+              "Meaning": "understood"
+            },
+            {
+              "Kanji": "分かります",
+              "Furigana": "わかります",
+              "Romaji": "wakarimasu",
+              "Meaning": "to understand"
+            }
+          ]
+        },
+        {
+          "Kanji": "忘れる",
+          "Meaning": "to forget",
+          "CardId": 91,
+          "KunyomiKana": "わすれる",
+          "KunyomiRomaji": "wasureru",
+          "Examples": [
+            {
+              "Kanji": "忘れた",
+              "Furigana": "わすれた",
+              "Romaji": "wasureta",
+              "Meaning": "forgot"
+            },
+            {
+              "Kanji": "忘れます",
+              "Furigana": "わすれます",
+              "Romaji": "wasuremasu",
+              "Meaning": "to forget"
+            }
+          ]
+        },
+        {
+          "Kanji": "覚える",
+          "Meaning": "to remember",
+          "CardId": 92,
+          "KunyomiKana": "おぼえる",
+          "KunyomiRomaji": "oboeru",
+          "Examples": [
+            {
+              "Kanji": "覚えた",
+              "Furigana": "おぼえた",
+              "Romaji": "oboeta",
+              "Meaning": "remembered"
+            },
+            {
+              "Kanji": "覚えます",
+              "Furigana": "おぼえます",
+              "Romaji": "oboemasu",
+              "Meaning": "to remember"
+            }
+          ]
+        },
+        {
+          "Kanji": "感じる",
+          "Meaning": "to feel",
+          "CardId": 93,
+          "KunyomiKana": "かんじる",
+          "KunyomiRomaji": "kanjiru",
+          "Examples": [
+            {
+              "Kanji": "感じた",
+              "Furigana": "かんじた",
+              "Romaji": "kanjita",
+              "Meaning": "felt"
+            },
+            {
+              "Kanji": "感じます",
+              "Furigana": "かんじます",
+              "Romaji": "kanjimasu",
+              "Meaning": "to feel"
+            }
+          ]
+        },
+        {
+          "Kanji": "信じる",
+          "Meaning": "to believe",
+          "CardId": 94,
+          "KunyomiKana": "しんじる",
+          "KunyomiRomaji": "shinjiru",
+          "Examples": [
+            {
+              "Kanji": "信じた",
+              "Furigana": "しんじた",
+              "Romaji": "shinjita",
+              "Meaning": "believed"
+            },
+            {
+              "Kanji": "信じます",
+              "Furigana": "しんじます",
+              "Romaji": "shinjimasu",
+              "Meaning": "to believe"
+            }
+          ]
+        },
+        {
+          "Kanji": "考える",
+          "Meaning": "to think / consider",
+          "CardId": 95,
+          "KunyomiKana": "かんがえる",
+          "KunyomiRomaji": "kangaeru",
+          "Examples": [
+            {
+              "Kanji": "考えた",
+              "Furigana": "かんがえた",
+              "Romaji": "kangaeta",
+              "Meaning": "considered"
+            },
+            {
+              "Kanji": "考えます",
+              "Furigana": "かんがえます",
+              "Romaji": "kangaemasu",
+              "Meaning": "to think / consider"
+            }
+          ]
+        },
+        {
+          "Kanji": "買う",
+          "Meaning": "to buy",
+          "CardId": 96,
+          "KunyomiKana": "かう",
+          "KunyomiRomaji": "kau",
+          "Examples": [
+            {
+              "Kanji": "買った",
+              "Furigana": "かった",
+              "Romaji": "katta",
+              "Meaning": "bought"
+            },
+            {
+              "Kanji": "買います",
+              "Furigana": "かいます",
+              "Romaji": "kaimasu",
+              "Meaning": "to buy"
+            }
+          ]
+        },
+        {
+          "Kanji": "売る",
+          "Meaning": "to sell",
+          "CardId": 97,
+          "KunyomiKana": "うる",
+          "KunyomiRomaji": "uru",
+          "Examples": [
+            {
+              "Kanji": "売った",
+              "Furigana": "うった",
+              "Romaji": "utta",
+              "Meaning": "sold"
+            },
+            {
+              "Kanji": "売ります",
+              "Furigana": "うります",
+              "Romaji": "urimasu",
+              "Meaning": "to sell"
+            }
+          ]
+        },
+        {
+          "Kanji": "作る",
+          "Meaning": "to make",
+          "CardId": 98,
+          "KunyomiKana": "つくる",
+          "KunyomiRomaji": "tsukuru",
+          "Examples": [
+            {
+              "Kanji": "作った",
+              "Furigana": "つくった",
+              "Romaji": "tsukutta",
+              "Meaning": "made"
+            },
+            {
+              "Kanji": "作ります",
+              "Furigana": "つくります",
+              "Romaji": "tsukurimasu",
+              "Meaning": "to make"
+            }
+          ]
+        },
+        {
+          "Kanji": "使う",
+          "Meaning": "to use",
+          "CardId": 67,
+          "KunyomiKana": "つかう",
+          "KunyomiRomaji": "tsukau",
+          "Examples": [
+            {
+              "Kanji": "使った",
+              "Furigana": "つかった",
+              "Romaji": "tsukatta",
+              "Meaning": "used"
+            },
+            {
+              "Kanji": "使います",
+              "Furigana": "つかいます",
+              "Romaji": "tsukaimasu",
+              "Meaning": "to use"
+            }
+          ]
+        },
+        {
+          "Kanji": "払う",
+          "Meaning": "to pay",
+          "CardId": 99,
+          "KunyomiKana": "はらう",
+          "KunyomiRomaji": "harau",
+          "Examples": [
+            {
+              "Kanji": "払った",
+              "Furigana": "はらった",
+              "Romaji": "haratta",
+              "Meaning": "paid"
+            },
+            {
+              "Kanji": "払います",
+              "Furigana": "はらいます",
+              "Romaji": "haraimasu",
+              "Meaning": "to pay"
+            }
+          ]
+        },
+        {
+          "Kanji": "もらう",
+          "Meaning": "to receive",
+          "CardId": 100,
+          "KunyomiKana": "もらう",
+          "KunyomiRomaji": "morau",
+          "Examples": [
+            {
+              "Kanji": "もらった",
+              "Furigana": "もらった",
+              "Romaji": "moratta",
+              "Meaning": "received"
+            },
+            {
+              "Kanji": "もらいます",
+              "Furigana": "もらいます",
+              "Romaji": "moraimasu",
+              "Meaning": "to receive"
+            }
+          ]
+        },
+        {
+          "Kanji": "あげる",
+          "Meaning": "to give",
+          "CardId": 101,
+          "KunyomiKana": "あげる",
+          "KunyomiRomaji": "ageru",
+          "Examples": [
+            {
+              "Kanji": "あげた",
+              "Furigana": "あげた",
+              "Romaji": "ageta",
+              "Meaning": "gave"
+            },
+            {
+              "Kanji": "あげます",
+              "Furigana": "あげます",
+              "Romaji": "agemasu",
+              "Meaning": "to give"
+            }
+          ]
+        },
+        {
+          "Kanji": "借りる",
+          "Meaning": "to borrow",
+          "CardId": 102,
+          "KunyomiKana": "かりる",
+          "KunyomiRomaji": "kariru",
+          "Examples": [
+            {
+              "Kanji": "借りた",
+              "Furigana": "かりた",
+              "Romaji": "karita",
+              "Meaning": "borrowed"
+            },
+            {
+              "Kanji": "借ります",
+              "Furigana": "かります",
+              "Romaji": "karimasu",
+              "Meaning": "to borrow"
+            }
+          ]
+        },
+        {
+          "Kanji": "貸す",
+          "Meaning": "to lend",
+          "CardId": 103,
+          "KunyomiKana": "かす",
+          "KunyomiRomaji": "kasu",
+          "Examples": [
+            {
+              "Kanji": "貸した",
+              "Furigana": "かした",
+              "Romaji": "kashita",
+              "Meaning": "lent"
+            },
+            {
+              "Kanji": "貸します",
+              "Furigana": "かします",
+              "Romaji": "kashimasu",
+              "Meaning": "to lend"
+            }
+          ]
+        },
+        {
+          "Kanji": "選ぶ",
+          "Meaning": "to choose",
+          "CardId": 104,
+          "KunyomiKana": "えらぶ",
+          "KunyomiRomaji": "erabu",
+          "Examples": [
+            {
+              "Kanji": "選んだ",
+              "Furigana": "えらんだ",
+              "Romaji": "eranda",
+              "Meaning": "chose"
+            },
+            {
+              "Kanji": "選びます",
+              "Furigana": "えらびます",
+              "Romaji": "erabimasu",
+              "Meaning": "to choose"
+            }
+          ]
+        },
+        {
+          "Kanji": "探す",
+          "Meaning": "to search for",
+          "CardId": 105,
+          "KunyomiKana": "さがす",
+          "KunyomiRomaji": "sagasu",
+          "Examples": [
+            {
+              "Kanji": "探した",
+              "Furigana": "さがした",
+              "Romaji": "sagashita",
+              "Meaning": "searched for"
+            },
+            {
+              "Kanji": "探します",
+              "Furigana": "さがします",
+              "Romaji": "sagashimasu",
+              "Meaning": "to search for"
+            }
+          ]
+        },
+        {
+          "Kanji": "住む",
+          "Meaning": "to live / reside",
+          "CardId": 106,
+          "KunyomiKana": "すむ",
+          "KunyomiRomaji": "sumu",
+          "Examples": [
+            {
+              "Kanji": "住んだ",
+              "Furigana": "すんだ",
+              "Romaji": "sunda",
+              "Meaning": "lived / resided"
+            },
+            {
+              "Kanji": "住みます",
+              "Furigana": "すみます",
+              "Romaji": "sumimasu",
+              "Meaning": "to live / reside"
+            }
+          ]
+        },
+        {
+          "Kanji": "開ける",
+          "Meaning": "to open",
+          "CardId": 107,
+          "KunyomiKana": "あける",
+          "KunyomiRomaji": "akeru",
+          "Examples": [
+            {
+              "Kanji": "開けた",
+              "Furigana": "あけた",
+              "Romaji": "aketa",
+              "Meaning": "opened"
+            },
+            {
+              "Kanji": "開けます",
+              "Furigana": "あけます",
+              "Romaji": "akemasu",
+              "Meaning": "to open"
+            }
+          ]
+        },
+        {
+          "Kanji": "閉める",
+          "Meaning": "to close",
+          "CardId": 108,
+          "KunyomiKana": "しめる",
+          "KunyomiRomaji": "shimeru",
+          "Examples": [
+            {
+              "Kanji": "閉めた",
+              "Furigana": "しめた",
+              "Romaji": "shimeta",
+              "Meaning": "closed"
+            },
+            {
+              "Kanji": "閉めます",
+              "Furigana": "しめます",
+              "Romaji": "shimemasu",
+              "Meaning": "to close"
+            }
+          ]
+        },
+        {
+          "Kanji": "入れる",
+          "Meaning": "to put in",
+          "CardId": 109,
+          "KunyomiKana": "いれる",
+          "KunyomiRomaji": "ireru",
+          "Examples": [
+            {
+              "Kanji": "入れた",
+              "Furigana": "いれた",
+              "Romaji": "ireta",
+              "Meaning": "put in"
+            },
+            {
+              "Kanji": "入れます",
+              "Furigana": "いれます",
+              "Romaji": "iremasu",
+              "Meaning": "to put in"
+            }
+          ]
+        },
+        {
+          "Kanji": "出す",
+          "Meaning": "to take out",
+          "CardId": 110,
+          "KunyomiKana": "だす",
+          "KunyomiRomaji": "dasu",
+          "Examples": [
+            {
+              "Kanji": "出した",
+              "Furigana": "だした",
+              "Romaji": "dashita",
+              "Meaning": "took out"
+            },
+            {
+              "Kanji": "出します",
+              "Furigana": "だします",
+              "Romaji": "dashimasu",
+              "Meaning": "to take out"
+            }
+          ]
+        },
+        {
+          "Kanji": "置く",
+          "Meaning": "to place",
+          "CardId": 111,
+          "KunyomiKana": "おく",
+          "KunyomiRomaji": "oku",
+          "Examples": [
+            {
+              "Kanji": "置いた",
+              "Furigana": "おいた",
+              "Romaji": "oita",
+              "Meaning": "put / placed"
+            },
+            {
+              "Kanji": "置きます",
+              "Furigana": "おきます",
+              "Romaji": "okimasu",
+              "Meaning": "to put / place"
+            }
+          ]
+        },
+        {
+          "Kanji": "片づける",
+          "Meaning": "to tidy up",
+          "CardId": 112,
+          "KunyomiKana": "かたづける",
+          "KunyomiRomaji": "katazukeru",
+          "Examples": [
+            {
+              "Kanji": "片づけた",
+              "Furigana": "かたづけた",
+              "Romaji": "katazuketa",
+              "Meaning": "tidied up"
+            },
+            {
+              "Kanji": "片づけます",
+              "Furigana": "かたづけます",
+              "Romaji": "katazukemasu",
+              "Meaning": "to tidy up"
+            }
+          ]
+        },
+        {
+          "Kanji": "掃除する",
+          "Meaning": "to clean",
+          "CardId": 113,
+          "KunyomiKana": "そうじする",
+          "KunyomiRomaji": "souji suru",
+          "Examples": [
+            {
+              "Kanji": "掃除した",
+              "Furigana": "そうじした",
+              "Romaji": "souji shita",
+              "Meaning": "cleaned"
+            },
+            {
+              "Kanji": "掃除します",
+              "Furigana": "そうじします",
+              "Romaji": "souji shimasu",
+              "Meaning": "to clean"
+            }
+          ]
+        },
+        {
+          "Kanji": "直す",
+          "Meaning": "to fix / repair",
+          "CardId": 114,
+          "KunyomiKana": "なおす",
+          "KunyomiRomaji": "naosu",
+          "Examples": [
+            {
+              "Kanji": "直した",
+              "Furigana": "なおした",
+              "Romaji": "naoshita",
+              "Meaning": "fixed / repaired"
+            },
+            {
+              "Kanji": "直します",
+              "Furigana": "なおします",
+              "Romaji": "naoshimasu",
+              "Meaning": "to fix / repair"
+            }
+          ]
+        },
+        {
+          "Kanji": "始める",
+          "Meaning": "to start",
+          "CardId": 115,
+          "KunyomiKana": "はじめる",
+          "KunyomiRomaji": "hajimeru",
+          "Examples": [
+            {
+              "Kanji": "始めた",
+              "Furigana": "はじめた",
+              "Romaji": "hajimeta",
+              "Meaning": "started"
+            },
+            {
+              "Kanji": "始めます",
+              "Furigana": "はじめます",
+              "Romaji": "hajimemasu",
+              "Meaning": "to start"
+            }
+          ]
+        },
+        {
+          "Kanji": "終わる",
+          "Meaning": "to end",
+          "CardId": 116,
+          "KunyomiKana": "おわる",
+          "KunyomiRomaji": "owaru",
+          "Examples": [
+            {
+              "Kanji": "終わった",
+              "Furigana": "おわった",
+              "Romaji": "owatta",
+              "Meaning": "ended"
+            },
+            {
+              "Kanji": "終わります",
+              "Furigana": "おわります",
+              "Romaji": "owarimasu",
+              "Meaning": "to end"
+            }
+          ]
+        },
+        {
+          "Kanji": "続ける",
+          "Meaning": "to continue",
+          "CardId": 117,
+          "KunyomiKana": "つづける",
+          "KunyomiRomaji": "tsudzukeru",
+          "Examples": [
+            {
+              "Kanji": "続けた",
+              "Furigana": "つづけた",
+              "Romaji": "tsudzuketa",
+              "Meaning": "continued"
+            },
+            {
+              "Kanji": "続けます",
+              "Furigana": "つづけます",
+              "Romaji": "tsudzukemasu",
+              "Meaning": "to continue"
+            }
+          ]
+        },
+        {
+          "Kanji": "やめる",
+          "Meaning": "to quit / stop",
+          "CardId": 118,
+          "KunyomiKana": "やめる",
+          "KunyomiRomaji": "yameru",
+          "Examples": [
+            {
+              "Kanji": "やめた",
+              "Furigana": "やめた",
+              "Romaji": "yameta",
+              "Meaning": "quit / stopped"
+            },
+            {
+              "Kanji": "やめます",
+              "Furigana": "やめます",
+              "Romaji": "yamemasu",
+              "Meaning": "to quit / stop"
+            }
+          ]
+        },
+        {
+          "Kanji": "急ぐ",
+          "Meaning": "to hurry",
+          "CardId": 119,
+          "KunyomiKana": "いそぐ",
+          "KunyomiRomaji": "isogu",
+          "Examples": [
+            {
+              "Kanji": "急いだ",
+              "Furigana": "いそいだ",
+              "Romaji": "isoida",
+              "Meaning": "hurried"
+            },
+            {
+              "Kanji": "急ぎます",
+              "Furigana": "いそぎます",
+              "Romaji": "isogimasu",
+              "Meaning": "to hurry"
+            }
+          ]
+        },
+        {
+          "Kanji": "待つ",
+          "Meaning": "to wait",
+          "CardId": 120,
+          "KunyomiKana": "まつ",
+          "KunyomiRomaji": "matsu",
+          "Examples": [
+            {
+              "Kanji": "待った",
+              "Furigana": "まった",
+              "Romaji": "matta",
+              "Meaning": "waited"
+            },
+            {
+              "Kanji": "待ちます",
+              "Furigana": "まちます",
+              "Romaji": "machimasu",
+              "Meaning": "to wait"
+            }
+          ]
+        },
+        {
+          "Kanji": "遅れる",
+          "Meaning": "to be late",
+          "CardId": 121,
+          "KunyomiKana": "おくれる",
+          "KunyomiRomaji": "okureru",
+          "Examples": [
+            {
+              "Kanji": "遅れた",
+              "Furigana": "おくれた",
+              "Romaji": "okureta",
+              "Meaning": "was late"
+            },
+            {
+              "Kanji": "遅れます",
+              "Furigana": "おくれます",
+              "Romaji": "okuremasu",
+              "Meaning": "to be late"
+            }
+          ]
+        },
+        {
+          "Kanji": "決める",
+          "Meaning": "to decide",
+          "CardId": 122,
+          "KunyomiKana": "きめる",
+          "KunyomiRomaji": "kimeru",
+          "Examples": [
+            {
+              "Kanji": "決めた",
+              "Furigana": "きめた",
+              "Romaji": "kimeta",
+              "Meaning": "decided"
+            },
+            {
+              "Kanji": "決めます",
+              "Furigana": "きめます",
+              "Romaji": "kimemasu",
+              "Meaning": "to decide"
+            }
+          ]
+        },
+        {
+          "Kanji": "予定する",
+          "Meaning": "to plan",
+          "CardId": 123,
+          "KunyomiKana": "よていする",
+          "KunyomiRomaji": "yotei suru",
+          "Examples": [
+            {
+              "Kanji": "予定した",
+              "Furigana": "よていした",
+              "Romaji": "yotei shita",
+              "Meaning": "planned"
+            },
+            {
+              "Kanji": "予定します",
+              "Furigana": "よていします",
+              "Romaji": "yotei shimasu",
+              "Meaning": "to plan"
+            }
+          ]
+        },
+        {
+          "Kanji": "準備する",
+          "Meaning": "to prepare",
+          "CardId": 124,
+          "KunyomiKana": "じゅんびする",
+          "KunyomiRomaji": "junbi suru",
+          "Examples": [
+            {
+              "Kanji": "準備した",
+              "Furigana": "じゅんびした",
+              "Romaji": "junbi shita",
+              "Meaning": "prepared"
+            },
+            {
+              "Kanji": "準備します",
+              "Furigana": "じゅんびします",
+              "Romaji": "junbi shimasu",
+              "Meaning": "to prepare"
+            }
+          ]
+        },
+        {
+          "Kanji": "会う",
+          "Meaning": "to meet",
+          "CardId": 125,
+          "KunyomiKana": "あう",
+          "KunyomiRomaji": "au",
+          "Examples": [
+            {
+              "Kanji": "会った",
+              "Furigana": "あった",
+              "Romaji": "atta",
+              "Meaning": "met"
+            },
+            {
+              "Kanji": "会います",
+              "Furigana": "あいます",
+              "Romaji": "aimasu",
+              "Meaning": "to meet"
+            }
+          ]
+        },
+        {
+          "Kanji": "違う",
+          "Meaning": "to be different",
+          "CardId": 126,
+          "KunyomiKana": "ちがう",
+          "KunyomiRomaji": "chigau",
+          "Examples": [
+            {
+              "Kanji": "違った",
+              "Furigana": "ちがった",
+              "Romaji": "chigatta",
+              "Meaning": "was different"
+            },
+            {
+              "Kanji": "違います",
+              "Furigana": "ちがいます",
+              "Romaji": "chigaimasu",
+              "Meaning": "to be different"
+            }
+          ]
+        },
+        {
+          "Kanji": "必要になる",
+          "Meaning": "to become necessary",
+          "CardId": 127,
+          "KunyomiKana": "ひつようになる",
+          "KunyomiRomaji": "hitsuyou ni naru",
+          "Examples": [
+            {
+              "Kanji": "必要になった",
+              "Furigana": "ひつようになった",
+              "Romaji": "hitsuyou ni natta",
+              "Meaning": "became necessary"
+            },
+            {
+              "Kanji": "必要になります",
+              "Furigana": "ひつようになります",
+              "Romaji": "hitsuyou ni narimasu",
+              "Meaning": "to become necessary"
+            }
+          ]
+        },
+        {
+          "Kanji": "できる",
+          "Meaning": "can / be able to",
+          "CardId": 128,
+          "KunyomiKana": "できる",
+          "KunyomiRomaji": "dekiru",
+          "Examples": [
+            {
+              "Kanji": "できた",
+              "Furigana": "できた",
+              "Romaji": "dekita",
+              "Meaning": "was able to / could"
+            },
+            {
+              "Kanji": "できます",
+              "Furigana": "できます",
+              "Romaji": "dekimasu",
+              "Meaning": "can / be able to"
+            }
+          ]
+        },
+        {
+          "Kanji": "試す",
+          "Meaning": "to try",
+          "CardId": 129,
+          "KunyomiKana": "ためす",
+          "KunyomiRomaji": "tamesu",
+          "Examples": [
+            {
+              "Kanji": "試した",
+              "Furigana": "ためした",
+              "Romaji": "tameshita",
+              "Meaning": "tried"
+            },
+            {
+              "Kanji": "試します",
+              "Furigana": "ためします",
+              "Romaji": "tameshimasu",
+              "Meaning": "to try"
+            }
+          ]
+        },
+        {
+          "Kanji": "変える",
+          "Meaning": "to change",
+          "CardId": 130,
+          "KunyomiKana": "かえる",
+          "KunyomiRomaji": "kaeru",
+          "Examples": [
+            {
+              "Kanji": "変えた",
+              "Furigana": "かえた",
+              "Romaji": "kaeta",
+              "Meaning": "changed"
+            },
+            {
+              "Kanji": "変えます",
+              "Furigana": "かえます",
+              "Romaji": "kaemasu",
+              "Meaning": "to change"
+            }
+          ]
+        },
+        {
+          "Kanji": "集まる",
+          "Meaning": "to gather",
+          "CardId": 131,
+          "KunyomiKana": "あつまる",
+          "KunyomiRomaji": "atsumaru",
+          "Examples": [
+            {
+              "Kanji": "集まった",
+              "Furigana": "あつまった",
+              "Romaji": "atsumatta",
+              "Meaning": "gathered"
+            },
+            {
+              "Kanji": "集まります",
+              "Furigana": "あつまります",
+              "Romaji": "atsumarimasu",
+              "Meaning": "to gather"
+            }
+          ]
+        },
+        {
+          "Kanji": "出会う",
+          "Meaning": "to encounter / meet",
+          "CardId": 132,
+          "KunyomiKana": "であう",
+          "KunyomiRomaji": "deau",
+          "Examples": [
+            {
+              "Kanji": "出会った",
+              "Furigana": "であった",
+              "Romaji": "deatta",
+              "Meaning": "encountered / met"
+            },
+            {
+              "Kanji": "出会います",
+              "Furigana": "であいます",
+              "Romaji": "deaimasu",
+              "Meaning": "to encounter / meet"
+            }
+          ]
+        },
+        {
+          "Kanji": "助ける",
+          "Meaning": "to help",
+          "CardId": 133,
+          "KunyomiKana": "たすける",
+          "KunyomiRomaji": "tasukeru",
+          "Examples": [
+            {
+              "Kanji": "助けた",
+              "Furigana": "たすけた",
+              "Romaji": "tasuketa",
+              "Meaning": "helped"
+            },
+            {
+              "Kanji": "助けます",
+              "Furigana": "たすけます",
+              "Romaji": "tasukemasu",
+              "Meaning": "to help"
+            }
+          ]
+        },
+        {
+          "Kanji": "楽しむ",
+          "Meaning": "to enjoy",
+          "CardId": 134,
+          "KunyomiKana": "たのしむ",
+          "KunyomiRomaji": "tanoshimu",
+          "Examples": [
+            {
+              "Kanji": "楽しんだ",
+              "Furigana": "たのしんだ",
+              "Romaji": "tanoshinda",
+              "Meaning": "enjoyed"
+            },
+            {
+              "Kanji": "楽しみます",
+              "Furigana": "たのしみます",
+              "Romaji": "tanoshimimasu",
+              "Meaning": "to enjoy"
+            }
+          ]
+        },
+        {
+          "Kanji": "頑張る",
+          "Meaning": "to do one's best",
+          "CardId": 135,
+          "KunyomiKana": "がんばる",
+          "KunyomiRomaji": "ganbaru",
+          "Examples": [
+            {
+              "Kanji": "頑張った",
+              "Furigana": "がんばった",
+              "Romaji": "ganbatta",
+              "Meaning": "did one’s best"
+            },
+            {
+              "Kanji": "頑張ります",
+              "Furigana": "がんばります",
+              "Romaji": "ganbarimasu",
+              "Meaning": "to do one’s best"
+            }
+          ]
+        },
+        {
+          "Kanji": "笑う",
+          "Meaning": "to laugh",
+          "CardId": 136,
+          "KunyomiKana": "わらう",
+          "KunyomiRomaji": "warau",
+          "Examples": [
+            {
+              "Kanji": "笑った",
+              "Furigana": "わらった",
+              "Romaji": "waratta",
+              "Meaning": "laughed"
+            },
+            {
+              "Kanji": "笑います",
+              "Furigana": "わらいます",
+              "Romaji": "waraimasu",
+              "Meaning": "to laugh"
+            }
+          ]
+        },
+        {
+          "Kanji": "泣く",
+          "Meaning": "to cry",
+          "CardId": 137,
+          "KunyomiKana": "なく",
+          "KunyomiRomaji": "naku",
+          "Examples": [
+            {
+              "Kanji": "泣いた",
+              "Furigana": "なった",
+              "Romaji": "natta",
+              "Meaning": "cried"
+            },
+            {
+              "Kanji": "泣きます",
+              "Furigana": "なきます",
+              "Romaji": "nakimasu",
+              "Meaning": "to cry"
+            }
+          ]
+        },
+        {
+          "Kanji": "怒る",
+          "Meaning": "to get angry",
+          "CardId": 138,
+          "KunyomiKana": "おこる",
+          "KunyomiRomaji": "okoru",
+          "Examples": [
+            {
+              "Kanji": "怒った",
+              "Furigana": "おこった",
+              "Romaji": "okotta",
+              "Meaning": "got angry"
+            },
+            {
+              "Kanji": "怒ります",
+              "Furigana": "おこります",
+              "Romaji": "okorimasu",
+              "Meaning": "to get angry"
+            }
+          ]
+        },
+        {
+          "Kanji": "驚く",
+          "Meaning": "to be surprised",
+          "CardId": 139,
+          "KunyomiKana": "おどろく",
+          "KunyomiRomaji": "odoroku",
+          "Examples": [
+            {
+              "Kanji": "驚いた",
+              "Furigana": "おどろいた",
+              "Romaji": "odoruita",
+              "Meaning": "was surprised"
+            },
+            {
+              "Kanji": "驚きます",
+              "Furigana": "おどろきます",
+              "Romaji": "odorokimasu",
+              "Meaning": "to be surprised"
+            }
+          ]
+        },
+        {
+          "Kanji": "困る",
+          "Meaning": "to be troubled",
+          "CardId": 140,
+          "KunyomiKana": "こまる",
+          "KunyomiRomaji": "komaru",
+          "Examples": [
+            {
+              "Kanji": "困った",
+              "Furigana": "こまった",
+              "Romaji": "komatta",
+              "Meaning": "was troubled"
+            },
+            {
+              "Kanji": "困ります",
+              "Furigana": "こまります",
+              "Romaji": "komarimasu",
+              "Meaning": "to be troubled"
+            }
+          ]
+        },
+        {
+          "Kanji": "失敗する",
+          "Meaning": "to fail",
+          "CardId": 141,
+          "KunyomiKana": "しっぱいする",
+          "KunyomiRomaji": "shippai suru",
+          "Examples": [
+            {
+              "Kanji": "失敗した",
+              "Furigana": "しっぱいした",
+              "Romaji": "shippai shita",
+              "Meaning": "failed"
+            },
+            {
+              "Kanji": "失敗します",
+              "Furigana": "しっぱいします",
+              "Romaji": "shippai shimasu",
+              "Meaning": "to fail"
+            }
+          ]
+        },
+        {
+          "Kanji": "成功する",
+          "Meaning": "to succeed",
+          "CardId": 142,
+          "KunyomiKana": "せいこうする",
+          "KunyomiRomaji": "seikou suru",
+          "Examples": [
+            {
+              "Kanji": "成功した",
+              "Furigana": "せいこうした",
+              "Romaji": "seikou shita",
+              "Meaning": "succeeded"
+            },
+            {
+              "Kanji": "成功します",
+              "Furigana": "せいこうします",
+              "Romaji": "seikou shimasu",
+              "Meaning": "to succeed"
+            }
+          ]
+        },
+        {
+          "Kanji": "生きる",
+          "Meaning": "to live",
+          "CardId": 143,
+          "KunyomiKana": "いきる",
+          "KunyomiRomaji": "ikiru",
+          "Examples": [
+            {
+              "Kanji": "生きた",
+              "Furigana": "いきた",
+              "Romaji": "ikita",
+              "Meaning": "lived"
+            },
+            {
+              "Kanji": "生きます",
+              "Furigana": "いきます",
+              "Romaji": "ikimasu",
+              "Meaning": "to live"
+            }
+          ]
+        },
+        {
+          "Kanji": "好きになる",
+          "Meaning": "to come to like",
+          "CardId": 144,
+          "KunyomiKana": "すきになる",
+          "KunyomiRomaji": "suki ni naru",
+          "Examples": [
+            {
+              "Kanji": "好きになった",
+              "Furigana": "すきになった",
+              "Romaji": "suki ni natta",
+              "Meaning": "came to like"
+            },
+            {
+              "Kanji": "好きになります",
+              "Furigana": "すきになります",
+              "Romaji": "suki ni narimasu",
+              "Meaning": "to come to like"
+            }
+          ]
+        },
+        {
+          "Kanji": "嫌いになる",
+          "Meaning": "to come to dislike",
+          "CardId": 145,
+          "KunyomiKana": "きらいになる",
+          "KunyomiRomaji": "kirai ni naru",
+          "Examples": [
+            {
+              "Kanji": "嫌いになった",
+              "Furigana": "きらいになった",
+              "Romaji": "kirai ni natta",
+              "Meaning": "came to dislike"
+            },
+            {
+              "Kanji": "嫌いになります",
+              "Furigana": "きらいになります",
+              "Romaji": "kirai ni narimasu",
+              "Meaning": "to come to dislike"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "Topic": "Numbers",
       "Cards": [
         {
