@@ -1,5 +1,5 @@
 {
-  "Credits": "<size=130%>Voice credits</size>\n<br>\n- HayaTikaze\n<br>\n- VOICEVOX: Nemu",
+  "Credits": "<align=center>\n<size=130%><color=#86C48D><b>Voice credits</b></color></size>\n</align>\n<align=left>\n- HayaTikaze\n- VOICEVOX: Nemu\n</align>",
   "Topics": [
     {
       "Topic": "Verbs",
