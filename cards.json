@@ -2301,19 +2301,31 @@
               "Kanji": "一人",
               "Furigana": "ひとり",
               "Romaji": "hitori",
-              "Meaning": "One person"
+              "Meaning": "one person"
             },
             {
               "Kanji": "一分",
               "Furigana": "いっぷん",
-              "Romaji": "ippun",
-              "Meaning": "One minute"
+              "Romaji": "i-ppun",
+              "Meaning": "one minute"
             },
             {
               "Kanji": "一日",
-              "Furigana": "いちにち",
-              "Romaji": "ichinichi",
-              "Meaning": "One day"
+              "Furigana": "ついたち, いちにち",
+              "Romaji": "tsuitachi, ichinichi",
+              "Meaning": "the first day, one day"
+            },
+            {
+              "Kanji": "一時",
+              "Furigana": "いちじ",
+              "Romaji": "ichiji",
+              "Meaning": "one o’clock"
+            },
+            {
+              "Kanji": "一月",
+              "Furigana": "いちがつ",
+              "Romaji": "ichigatsu",
+              "Meaning": "January"
             }
           ]
         },
@@ -2332,19 +2344,31 @@
               "Kanji": "二人",
               "Furigana": "ふたり",
               "Romaji": "futari",
-              "Meaning": "Two people"
+              "Meaning": "two people"
+            },
+            {
+              "Kanji": "二分",
+              "Furigana": "にふん",
+              "Romaji": "ni-fun",
+              "Meaning": "two minutes"
+            },
+            {
+              "Kanji": "二日",
+              "Furigana": "ふつか",
+              "Romaji": "futsuka",
+              "Meaning": "the second day"
+            },
+            {
+              "Kanji": "二時",
+              "Furigana": "にじ",
+              "Romaji": "niji",
+              "Meaning": "two o’clock"
             },
             {
               "Kanji": "二月",
               "Furigana": "にがつ",
               "Romaji": "nigatsu",
               "Meaning": "February"
-            },
-            {
-              "Kanji": "二時",
-              "Furigana": "にじ",
-              "Romaji": "niji",
-              "Meaning": "Two o’clock"
             }
           ]
         },
@@ -2360,22 +2384,34 @@
           "OnyomiRomaji": "san",
           "Examples": [
             {
+              "Kanji": "三人",
+              "Furigana": "さんにん",
+              "Romaji": "san-nin",
+              "Meaning": "three people"
+            },
+            {
+              "Kanji": "三分",
+              "Furigana": "さんぷん",
+              "Romaji": "san-pun",
+              "Meaning": "three minutes"
+            },
+            {
               "Kanji": "三日",
               "Furigana": "みっか",
               "Romaji": "mikka",
-              "Meaning": "Third day"
+              "Meaning": "the third day"
             },
             {
-              "Kanji": "三年",
-              "Furigana": "さんねん",
-              "Romaji": "sannen",
-              "Meaning": "Three years"
+              "Kanji": "三時",
+              "Furigana": "さんじ",
+              "Romaji": "sanji",
+              "Meaning": "three o’clock"
             },
             {
-              "Kanji": "三角",
-              "Furigana": "さんかく",
-              "Romaji": "sankaku",
-              "Meaning": "Triangle"
+              "Kanji": "三月",
+              "Furigana": "さんがつ",
+              "Romaji": "sangatsu",
+              "Meaning": "March"
             }
           ]
         },
@@ -2393,20 +2429,32 @@
             {
               "Kanji": "四人",
               "Furigana": "よにん",
-              "Romaji": "yonin",
-              "Meaning": "Four people"
+              "Romaji": "yo-nin",
+              "Meaning": "four people"
+            },
+            {
+              "Kanji": "四分",
+              "Furigana": "よんぷん",
+              "Romaji": "yon-pun",
+              "Meaning": "four minutes"
+            },
+            {
+              "Kanji": "四日",
+              "Furigana": "よっか",
+              "Romaji": "yokka",
+              "Meaning": "the fourth day"
+            },
+            {
+              "Kanji": "四時",
+              "Furigana": "よじ",
+              "Romaji": "yoji",
+              "Meaning": "four o’clock"
             },
             {
               "Kanji": "四月",
               "Furigana": "しがつ",
               "Romaji": "shigatsu",
               "Meaning": "April"
-            },
-            {
-              "Kanji": "四角",
-              "Furigana": "しかく",
-              "Romaji": "shikaku",
-              "Meaning": "Square"
             }
           ]
         },
@@ -2422,22 +2470,34 @@
           "OnyomiRomaji": "go",
           "Examples": [
             {
-              "Kanji": "五分",
-              "Furigana": "ごふん",
-              "Romaji": "gofun",
-              "Meaning": "Five minutes"
+              "Kanji": "五人",
+              "Furigana": "ごにん",
+              "Romaji": "go-nin",
+              "Meaning": "five people"
             },
             {
-              "Kanji": "五階",
-              "Furigana": "ごかい",
-              "Romaji": "gokai",
-              "Meaning": "Fifth floor"
+              "Kanji": "五分",
+              "Furigana": "ごふん",
+              "Romaji": "go-fun",
+              "Meaning": "five minutes"
             },
             {
               "Kanji": "五日",
               "Furigana": "いつか",
               "Romaji": "itsuka",
-              "Meaning": "Fifth day"
+              "Meaning": "the fifth day"
+            },
+            {
+              "Kanji": "五時",
+              "Furigana": "ごじ",
+              "Romaji": "goji",
+              "Meaning": "five o’clock"
+            },
+            {
+              "Kanji": "五月",
+              "Furigana": "ごがつ",
+              "Romaji": "gogatsu",
+              "Meaning": "May"
             }
           ]
         },
@@ -2453,22 +2513,34 @@
           "OnyomiRomaji": "roku",
           "Examples": [
             {
-              "Kanji": "六分",
-              "Furigana": "ろっぷん",
-              "Romaji": "roppun",
-              "Meaning": "Six minutes"
-            },
-            {
-              "Kanji": "六個",
-              "Furigana": "ろっこ",
-              "Romaji": "rokko",
-              "Meaning": "Six things"
-            },
-            {
               "Kanji": "六人",
               "Furigana": "ろくにん",
-              "Romaji": "rokunin",
-              "Meaning": "Six people"
+              "Romaji": "roku-nin",
+              "Meaning": "six people"
+            },
+            {
+              "Kanji": "六分",
+              "Furigana": "ろっぷん",
+              "Romaji": "ro-ppun",
+              "Meaning": "six minutes"
+            },
+            {
+              "Kanji": "六日",
+              "Furigana": "むいか",
+              "Romaji": "muika",
+              "Meaning": "the sixth day"
+            },
+            {
+              "Kanji": "六時",
+              "Furigana": "ろくじ",
+              "Romaji": "rokuji",
+              "Meaning": "six o’clock"
+            },
+            {
+              "Kanji": "六月",
+              "Furigana": "ろくがつ",
+              "Romaji": "rokugatsu",
+              "Meaning": "June"
             }
           ]
         },
@@ -2485,21 +2557,33 @@
           "Examples": [
             {
               "Kanji": "七人",
-              "Furigana": "ななにん",
-              "Romaji": "nananin",
-              "Meaning": "Seven people"
+              "Furigana": "ななにん, しちにん",
+              "Romaji": "nana-nin / shichi-nin",
+              "Meaning": "seven people"
             },
             {
-              "Kanji": "七時",
-              "Furigana": "しちじ",
-              "Romaji": "shichiji",
-              "Meaning": "Seven o'clock"
+              "Kanji": "七分",
+              "Furigana": "ななふん",
+              "Romaji": "nana-fun",
+              "Meaning": "seven minutes"
             },
             {
               "Kanji": "七日",
               "Furigana": "なのか",
               "Romaji": "nanoka",
-              "Meaning": "Seventh day"
+              "Meaning": "the seventh day"
+            },
+            {
+              "Kanji": "七時",
+              "Furigana": "しちじ",
+              "Romaji": "shichiji",
+              "Meaning": "seven o’clock"
+            },
+            {
+              "Kanji": "七月",
+              "Furigana": "しちがつ",
+              "Romaji": "shichigatsu",
+              "Meaning": "July"
             }
           ]
         },
@@ -2517,20 +2601,32 @@
             {
               "Kanji": "八人",
               "Furigana": "はちにん",
-              "Romaji": "hachinin",
-              "Meaning": "Eight people"
+              "Romaji": "hachi-nin",
+              "Meaning": "eight people"
+            },
+            {
+              "Kanji": "八分",
+              "Furigana": "はっぷん",
+              "Romaji": "ha-ppun",
+              "Meaning": "eight minutes"
+            },
+            {
+              "Kanji": "八日",
+              "Furigana": "ようか",
+              "Romaji": "youka",
+              "Meaning": "the eighth day"
+            },
+            {
+              "Kanji": "八時",
+              "Furigana": "はちじ",
+              "Romaji": "hachiji",
+              "Meaning": "eight o’clock"
             },
             {
               "Kanji": "八月",
               "Furigana": "はちがつ",
               "Romaji": "hachigatsu",
               "Meaning": "August"
-            },
-            {
-              "Kanji": "八日",
-              "Furigana": "よおか",
-              "Romaji": "yooka",
-              "Meaning": "Eighth day"
             }
           ]
         },
@@ -2546,22 +2642,34 @@
           "OnyomiRomaji": "ku, kyuu",
           "Examples": [
             {
-              "Kanji": "九個",
-              "Furigana": "きゅうこ",
-              "Romaji": "kyuuko",
-              "Meaning": "Nine things"
+              "Kanji": "九人",
+              "Furigana": "きゅうにん",
+              "Romaji": "kyuu-nin",
+              "Meaning": "nine people"
+            },
+            {
+              "Kanji": "九分",
+              "Furigana": "きゅうふん",
+              "Romaji": "kyuu-fun",
+              "Meaning": "nine minutes"
+            },
+            {
+              "Kanji": "九日",
+              "Furigana": "ここのか",
+              "Romaji": "kokonoka",
+              "Meaning": "the ninth day"
+            },
+            {
+              "Kanji": "九時",
+              "Furigana": "くじ",
+              "Romaji": "kuji",
+              "Meaning": "nine o’clock"
             },
             {
               "Kanji": "九月",
               "Furigana": "くがつ",
               "Romaji": "kugatsu",
               "Meaning": "September"
-            },
-            {
-              "Kanji": "九日",
-              "Furigana": "ここのか",
-              "Romaji": "kokonoka",
-              "Meaning": "Nineth day"
             }
           ]
         },
@@ -2577,22 +2685,305 @@
           "OnyomiRomaji": "juu",
           "Examples": [
             {
-              "Kanji": "十個",
-              "Furigana": "じゅっこ",
-              "Romaji": "jukko",
-              "Meaning": "Ten things"
-            },
-            {
               "Kanji": "十人",
               "Furigana": "じゅうにん",
-              "Romaji": "juunin",
-              "Meaning": "Ten people"
+              "Romaji": "juu-nin",
+              "Meaning": "ten people"
+            },
+            {
+              "Kanji": "十分",
+              "Furigana": "じゅっぷん",
+              "Romaji": "ju-ppun",
+              "Meaning": "ten minutes"
             },
             {
               "Kanji": "十日",
               "Furigana": "とおか",
               "Romaji": "tooka",
-              "Meaning": "Tenth day"
+              "Meaning": "the tenth day"
+            },
+            {
+              "Kanji": "十時",
+              "Furigana": "じゅうじ",
+              "Romaji": "juuji",
+              "Meaning": "ten o’clock"
+            },
+            {
+              "Kanji": "十月",
+              "Furigana": "じゅうがつ",
+              "Romaji": "juugatsu",
+              "Meaning": "October"
+            }
+          ]
+        },
+        {
+          "Kanji": "十一",
+          "Meaning": "Eleven",
+          "CardId": 146,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "じゅういち",
+          "OnyomiRomaji": "juuichi",
+          "Examples": [
+            {
+              "Kanji": "十一人",
+              "Furigana": "じゅういちにん",
+              "Romaji": "juuichi-nin",
+              "Meaning": "eleven people"
+            },
+            {
+              "Kanji": "十一分",
+              "Furigana": "じゅういっぷん",
+              "Romaji": "juu-i-ppun",
+              "Meaning": "eleven minutes"
+            },
+            {
+              "Kanji": "十一日",
+              "Furigana": "じゅういちにち",
+              "Romaji": "juuichinichi",
+              "Meaning": "the eleventh day"
+            },
+            {
+              "Kanji": "十一時",
+              "Furigana": "じゅういちじ",
+              "Romaji": "juuichiji",
+              "Meaning": "eleven o’clock"
+            },
+            {
+              "Kanji": "十一月",
+              "Furigana": "じゅういちがつ",
+              "Romaji": "juuichigatsu",
+              "Meaning": "November"
+            }
+          ]
+        },
+        {
+          "Kanji": "十二",
+          "Meaning": "Twelve",
+          "CardId": 147,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "じゅうに",
+          "OnyomiRomaji": "juuni",
+          "Examples": [
+            {
+              "Kanji": "十二人",
+              "Furigana": "じゅうににん",
+              "Romaji": "juuni-nin",
+              "Meaning": "twelve people"
+            },
+            {
+              "Kanji": "十二分",
+              "Furigana": "じゅうにふん",
+              "Romaji": "juu-ni-fun",
+              "Meaning": "twelve minutes"
+            },
+            {
+              "Kanji": "十二日",
+              "Furigana": "じゅうににち",
+              "Romaji": "juuninichi",
+              "Meaning": "the twelfth day"
+            },
+            {
+              "Kanji": "十二時",
+              "Furigana": "じゅうにじ",
+              "Romaji": "juuniji",
+              "Meaning": "twelve o’clock"
+            },
+            {
+              "Kanji": "十二月",
+              "Furigana": "じゅうにがつ",
+              "Romaji": "juunigatsu",
+              "Meaning": "December"
+            }
+          ]
+        },
+        {
+          "Kanji": "二十",
+          "Meaning": "twenty",
+          "CardId": 148,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "にじゅう",
+          "OnyomiRomaji": "nijuu",
+          "Examples": [
+            {
+              "Kanji": "二十人",
+              "Furigana": "にじゅうにん",
+              "Romaji": "nijuu-nin",
+              "Meaning": "twenty people"
+            },
+            {
+              "Kanji": "二十分",
+              "Furigana": "にじゅっぷん",
+              "Romaji": "ni-ju-ppun",
+              "Meaning": "twenty minutes"
+            },
+            {
+              "Kanji": "二十日",
+              "Furigana": "はつか, にじゅうにち",
+              "Romaji": "hatsuka, nijuu-nichi",
+              "Meaning": "twentieth day"
+            }
+          ]
+        },
+        {
+          "Kanji": "三十",
+          "Meaning": "thirty",
+          "CardId": 149,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "さんじゅう",
+          "OnyomiRomaji": "sanjuu",
+          "Examples": [
+            {
+              "Kanji": "三十人",
+              "Furigana": "さんじゅうにん",
+              "Romaji": "sanjuu-nin",
+              "Meaning": "thirty people"
+            },
+            {
+              "Kanji": "三十分",
+              "Furigana": "さんじゅっぷん",
+              "Romaji": "san-ju-ppun",
+              "Meaning": "thirty minutes"
+            },
+            {
+              "Kanji": "三十日",
+              "Furigana": "さんじゅうにち",
+              "Romaji": "sanjuu-nichi",
+              "Meaning": "thirtieth day"
+            }
+          ]
+        },
+        {
+          "Kanji": "百",
+          "Meaning": "one hundred",
+          "CardId": 150,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "ひゃく",
+          "OnyomiRomaji": "hyaku",
+          "Examples": [
+            {
+              "Kanji": "百人",
+              "Furigana": "ひゃくにん",
+              "Romaji": "hyaku-nin",
+              "Meaning": "one hundred people"
+            },
+            {
+              "Kanji": "百分",
+              "Furigana": "ひゃっぷん",
+              "Romaji": "hya-ppun",
+              "Meaning": "one hundred minutes"
+            }
+          ]
+        },
+        {
+          "Kanji": "千",
+          "Meaning": "one thousand",
+          "CardId": 151,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "せん",
+          "OnyomiRomaji": "sen",
+          "Examples": [
+            {
+              "Kanji": "千人",
+              "Furigana": "せんにん",
+              "Romaji": "sennin",
+              "Meaning": "one thousand people"
+            },
+            {
+              "Kanji": "千分",
+              "Furigana": "せんぷん",
+              "Romaji": "sen-pun",
+              "Meaning": "one thousand minutes"
+            }
+          ]
+        },
+        {
+          "Kanji": "一万",
+          "Meaning": "ten thousand",
+          "CardId": 152,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "いちまん",
+          "OnyomiRomaji": "ichiman",
+          "Examples": [
+            {
+              "Kanji": "一万人",
+              "Furigana": "いちまんにん",
+              "Romaji": "ichiman-nin",
+              "Meaning": "ten thousand people"
+            }
+          ]
+        },
+        {
+          "Kanji": "十万",
+          "Meaning": "one hundred thousand",
+          "CardId": 153,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "じゅうまん",
+          "OnyomiRomaji": "juuman",
+          "Examples": [
+            {
+              "Kanji": "十万人",
+              "Furigana": "じゅうまんにん",
+              "Romaji": "juuman-nin",
+              "Meaning": "one hundred thousand people"
+            }
+          ]
+        },
+        {
+          "Kanji": "百万",
+          "Meaning": "one million",
+          "CardId": 154,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "ひゃくまん",
+          "OnyomiRomaji": "hyakuman",
+          "Examples": [
+            {
+              "Kanji": "百万人",
+              "Furigana": "ひゃくまんにん",
+              "Romaji": "hyakuman-nin",
+              "Meaning": "one million people"
+            }
+          ]
+        },
+        {
+          "Kanji": "一千万",
+          "Meaning": "ten million",
+          "CardId": 155,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "いっせんまん",
+          "OnyomiRomaji": "issenman",
+          "Examples": [
+            {
+              "Kanji": "一千万人",
+              "Furigana": "いっせんまんにん",
+              "Romaji": "issenman-nin",
+              "Meaning": "ten million people"
+            }
+          ]
+        },
+        {
+          "Kanji": "一億",
+          "Meaning": "one hundred million",
+          "CardId": 156,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "いちおく",
+          "OnyomiRomaji": "ichioku",
+          "Examples": [
+            {
+              "Kanji": "一億人",
+              "Furigana": "いちおくにん",
+              "Romaji": "ichioku-nin",
+              "Meaning": "one hundred million people"
             }
           ]
         }
@@ -3686,6 +4077,605 @@
               "Furigana": "ふうそく",
               "Romaji": "fuusoku",
               "Meaning": "Wind speed"
+            }
+          ]
+        },
+        {
+          "Kanji": "土",
+          "Meaning": "Soil / Earth",
+          "CardId": 157,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "つち",
+          "KunyomiRomaji": "tsuchi",
+          "OnyomiKana": "ド",
+          "OnyomiRomaji": "do",
+          "Examples": [
+            {
+              "Kanji": "土地",
+              "Furigana": "とち",
+              "Romaji": "tochi",
+              "Meaning": "Land"
+            },
+            {
+              "Kanji": "土曜日",
+              "Furigana": "どようび",
+              "Romaji": "doyoubi",
+              "Meaning": "Saturday"
+            }
+          ]
+        },
+        {
+          "Kanji": "空",
+          "Meaning": "Sky",
+          "CardId": 158,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "そら",
+          "KunyomiRomaji": "sora",
+          "OnyomiKana": "クウ",
+          "OnyomiRomaji": "kuu",
+          "Examples": [
+            {
+              "Kanji": "空気",
+              "Furigana": "くうき",
+              "Romaji": "kuuki",
+              "Meaning": "Air"
+            },
+            {
+              "Kanji": "空港",
+              "Furigana": "くうこう",
+              "Romaji": "kuukou",
+              "Meaning": "Airport"
+            }
+          ]
+        },
+        {
+          "Kanji": "雨",
+          "Meaning": "Rain",
+          "CardId": 159,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "あめ",
+          "KunyomiRomaji": "ame",
+          "OnyomiKana": "ウ",
+          "OnyomiRomaji": "u",
+          "Examples": [
+            {
+              "Kanji": "雨天",
+              "Furigana": "うてん",
+              "Romaji": "uten",
+              "Meaning": "Rainy Weather"
+            },
+            {
+              "Kanji": "大雨",
+              "Furigana": "おおあめ",
+              "Romaji": "ooame",
+              "Meaning": "Heavy Rain"
+            }
+          ]
+        },
+        {
+          "Kanji": "川",
+          "Meaning": "River",
+          "CardId": 160,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "かわ",
+          "KunyomiRomaji": "kawa",
+          "OnyomiKana": "セン",
+          "OnyomiRomaji": "sen",
+          "Examples": [
+            {
+              "Kanji": "河川",
+              "Furigana": "かせん",
+              "Romaji": "kasen",
+              "Meaning": "River"
+            },
+            {
+              "Kanji": "川辺",
+              "Furigana": "かわべ",
+              "Romaji": "kawabe",
+              "Meaning": "Riverside"
+            }
+          ]
+        },
+        {
+          "Kanji": "海",
+          "Meaning": "Sea / Ocean",
+          "CardId": 161,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "うみ",
+          "KunyomiRomaji": "umi",
+          "OnyomiKana": "カイ",
+          "OnyomiRomaji": "kai",
+          "Examples": [
+            {
+              "Kanji": "海岸",
+              "Furigana": "かいがん",
+              "Romaji": "kaigan",
+              "Meaning": "Coast"
+            },
+            {
+              "Kanji": "海中",
+              "Furigana": "かいちゅう",
+              "Romaji": "kaichuu",
+              "Meaning": "Underwater / Sea"
+            }
+          ]
+        },
+        {
+          "Kanji": "森",
+          "Meaning": "Forest",
+          "CardId": 162,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "もり",
+          "KunyomiRomaji": "mori",
+          "OnyomiKana": "シン",
+          "OnyomiRomaji": "shin",
+          "Examples": [
+            {
+              "Kanji": "森林",
+              "Furigana": "しんりん",
+              "Romaji": "shinrin",
+              "Meaning": "Forest"
+            },
+            {
+              "Kanji": "森の中",
+              "Furigana": "もりのなか",
+              "Romaji": "morinonaka",
+              "Meaning": "In the Forest"
+            }
+          ]
+        },
+        {
+          "Kanji": "林",
+          "Meaning": "Woods / Grove",
+          "CardId": 163,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "はやし",
+          "KunyomiRomaji": "hayashi",
+          "OnyomiKana": "リン",
+          "OnyomiRomaji": "rin",
+          "Examples": [
+            {
+              "Kanji": "林業",
+              "Furigana": "りんぎょう",
+              "Romaji": "ringyou",
+              "Meaning": "Forestry"
+            },
+            {
+              "Kanji": "小林",
+              "Furigana": "こばやし",
+              "Romaji": "kobayashi",
+              "Meaning": "Kobayashi"
+            }
+          ]
+        },
+        {
+          "Kanji": "石",
+          "Meaning": "Stone",
+          "CardId": 164,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "いし",
+          "KunyomiRomaji": "ishi",
+          "OnyomiKana": "セキ",
+          "OnyomiRomaji": "seki",
+          "Examples": [
+            {
+              "Kanji": "石鹸",
+              "Furigana": "せっけん",
+              "Romaji": "sekken",
+              "Meaning": "Soap"
+            },
+            {
+              "Kanji": "石油",
+              "Furigana": "せきゆ",
+              "Romaji": "sekiyu",
+              "Meaning": "Petroleum"
+            }
+          ]
+        },
+        {
+          "Kanji": "日",
+          "Meaning": "Sun / Day",
+          "CardId": 165,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "ひ",
+          "KunyomiRomaji": "hi",
+          "OnyomiKana": "ニチ",
+          "OnyomiRomaji": "nichi",
+          "Examples": [
+            {
+              "Kanji": "日曜日",
+              "Furigana": "にちようび",
+              "Romaji": "nichiyoubi",
+              "Meaning": "Sunday"
+            },
+            {
+              "Kanji": "日本",
+              "Furigana": "にほん",
+              "Romaji": "nihon",
+              "Meaning": "Japan"
+            }
+          ]
+        },
+        {
+          "Kanji": "月",
+          "Meaning": "Moon / Month",
+          "CardId": 166,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "つき",
+          "KunyomiRomaji": "tsuki",
+          "OnyomiKana": "ゲツ",
+          "OnyomiRomaji": "getsu",
+          "Examples": [
+            {
+              "Kanji": "月曜日",
+              "Furigana": "げつようび",
+              "Romaji": "getsuyoubi",
+              "Meaning": "Monday"
+            },
+            {
+              "Kanji": "満月",
+              "Furigana": "まんげつ",
+              "Romaji": "mangetsu",
+              "Meaning": "Full Moon"
+            }
+          ]
+        },
+        {
+          "Kanji": "雲",
+          "Meaning": "Cloud",
+          "CardId": 167,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "くも",
+          "KunyomiRomaji": "kumo",
+          "OnyomiKana": "ウン",
+          "OnyomiRomaji": "un",
+          "Examples": [
+            {
+              "Kanji": "入道雲",
+              "Furigana": "にゅうどうぐも",
+              "Romaji": "nyuudougumo",
+              "Meaning": "Cumulonimbus Cloud"
+            },
+            {
+              "Kanji": "曇り雲",
+              "Furigana": "くもりぐも",
+              "Romaji": "kumorigumo",
+              "Meaning": "Cloudy Sky"
+            }
+          ]
+        },
+        {
+          "Kanji": "雪",
+          "Meaning": "Snow",
+          "CardId": 168,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "ゆき",
+          "KunyomiRomaji": "yuki",
+          "OnyomiKana": "セツ",
+          "OnyomiRomaji": "setsu",
+          "Examples": [
+            {
+              "Kanji": "大雪",
+              "Furigana": "おおゆき",
+              "Romaji": "ooyuki",
+              "Meaning": "Heavy Snow"
+            },
+            {
+              "Kanji": "雪国",
+              "Furigana": "ゆきぐに",
+              "Romaji": "yukiguni",
+              "Meaning": "Snow Country"
+            }
+          ]
+        },
+        {
+          "Kanji": "雷",
+          "Meaning": "Thunder / Lightning",
+          "CardId": 169,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "かみなり",
+          "KunyomiRomaji": "kaminari",
+          "OnyomiKana": "ライ",
+          "OnyomiRomaji": "rai",
+          "Examples": [
+            {
+              "Kanji": "雷雨",
+              "Furigana": "らいう",
+              "Romaji": "raiu",
+              "Meaning": "Thunderstorm"
+            },
+            {
+              "Kanji": "稲妻",
+              "Furigana": "いなずま",
+              "Romaji": "inazuma",
+              "Meaning": "Lightning"
+            }
+          ]
+        },
+        {
+          "Kanji": "星",
+          "Meaning": "Star",
+          "CardId": 170,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "ほし",
+          "KunyomiRomaji": "hoshi",
+          "OnyomiKana": "セイ",
+          "OnyomiRomaji": "sei",
+          "Examples": [
+            {
+              "Kanji": "星空",
+              "Furigana": "ほしぞら",
+              "Romaji": "hoshizora",
+              "Meaning": "Starry Sky"
+            },
+            {
+              "Kanji": "衛星",
+              "Furigana": "えいせい",
+              "Romaji": "eisei",
+              "Meaning": "Satellite"
+            }
+          ]
+        },
+        {
+          "Kanji": "花",
+          "Meaning": "Flower",
+          "CardId": 171,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "はな",
+          "KunyomiRomaji": "hana",
+          "OnyomiKana": "カ",
+          "OnyomiRomaji": "ka",
+          "Examples": [
+            {
+              "Kanji": "花火",
+              "Furigana": "はなび",
+              "Romaji": "hanabi",
+              "Meaning": "Fireworks"
+            },
+            {
+              "Kanji": "花見",
+              "Furigana": "はなみ",
+              "Romaji": "hanami",
+              "Meaning": "Cherry Blossom Viewing"
+            }
+          ]
+        },
+        {
+          "Kanji": "草",
+          "Meaning": "Grass",
+          "CardId": 172,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "くさ",
+          "KunyomiRomaji": "kusa",
+          "OnyomiKana": "ソウ",
+          "OnyomiRomaji": "sou",
+          "Examples": [
+            {
+              "Kanji": "草原",
+              "Furigana": "そうげん",
+              "Romaji": "sougen",
+              "Meaning": "Grassland"
+            },
+            {
+              "Kanji": "雑草",
+              "Furigana": "ざっそう",
+              "Romaji": "zassou",
+              "Meaning": "Weeds"
+            }
+          ]
+        },
+        {
+          "Kanji": "葉",
+          "Meaning": "Leaf",
+          "CardId": 173,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "は",
+          "KunyomiRomaji": "ha",
+          "OnyomiKana": "ヨウ",
+          "OnyomiRomaji": "you",
+          "Examples": [
+            {
+              "Kanji": "葉書",
+              "Furigana": "はがき",
+              "Romaji": "hagaki",
+              "Meaning": "Postcard"
+            },
+            {
+              "Kanji": "葉っぱ",
+              "Furigana": "はっぱ",
+              "Romaji": "happa",
+              "Meaning": "Leaf"
+            }
+          ]
+        },
+        {
+          "Kanji": "竹",
+          "Meaning": "Bamboo",
+          "CardId": 174,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "たけ",
+          "KunyomiRomaji": "take",
+          "OnyomiKana": "チク",
+          "OnyomiRomaji": "chiku",
+          "Examples": [
+            {
+              "Kanji": "竹林",
+              "Furigana": "ちくりん",
+              "Romaji": "chikurin",
+              "Meaning": "Bamboo Grove"
+            },
+            {
+              "Kanji": "竹の子",
+              "Furigana": "たけのこ",
+              "Romaji": "takenoko",
+              "Meaning": "Bamboo Shoot"
+            }
+          ]
+        },
+        {
+          "Kanji": "田",
+          "Meaning": "Rice Field",
+          "CardId": 175,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "た",
+          "KunyomiRomaji": "ta",
+          "OnyomiKana": "デン",
+          "OnyomiRomaji": "den",
+          "Examples": [
+            {
+              "Kanji": "水田",
+              "Furigana": "すいでん",
+              "Romaji": "suiden",
+              "Meaning": "Rice Field"
+            },
+            {
+              "Kanji": "田舎",
+              "Furigana": "いなか",
+              "Romaji": "inaka",
+              "Meaning": "Countryside"
+            }
+          ]
+        },
+        {
+          "Kanji": "畑",
+          "Meaning": "Field / Farm Field",
+          "CardId": 176,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "はたけ, はた",
+          "KunyomiRomaji": "hatake, hata",
+          "OnyomiRomaji": "han",
+          "Examples": [
+            {
+              "Kanji": "野菜畑",
+              "Furigana": "やさいばたけ",
+              "Romaji": "yasai-batake",
+              "Meaning": "Vegetable Field"
+            },
+            {
+              "Kanji": "畑仕事",
+              "Furigana": "はたけしごと",
+              "Romaji": "hatakeshigoto",
+              "Meaning": "Farm Work"
+            }
+          ]
+        },
+        {
+          "Kanji": "光",
+          "Meaning": "Light",
+          "CardId": 177,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "ひかり",
+          "KunyomiRomaji": "hikari",
+          "OnyomiKana": "コウ",
+          "OnyomiRomaji": "kou",
+          "Examples": [
+            {
+              "Kanji": "日光",
+              "Furigana": "にっこう",
+              "Romaji": "nikkou",
+              "Meaning": "Sunlight"
+            },
+            {
+              "Kanji": "月光",
+              "Furigana": "げっこう",
+              "Romaji": "gekkou",
+              "Meaning": "Moonlight"
+            }
+          ]
+        },
+        {
+          "Kanji": "音",
+          "Meaning": "Sound",
+          "CardId": 178,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "おと",
+          "KunyomiRomaji": "oto",
+          "OnyomiKana": "オン",
+          "OnyomiRomaji": "on",
+          "Examples": [
+            {
+              "Kanji": "音楽",
+              "Furigana": "おんがく",
+              "Romaji": "ongaku",
+              "Meaning": "Music"
+            },
+            {
+              "Kanji": "騒音",
+              "Furigana": "そうおん",
+              "Romaji": "souon",
+              "Meaning": "Noise"
+            }
+          ]
+        },
+        {
+          "Kanji": "波",
+          "Meaning": "Wave",
+          "CardId": 179,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "なみ",
+          "KunyomiRomaji": "nami",
+          "OnyomiKana": "ハ",
+          "OnyomiRomaji": "ha",
+          "Examples": [
+            {
+              "Kanji": "波動",
+              "Furigana": "はどう",
+              "Romaji": "hadou",
+              "Meaning": "Wave Motion"
+            },
+            {
+              "Kanji": "高波",
+              "Furigana": "たかなみ",
+              "Romaji": "takanami",
+              "Meaning": "High Waves"
+            }
+          ]
+        },
+        {
+          "Kanji": "影",
+          "Meaning": "Shadow",
+          "CardId": 180,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "かげ",
+          "KunyomiRomaji": "kage",
+          "OnyomiKana": "エイ",
+          "OnyomiRomaji": "ei",
+          "Examples": [
+            {
+              "Kanji": "日影",
+              "Furigana": "ひかげ",
+              "Romaji": "hikage",
+              "Meaning": "Shade"
+            },
+            {
+              "Kanji": "影響",
+              "Furigana": "えいきょう",
+              "Romaji": "eikyou",
+              "Meaning": "Influence"
             }
           ]
         }
