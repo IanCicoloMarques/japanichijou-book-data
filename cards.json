@@ -1,5 +1,5 @@
 {
-  "Credits": "<align=center><size=130%><color=#86C48D><b>Voice credits</b></color></size></align>\n<align=left>- TTS: Microsoft Edge (ja-JP-NanamiNeural)</align>",
+  "Credits": "<align=center><size=130%><color=#86C48D><b>Voice credits</b></color></size></align>\n<size=80%><align=left>-HayaTikaze\n- TTS: Microsoft Edge (ja-JP-NanamiNeural)</align></size>",
   "Topics": [
     {
       "Topic": "Verbs",
@@ -4678,6 +4678,236 @@
               "Meaning": "Influence"
             }
           ]
+        }
+      ]
+    },
+    {
+      "Topic": "Things found in the world",
+      "Cards": [
+        {
+          "Kanji": "学校",
+          "Meaning": "School",
+          "CardId": 181,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "がっこう",
+          "OnyomiRomaji": "gakkou"
+        },
+        {
+          "Kanji": "教室",
+          "Meaning": "Classroom",
+          "CardId": 182,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "きょうしつ",
+          "OnyomiRomaji": "kyoushitsu"
+        },
+        {
+          "Kanji": "廊下",
+          "Meaning": "Hallway",
+          "CardId": 183,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "ろうか",
+          "OnyomiRomaji": "rouka"
+        },
+        {
+          "Kanji": "下駄箱",
+          "Meaning": "Shoe lockers",
+          "CardId": 184,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "げたばこ",
+          "OnyomiRomaji": "getabako"
+        },
+        {
+          "Kanji": "黒板",
+          "Meaning": "Blackboard",
+          "CardId": 185,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "こくばん",
+          "OnyomiRomaji": "kokuban"
+        },
+        {
+          "Kanji": "机",
+          "Meaning": "Desk",
+          "CardId": 186,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "つくえ",
+          "KunyomiRomaji": "tsukue"
+        },
+        {
+          "Kanji": "椅子",
+          "Meaning": "Chair",
+          "CardId": 187,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "いす",
+          "OnyomiRomaji": "isu"
+        },
+        {
+          "Kanji": "ペン",
+          "Meaning": "Pen",
+          "CardId": 188,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "ぺん",
+          "OnyomiRomaji": "pen"
+        },
+        {
+          "Kanji": "ランドセル",
+          "Meaning": "Randoseru",
+          "CardId": 189,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "らんどせる",
+          "OnyomiRomaji": "randoseru"
+        },
+        {
+          "Kanji": "時間割",
+          "Meaning": "Class schedule",
+          "CardId": 190,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "じかんわり",
+          "OnyomiRomaji": "jikanwari"
+        },
+        {
+          "Kanji": "家",
+          "Meaning": "House",
+          "CardId": 191,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "いえ",
+          "KunyomiRomaji": "ie"
+        },
+        {
+          "Kanji": "窓",
+          "Meaning": "Window",
+          "CardId": 192,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "まど",
+          "KunyomiRomaji": "mado"
+        },
+        {
+          "Kanji": "壁",
+          "Meaning": "Wall",
+          "CardId": 193,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "かべ",
+          "KunyomiRomaji": "kabe"
+        },
+        {
+          "Kanji": "床",
+          "Meaning": "Floor",
+          "CardId": 194,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "ゆか",
+          "KunyomiRomaji": "yuka"
+        },
+        {
+          "Kanji": "天井",
+          "Meaning": "Ceiling",
+          "CardId": 195,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "てんじょう",
+          "OnyomiRomaji": "tenjou"
+        },
+        {
+          "Kanji": "畳",
+          "Meaning": "Tatami",
+          "CardId": 196,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "たたみ",
+          "KunyomiRomaji": "tatami"
+        },
+        {
+          "Kanji": "玄関",
+          "Meaning": "Entrance",
+          "CardId": 197,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "げんかん",
+          "OnyomiRomaji": "genkan"
+        },
+        {
+          "Kanji": "庭",
+          "Meaning": "Garden",
+          "CardId": 198,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "にわ",
+          "KunyomiRomaji": "niwa"
+        },
+        {
+          "Kanji": "空",
+          "Meaning": "Sky",
+          "CardId": 199,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "そら",
+          "KunyomiRomaji": "sora"
+        },
+        {
+          "Kanji": "太陽",
+          "Meaning": "Sun",
+          "CardId": 200,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "たいよう",
+          "OnyomiRomaji": "taiyou"
+        },
+        {
+          "Kanji": "草",
+          "Meaning": "Grass",
+          "CardId": 201,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "くさ",
+          "KunyomiRomaji": "kusa"
+        },
+        {
+          "Kanji": "道",
+          "Meaning": "Road",
+          "CardId": 202,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "みち",
+          "KunyomiRomaji": "michi"
+        },
+        {
+          "Kanji": "道路",
+          "Meaning": "Street",
+          "CardId": 203,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "どうろ",
+          "OnyomiRomaji": "douro"
+        },
+        {
+          "Kanji": "神社",
+          "Meaning": "Shrine",
+          "CardId": 204,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "じんじゃ",
+          "OnyomiRomaji": "jinja"
+        },
+        {
+          "Kanji": "鳥居",
+          "Meaning": "Torii gate",
+          "CardId": 205,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "とりい",
+          "OnyomiRomaji": "torii"
         }
       ]
     }
