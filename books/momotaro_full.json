@@ -7,165 +7,149 @@
   "chapters": [
     {
       "title": "<b>第一章：桃太郎の誕生</b><b>  </b><b>だいいっしょう：ももたろうのたんじょう</b><b>  —  </b><b><i>Chapter One: The Birth of Momotaro</i></b>",
-      "pages": [
-        {
-          "body": "昔々、おじいさんとおばあさんがいました。\n毎日、おじいさんは山へ<color=#e06c75>柴刈り</color>に行き、おばあさんは川へ<color=#61afef>洗濯</color>に行きました。",
-          "translation": "Long, long ago, there lived an old man and an old woman.\nEvery day, the old man went to the mountain to <color=#e06c75>gather firewood</color>, and the old woman went to the river to do <color=#61afef>laundry</color>.",
-          "kana": "むかしむかし、おじいさんとおばあさんがいました。\nまいにち、おじいさんはやまへ<color=#e06c75>しばかり</color>にいき、おばあさんはかわへ<color=#61afef>せんたく</color>にいきました。",
-          "dictionary": "<color=#e06c75><b>柴刈り</b></color> — しばかり — gathering firewood and brushwood from the mountains.\n<color=#61afef><b>洗濯</b></color> — せんたく (洗濯) — doing laundry, washing clothes."
-        },
-        {
-          "body": "ある日、おばあさんが川で洗濯をしていると、大きな<color=#e06c75>桃</color>が一つ流れてきました。\n\n<color=#61afef>どんぶらこっこ</color>\n<color=#61afef>どんぶらこっこ</color>",
-          "translation": "One day, while the old woman was doing laundry at the river, a large <color=#e06c75>peach</color> came floating down.\n\n<color=#61afef>Don-bura-ko-kko</color>\n<color=#61afef>Don-bura-ko-kko</color>",
-          "kana": "あるひ、おばあさんがかわでせんたくをしていると、おおきな<color=#e06c75>もも</color>がひとつながれてきました。\n\n<color=#61afef>どんぶらこっこ</color>\n<color=#61afef>どんぶらこっこ</color>",
-          "dictionary": "<color=#e06c75><b>桃</b></color> — もも (桃) — peach. The central symbol of this story.\n<color=#61afef><b>どんぶらこっこ</b></color> — どんぶらこっこ — onomatopoeia (擬音語) for something large floating gently down a river."
-        },
-        {
-          "body": "「これはとても大きな桃だね。おじいさんに<color=#e06c75>お土産</color>として、家へ持って帰りましょう。」\nおばあさんは桃を<color=#61afef>拾い</color>、洗濯物と一緒に家へ持って帰りました。",
-          "translation": "\"What a huge peach! Let me bring it home as a <color=#e06c75>gift</color> for the old man.\"\nThe old woman <color=#61afef>picked up</color> the peach and carried it home along with her laundry.",
-          "kana": "「これはとてもおおきなももだね。おじいさんに<color=#e06c75>おみやげ</color>として、いえへもってかえりましょう。」\nおばあさんはももを<color=#61afef>ひろい</color>、せんたくものといっしょにいえへもってかえりました。",
-          "dictionary": "<color=#e06c75><b>お土産</b></color> — おみやげ (お土産) — a souvenir or gift, often food, brought back from an outing.\n<color=#61afef><b>拾い</b></color> — ひろう (拾う) — to pick up, to find and take something from the ground."
-        },
-        {
-          "body": "「これは本当に大きな桃だ。どこで買ってきたんだ？」\n「いいえ、今日、川で拾ってきたのですよ。」\nおじいさんとおばあさんは、とても<color=#e06c75>喜びました</color>。",
-          "translation": "\"This is truly a huge peach. Where did you buy it?\"\n\"No — I found it floating in the river today.\"\nBoth the old man and old woman were very <color=#e06c75>happy</color>.",
-          "kana": "「これはほんとうにおおきなももだ。どこでかってきたんだ？」\n「いいえ、きょう、かわでひろってきたのですよ。」\nおじいさんとおばあさんは、とても<color=#e06c75>よろこびました</color>。",
-          "dictionary": "<color=#e06c75><b>喜びました</b></color> — よろこぶ (喜ぶ) — to be pleased, to rejoice, to feel happiness."
-        },
-        {
-          "body": "お腹が空いたおばあさんは、<color=#e06c75>包丁</color>で桃を切ろうとしました。\nすると、<color=#61afef>突然</color>桃が二つに<color=#98c379>割れました</color>。\n\n「おぎゃあ、おぎゃあ。」\n\n可愛い赤ちゃんが桃の中から出てきました。",
-          "translation": "Feeling hungry, the old woman tried to cut the peach with a <color=#e06c75>kitchen knife</color>.\nBut <color=#61afef>suddenly</color>, the peach <color=#98c379>split</color> into two by itself.\n\n\"Waah, waah.\"\n\nA cute baby had emerged from inside the peach.",
-          "kana": "おなかがすいたおばあさんは、<color=#e06c75>ほうちょう</color>でももをきろうとしました。\nすると、<color=#61afef>とつぜん</color>ももがふたつに<color=#98c379>われました</color>。\n\n「おぎゃあ、おぎゃあ。」\n\nかわいいあかちゃんがもものなかからでてきました。",
-          "dictionary": "<color=#e06c75><b>包丁</b></color> — ほうちょう (包丁) — a kitchen knife. The everyday tool that reveals the miracle.\n<color=#61afef><b>突然</b></color> — とつぜん (突然) — suddenly, all of a sudden, without warning.\n<color=#98c379><b>割れました</b></color> — われる (割れる) — to split, to crack open, to break apart."
-        },
-        {
-          "body": "「きっと子供が欲しいと私たちが願ったから、<color=#e06c75>神様</color>がこの子を<color=#61afef>授けて</color>くれたのよ。」\nそして、桃の中から生まれたので「<color=#98c379>桃太郎</color>」という名前にしました。",
-          "translation": "\"Surely because we wished for a child, <color=#e06c75>God</color> has <color=#61afef>blessed</color> us with this one.\"\nAnd since he was born from a peach, they named him <color=#98c379>Momotaro</color> — Peach Boy.",
-          "kana": "「きっとこどもがほしいとわたしたちがねがったから、<color=#e06c75>かみさま</color>がこのこを<color=#61afef>さずけて</color>くれたのよ。」\nそして、もものなかからうまれたので「<color=#98c379>ももたろう</color>」というなまえにしました。",
-          "dictionary": "<color=#e06c75><b>神様</b></color> — かみさま (神様) — God or a deity. The honorific -sama shows reverence.\n<color=#61afef><b>授けて</b></color> — さずける (授ける) — to grant or bestow as a gift, especially from a divine being.\n<color=#98c379><b>桃太郎</b></color> — ももたろう (桃太郎) — Peach Boy. 桃 (momo) = peach + 太郎 (tarō) = a traditional name for an eldest son."
-        }
+      "body": [
+        "昔々、おじいさんとおばあさんがいました。\n毎日、おじいさんは山へ<color=#e06c75>柴刈り</color>に行き、おばあさんは川へ<color=#61afef>洗濯</color>に行きました。",
+        "ある日、おばあさんが川で洗濯をしていると、大きな<color=#e06c75>桃</color>が一つ流れてきました。\n\n<color=#61afef>どんぶらこっこ</color>\n<color=#61afef>どんぶらこっこ</color>",
+        "「これはとても大きな桃だね。おじいさんに<color=#e06c75>お土産</color>として、家へ持って帰りましょう。」\nおばあさんは桃を<color=#61afef>拾い</color>、洗濯物と一緒に家へ持って帰りました。",
+        "「これは本当に大きな桃だ。どこで買ってきたんだ？」\n「いいえ、今日、川で拾ってきたのですよ。」\nおじいさんとおばあさんは、とても<color=#e06c75>喜びました</color>。",
+        "お腹が空いたおばあさんは、<color=#e06c75>包丁</color>で桃を切ろうとしました。\nすると、<color=#61afef>突然</color>桃が二つに<color=#98c379>割れました</color>。\n\n「おぎゃあ、おぎゃあ。」\n\n可愛い赤ちゃんが桃の中から出てきました。",
+        "「きっと子供が欲しいと私たちが願ったから、<color=#e06c75>神様</color>がこの子を<color=#61afef>授けて</color>くれたのよ。」\nそして、桃の中から生まれたので「<color=#98c379>桃太郎</color>」という名前にしました。"
+      ],
+      "translation": [
+        "Long, long ago, there lived an old man and an old woman.\nEvery day, the old man went to the mountain to <color=#e06c75>gather firewood</color>, and the old woman went to the river to do <color=#61afef>laundry</color>.",
+        "One day, while the old woman was doing laundry at the river, a large <color=#e06c75>peach</color> came floating down.\n\n<color=#61afef>Don-bura-ko-kko</color>\n<color=#61afef>Don-bura-ko-kko</color>",
+        "\"What a huge peach! Let me bring it home as a <color=#e06c75>gift</color> for the old man.\"\nThe old woman <color=#61afef>picked up</color> the peach and carried it home along with her laundry.",
+        "\"This is truly a huge peach. Where did you buy it?\"\n\"No — I found it floating in the river today.\"\nBoth the old man and old woman were very <color=#e06c75>happy</color>.",
+        "Feeling hungry, the old woman tried to cut the peach with a <color=#e06c75>kitchen knife</color>.\nBut <color=#61afef>suddenly</color>, the peach <color=#98c379>split</color> into two by itself.\n\n\"Waah, waah.\"\n\nA cute baby had emerged from inside the peach.",
+        "\"Surely because we wished for a child, <color=#e06c75>God</color> has <color=#61afef>blessed</color> us with this one.\"\nAnd since he was born from a peach, they named him <color=#98c379>Momotaro</color> — Peach Boy."
+      ],
+      "kana": [
+        "むかしむかし、おじいさんとおばあさんがいました。\nまいにち、おじいさんはやまへ<color=#e06c75>しばかり</color>にいき、おばあさんはかわへ<color=#61afef>せんたく</color>にいきました。",
+        "あるひ、おばあさんがかわでせんたくをしていると、おおきな<color=#e06c75>もも</color>がひとつながれてきました。\n\n<color=#61afef>どんぶらこっこ</color>\n<color=#61afef>どんぶらこっこ</color>",
+        "「これはとてもおおきなももだね。おじいさんに<color=#e06c75>おみやげ</color>として、いえへもってかえりましょう。」\nおばあさんはももを<color=#61afef>ひろい</color>、せんたくものといっしょにいえへもってかえりました。",
+        "「これはほんとうにおおきなももだ。どこでかってきたんだ？」\n「いいえ、きょう、かわでひろってきたのですよ。」\nおじいさんとおばあさんは、とても<color=#e06c75>よろこびました</color>。",
+        "おなかがすいたおばあさんは、<color=#e06c75>ほうちょう</color>でももをきろうとしました。\nすると、<color=#61afef>とつぜん</color>ももがふたつに<color=#98c379>われました</color>。\n\n「おぎゃあ、おぎゃあ。」\n\nかわいいあかちゃんがもものなかからでてきました。",
+        "「きっとこどもがほしいとわたしたちがねがったから、<color=#e06c75>かみさま</color>がこのこを<color=#61afef>さずけて</color>くれたのよ。」\nそして、もものなかからうまれたので「<color=#98c379>ももたろう</color>」というなまえにしました。"
+      ],
+      "dictionary": [
+        "<color=#e06c75><b>柴刈り</b></color> — しばかり — gathering firewood and brushwood from the mountains.\n<color=#61afef><b>洗濯</b></color> — せんたく (洗濯) — doing laundry, washing clothes.",
+        "<color=#e06c75><b>桃</b></color> — もも (桃) — peach. The central symbol of this story.\n<color=#61afef><b>どんぶらこっこ</b></color> — どんぶらこっこ — onomatopoeia (擬音語) for something large floating gently down a river.",
+        "<color=#e06c75><b>お土産</b></color> — おみやげ (お土産) — a souvenir or gift, often food, brought back from an outing.\n<color=#61afef><b>拾い</b></color> — ひろう (拾う) — to pick up, to find and take something from the ground.",
+        "<color=#e06c75><b>喜びました</b></color> — よろこぶ (喜ぶ) — to be pleased, to rejoice, to feel happiness.",
+        "<color=#e06c75><b>包丁</b></color> — ほうちょう (包丁) — a kitchen knife. The everyday tool that reveals the miracle.\n<color=#61afef><b>突然</b></color> — とつぜん (突然) — suddenly, all of a sudden, without warning.\n<color=#98c379><b>割れました</b></color> — われる (割れる) — to split, to crack open, to break apart.",
+        "<color=#e06c75><b>神様</b></color> — かみさま (神様) — God or a deity. The honorific -sama shows reverence.\n<color=#61afef><b>授けて</b></color> — さずける (授ける) — to grant or bestow as a gift, especially from a divine being.\n<color=#98c379><b>桃太郎</b></color> — ももたろう (桃太郎) — Peach Boy. 桃 (momo) = peach + 太郎 (tarō) = a traditional name for an eldest son."
       ]
     },
     {
       "title": "<b>第二章：旅立ち</b><b>  </b><b>だいにしょう：たびだち</b><b>  —  </b><b><i>Chapter Two: Departure</i></b>",
-      "pages": [
-        {
-          "body": "桃太郎は体が大きく、力が強く、成長の早い子供でした。\nある日、海の向こうにある「<color=#e06c75>鬼ヶ島</color>」の悪い鬼の話を聞きました。\nその島には悪い鬼が住んでいて、人々から<color=#98c379>奪った</color><color=#61afef>宝物</color>を守っていると言われていました。",
-          "translation": "Momotaro was large in body, strong in power, and quick to grow.\nOne day, he heard a story about the evil demons of <color=#e06c75>Onigashima</color> — Demon Island — beyond the sea.\nIt was said that evil demons lived there, guarding the <color=#61afef>treasures</color> they had <color=#98c379>stolen</color> from people.",
-          "kana": "ももたろうはからだがおおきく、ちからがつよく、せいちょうのはやいこどもでした。\nあるひ、うみのむこうにある「<color=#e06c75>おにがしま</color>」のわるいおにのはなしをききました。\nそのしまにはわるいおにがすんでいて、ひとびとから<color=#98c379>うばった</color><color=#61afef>たからもの</color>をまもっているといわれていました。",
-          "dictionary": "<color=#e06c75><b>鬼ヶ島</b></color> — おにがしま (鬼ヶ島) — Demon Island. 鬼 (oni) = horned demon from Japanese folklore + 島 (shima) = island.\n<color=#61afef><b>宝物</b></color> — たからもの (宝物) — treasure, precious belongings.\n<color=#98c379><b>奪った</b></color> — うばう (奪う) — to steal, to snatch away by force."
-        },
-        {
-          "body": "「おじいさん、おばあさん。僕は、鬼ヶ島へ行って鬼を倒そうと思います。」\n「それは<color=#e06c75>勇気</color>が必要なことだ。気をつけて<color=#61afef>いってらっしゃい</color>。」\n「お腹が空くでしょう。<color=#98c379>お弁当</color>を作ってあげましょう。」",
-          "translation": "\"Grandfather, Grandmother. I intend to go to Onigashima and defeat the demons.\"\n\"That takes great <color=#e06c75>courage</color>. Please <color=#61afef>take good care</color> of yourself.\"\n\"You will get hungry. Let me make you a <color=#98c379>lunchbox</color>.\"",
-          "kana": "「おじいさん、おばあさん。ぼくは、おにがしまへいっておにをたおそうとおもいます。」\n「それは<color=#e06c75>ゆうき</color>がひつようなことだ。きをつけて<color=#61afef>いってらっしゃい</color>。」\n「おなかがすくでしょう。<color=#98c379>おべんとう</color>をつくってあげましょう。」",
-          "dictionary": "<color=#e06c75><b>勇気</b></color> — ゆうき (勇気) — courage, bravery.\n<color=#61afef><b>いってらっしゃい</b></color> — いってらっしゃい — a farewell said to someone leaving, meaning 'go and come back safely.'\n<color=#98c379><b>お弁当</b></color> — おべんとう (お弁当) — a packed meal or lunchbox, a staple of Japanese daily life."
-        },
-        {
-          "body": "おじいさんとおばあさんは、大きな<color=#e06c75>臼</color>で<color=#61afef>きびだんご</color>を作り始めました。\n\n<color=#98c379>ぺったんこ</color>　<color=#98c379>ぺったんこ</color>\n\n桃太郎が出発する準備ができた頃、<color=#61afef>きびだんご</color>が完成しました。",
-          "translation": "The old man and old woman began making <color=#61afef>millet dumplings</color> with a large <color=#e06c75>mortar</color>.\n\n<color=#98c379>Pet-tan-ko</color>  <color=#98c379>Pet-tan-ko</color>\n\nBy the time Momotaro was ready to depart, the <color=#61afef>millet dumplings</color> were finished.",
-          "kana": "おじいさんとおばあさんは、おおきな<color=#e06c75>うす</color>で<color=#61afef>きびだんご</color>をつくりはじめました。\n\n<color=#98c379>ぺったんこ</color>　<color=#98c379>ぺったんこ</color>\n\nももたろうがしゅっぱつするじゅんびができたころ、<color=#61afef>きびだんご</color>がかんせいしました。",
-          "dictionary": "<color=#e06c75><b>臼</b></color> — うす (臼) — a large mortar used to pound rice or millet. A traditional Japanese household tool.\n<color=#61afef><b>きびだんご</b></color> — きびだんご — millet dumplings. きび = millet grain, だんご = dumpling. The magic food of loyalty in this story.\n<color=#98c379><b>ぺったんこ</b></color> — ぺったんこ — onomatopoeia for the rhythmic pounding of a mallet on a mortar."
-        },
-        {
-          "body": "「おじいさん、おばあさん。<color=#e06c75>いってきます</color>。」\n「<color=#61afef>無事に</color>帰ってきなさい。」「怪我をしないように気をつけてね。」\n「大丈夫です！この<color=#98c379>日本一</color>美味しいきびだんごを持っていますから！」\nそして、桃太郎は旅にでました。",
-          "translation": "\"Grandfather, Grandmother. <color=#e06c75>I am off</color>.\"\n\"Come back <color=#61afef>safely</color>.\" \"Be careful not to get hurt.\"\n\"I will be fine! I have the most delicious millet dumplings in <color=#98c379>all of Japan</color>!\"\nAnd so Momotaro set out on his journey.",
-          "kana": "「おじいさん、おばあさん。<color=#e06c75>いってきます</color>。」\n「<color=#61afef>ぶじに</color>かえってきなさい。」「けがをしないようにきをつけてね。」\n「だいじょうぶです！この<color=#98c379>にほんいち</color>おいしいきびだんごをもっていますから！」\nそして、ももたろうはたびにでました。",
-          "dictionary": "<color=#e06c75><b>いってきます</b></color> — いってきます — phrase said when leaving home, meaning 'I am going and will return.' Paired with いってらっしゃい.\n<color=#61afef><b>無事に</b></color> — ぶじに (無事に) — safely, without incident or harm.\n<color=#98c379><b>日本一</b></color> — にほんいち (日本一) — the best in all of Japan, number one in Japan. A strong superlative."
-        }
+      "body": [
+        "桃太郎は体が大きく、力が強く、成長の早い子供でした。\nある日、海の向こうにある「<color=#e06c75>鬼ヶ島</color>」の悪い鬼の話を聞きました。\nその島には悪い鬼が住んでいて、人々から<color=#98c379>奪った</color><color=#61afef>宝物</color>を守っていると言われていました。",
+        "「おじいさん、おばあさん。僕は、鬼ヶ島へ行って鬼を倒そうと思います。」\n「それは<color=#e06c75>勇気</color>が必要なことだ。気をつけて<color=#61afef>いってらっしゃい</color>。」\n「お腹が空くでしょう。<color=#98c379>お弁当</color>を作ってあげましょう。」",
+        "おじいさんとおばあさんは、大きな<color=#e06c75>臼</color>で<color=#61afef>きびだんご</color>を作り始めました。\n\n<color=#98c379>ぺったんこ</color>　<color=#98c379>ぺったんこ</color>\n\n桃太郎が出発する準備ができた頃、<color=#61afef>きびだんご</color>が完成しました。",
+        "「おじいさん、おばあさん。<color=#e06c75>いってきます</color>。」\n「<color=#61afef>無事に</color>帰ってきなさい。」「怪我をしないように気をつけてね。」\n「大丈夫です！この<color=#98c379>日本一</color>美味しいきびだんごを持っていますから！」\nそして、桃太郎は旅にでました。"
+      ],
+      "translation": [
+        "Momotaro was large in body, strong in power, and quick to grow.\nOne day, he heard a story about the evil demons of <color=#e06c75>Onigashima</color> — Demon Island — beyond the sea.\nIt was said that evil demons lived there, guarding the <color=#61afef>treasures</color> they had <color=#98c379>stolen</color> from people.",
+        "\"Grandfather, Grandmother. I intend to go to Onigashima and defeat the demons.\"\n\"That takes great <color=#e06c75>courage</color>. Please <color=#61afef>take good care</color> of yourself.\"\n\"You will get hungry. Let me make you a <color=#98c379>lunchbox</color>.\"",
+        "The old man and old woman began making <color=#61afef>millet dumplings</color> with a large <color=#e06c75>mortar</color>.\n\n<color=#98c379>Pet-tan-ko</color>  <color=#98c379>Pet-tan-ko</color>\n\nBy the time Momotaro was ready to depart, the <color=#61afef>millet dumplings</color> were finished.",
+        "\"Grandfather, Grandmother. <color=#e06c75>I am off</color>.\"\n\"Come back <color=#61afef>safely</color>.\" \"Be careful not to get hurt.\"\n\"I will be fine! I have the most delicious millet dumplings in <color=#98c379>all of Japan</color>!\"\nAnd so Momotaro set out on his journey."
+      ],
+      "kana": [
+        "ももたろうはからだがおおきく、ちからがつよく、せいちょうのはやいこどもでした。\nあるひ、うみのむこうにある「<color=#e06c75>おにがしま</color>」のわるいおにのはなしをききました。\nそのしまにはわるいおにがすんでいて、ひとびとから<color=#98c379>うばった</color><color=#61afef>たからもの</color>をまもっているといわれていました。",
+        "「おじいさん、おばあさん。ぼくは、おにがしまへいっておにをたおそうとおもいます。」\n「それは<color=#e06c75>ゆうき</color>がひつようなことだ。きをつけて<color=#61afef>いってらっしゃい</color>。」\n「おなかがすくでしょう。<color=#98c379>おべんとう</color>をつくってあげましょう。」",
+        "おじいさんとおばあさんは、おおきな<color=#e06c75>うす</color>で<color=#61afef>きびだんご</color>をつくりはじめました。\n\n<color=#98c379>ぺったんこ</color>　<color=#98c379>ぺったんこ</color>\n\nももたろうがしゅっぱつするじゅんびができたころ、<color=#61afef>きびだんご</color>がかんせいしました。",
+        "「おじいさん、おばあさん。<color=#e06c75>いってきます</color>。」\n「<color=#61afef>ぶじに</color>かえってきなさい。」「けがをしないようにきをつけてね。」\n「だいじょうぶです！この<color=#98c379>にほんいち</color>おいしいきびだんごをもっていますから！」\nそして、ももたろうはたびにでました。"
+      ],
+      "dictionary": [
+        "<color=#e06c75><b>鬼ヶ島</b></color> — おにがしま (鬼ヶ島) — Demon Island. 鬼 (oni) = horned demon from Japanese folklore + 島 (shima) = island.\n<color=#61afef><b>宝物</b></color> — たからもの (宝物) — treasure, precious belongings.\n<color=#98c379><b>奪った</b></color> — うばう (奪う) — to steal, to snatch away by force.",
+        "<color=#e06c75><b>勇気</b></color> — ゆうき (勇気) — courage, bravery.\n<color=#61afef><b>いってらっしゃい</b></color> — いってらっしゃい — a farewell said to someone leaving, meaning 'go and come back safely.'\n<color=#98c379><b>お弁当</b></color> — おべんとう (お弁当) — a packed meal or lunchbox, a staple of Japanese daily life.",
+        "<color=#e06c75><b>臼</b></color> — うす (臼) — a large mortar used to pound rice or millet. A traditional Japanese household tool.\n<color=#61afef><b>きびだんご</b></color> — きびだんご — millet dumplings. きび = millet grain, だんご = dumpling. The magic food of loyalty in this story.\n<color=#98c379><b>ぺったんこ</b></color> — ぺったんこ — onomatopoeia for the rhythmic pounding of a mallet on a mortar.",
+        "<color=#e06c75><b>いってきます</b></color> — いってきます — phrase said when leaving home, meaning 'I am going and will return.' Paired with いってらっしゃい.\n<color=#61afef><b>無事に</b></color> — ぶじに (無事に) — safely, without incident or harm.\n<color=#98c379><b>日本一</b></color> — にほんいち (日本一) — the best in all of Japan, number one in Japan. A strong superlative."
       ]
     },
     {
       "title": "<b>第三章：仲間たち</b><b>  </b><b>だいさんしょう：なかまたち</b><b>  —  </b><b><i>Chapter Three: Companions</i></b>",
-      "pages": [
-        {
-          "body": "少し歩くと、草の中から鳴き声が聞こえました。\n<color=#e06c75>ワンワン</color>　<color=#e06c75>ワンワン</color>\n<color=#61afef>一匹</color>の犬が出てきました。\n「桃太郎さん、どこへ行くのですか？」「鬼ヶ島へ鬼を倒しに行きます。」",
-          "translation": "After walking a little, a bark was heard from the grass.\n<color=#e06c75>Woof woof</color>! <color=#e06c75>Woof woof</color>!\n<color=#61afef>A dog</color> came out.\n\"Momotaro, where are you going?\" \"I am going to Onigashima to defeat the demons.\"",
-          "kana": "すこしあるくと、くさのなかからなきごえがきこえました。\n<color=#e06c75>わんわん</color>　<color=#e06c75>わんわん</color>\n<color=#61afef>いっぴき</color>のいぬがでてきました。\n「ももたろうさん、どこへいくのですか？」「おにがしまへおにをたおしにいきます。」",
-          "dictionary": "<color=#e06c75><b>ワンワン</b></color> — ワンワン — Japanese onomatopoeia for a dog barking. Dogs say 'wan wan' in Japan.\n<color=#61afef><b>一匹</b></color> — いっぴき (一匹) — one small animal. 匹 is the counter used for small non-human animals."
-        },
-        {
-          "body": "「その<color=#e06c75>袋</color>の中は何ですか？」「日本一のきびだんごです！」\n「一つください！そうすれば、一緒に鬼を倒しに行きます！」\n「よし！きびだんごを一つあげるから、一緒に行こう！」\n犬は<color=#61afef>仲間</color>になりました。",
-          "translation": "\"What is in that <color=#e06c75>bag</color>?\" \"The finest millet dumplings in all of Japan!\"\n\"Please give me one! If so, I will go with you to defeat the demons!\"\n\"All right! I will give you one, so come with me!\"\nThe dog became a <color=#61afef>companion</color>.",
-          "kana": "「その<color=#e06c75>ふくろ</color>のなかはなんですか？」「にほんいちのきびだんごです！」\n「ひとつください！そうすれば、いっしょにおにをたおしにいきます！」\n「よし！きびだんごをひとつあげるから、いっしょにいこう！」\nいぬは<color=#61afef>なかま</color>になりました。",
-          "dictionary": "<color=#e06c75><b>袋</b></color> — ふくろ (袋) — bag, pouch, sack.\n<color=#61afef><b>仲間</b></color> — なかま (仲間) — companion, ally, member of a group. A key theme of this story."
-        },
-        {
-          "body": "山を下りてしばらく歩くと、木の上から鳴き声が聞こえました。\n<color=#e06c75>ウッキー</color>　<color=#e06c75>ウッキー</color>\n一匹の<color=#61afef>猿</color>が出てきました。<color=#61afef>猿</color>もきびだんごをもらい、仲間になりました。",
-          "translation": "Coming down the mountain and walking for a while, a cry was heard from the treetops.\n<color=#e06c75>Ukki</color>! <color=#e06c75>Ukki</color>!\nA <color=#61afef>monkey</color> appeared. The <color=#61afef>monkey</color> too received a millet dumpling and joined the group.",
-          "kana": "やまをおりてしばらくあるくと、きのうえからなきごえがきこえました。\n<color=#e06c75>うっきー</color>　<color=#e06c75>うっきー</color>\nいっぴきの<color=#61afef>さる</color>がでてきました。<color=#61afef>さる</color>もきびだんごをもらい、なかまになりました。",
-          "dictionary": "<color=#e06c75><b>ウッキー</b></color> — ウッキー — Japanese onomatopoeia for a monkey's cry.\n<color=#61afef><b>猿</b></color> — さる (猿) — monkey. Known in Japanese folklore for cleverness and agility."
-        },
-        {
-          "body": "森を抜けて広い野原に来ると、空から鳴き声が聞こえました。\n<color=#e06c75>ケンケン</color>　<color=#e06c75>ケンケン</color>\n<color=#98c379>一羽</color>の<color=#61afef>キジ</color>が飛んできました。<color=#61afef>キジ</color>もきびだんごをもらい、仲間になりました。\nこれで犬と猿と<color=#61afef>キジ</color>が仲間になりました。",
-          "translation": "Passing through the forest and reaching a wide meadow, a cry was heard from the sky.\n<color=#e06c75>Ken-ken</color>! <color=#e06c75>Ken-ken</color>!\n<color=#98c379>A pheasant</color> came flying down. The <color=#61afef>pheasant</color> too received a dumpling and joined.\nNow the dog, the monkey, and the <color=#61afef>pheasant</color> were all companions.",
-          "kana": "もりをぬけてひろいのはらにくると、そらからなきごえがきこえました。\n<color=#e06c75>けんけん</color>　<color=#e06c75>けんけん</color>\n<color=#98c379>いちわ</color>の<color=#61afef>きじ</color>がとんできました。<color=#61afef>きじ</color>もきびだんごをもらい、なかまになりました。\nこれでいぬとさるとキジがなかまになりました。",
-          "dictionary": "<color=#e06c75><b>ケンケン</b></color> — ケンケン — the cry of a pheasant in Japanese onomatopoeia.\n<color=#61afef><b>キジ</b></color> — キジ (雉) — the green pheasant, national bird of Japan. Famous for bravery in folklore.\n<color=#98c379><b>一羽</b></color> — いちわ (一羽) — one bird. 羽 is the counter used specifically for birds."
-        }
+      "body": [
+        "少し歩くと、草の中から鳴き声が聞こえました。\n<color=#e06c75>ワンワン</color>　<color=#e06c75>ワンワン</color>\n<color=#61afef>一匹</color>の犬が出てきました。\n「桃太郎さん、どこへ行くのですか？」「鬼ヶ島へ鬼を倒しに行きます。」",
+        "「その<color=#e06c75>袋</color>の中は何ですか？」「日本一のきびだんごです！」\n「一つください！そうすれば、一緒に鬼を倒しに行きます！」\n「よし！きびだんごを一つあげるから、一緒に行こう！」\n犬は<color=#61afef>仲間</color>になりました。",
+        "山を下りてしばらく歩くと、木の上から鳴き声が聞こえました。\n<color=#e06c75>ウッキー</color>　<color=#e06c75>ウッキー</color>\n一匹の<color=#61afef>猿</color>が出てきました。<color=#61afef>猿</color>もきびだんごをもらい、仲間になりました。",
+        "森を抜けて広い野原に来ると、空から鳴き声が聞こえました。\n<color=#e06c75>ケンケン</color>　<color=#e06c75>ケンケン</color>\n<color=#98c379>一羽</color>の<color=#61afef>キジ</color>が飛んできました。<color=#61afef>キジ</color>もきびだんごをもらい、仲間になりました。\nこれで犬と猿と<color=#61afef>キジ</color>が仲間になりました。"
+      ],
+      "translation": [
+        "After walking a little, a bark was heard from the grass.\n<color=#e06c75>Woof woof</color>! <color=#e06c75>Woof woof</color>!\n<color=#61afef>A dog</color> came out.\n\"Momotaro, where are you going?\" \"I am going to Onigashima to defeat the demons.\"",
+        "\"What is in that <color=#e06c75>bag</color>?\" \"The finest millet dumplings in all of Japan!\"\n\"Please give me one! If so, I will go with you to defeat the demons!\"\n\"All right! I will give you one, so come with me!\"\nThe dog became a <color=#61afef>companion</color>.",
+        "Coming down the mountain and walking for a while, a cry was heard from the treetops.\n<color=#e06c75>Ukki</color>! <color=#e06c75>Ukki</color>!\nA <color=#61afef>monkey</color> appeared. The <color=#61afef>monkey</color> too received a millet dumpling and joined the group.",
+        "Passing through the forest and reaching a wide meadow, a cry was heard from the sky.\n<color=#e06c75>Ken-ken</color>! <color=#e06c75>Ken-ken</color>!\n<color=#98c379>A pheasant</color> came flying down. The <color=#61afef>pheasant</color> too received a dumpling and joined.\nNow the dog, the monkey, and the <color=#61afef>pheasant</color> were all companions."
+      ],
+      "kana": [
+        "すこしあるくと、くさのなかからなきごえがきこえました。\n<color=#e06c75>わんわん</color>　<color=#e06c75>わんわん</color>\n<color=#61afef>いっぴき</color>のいぬがでてきました。\n「ももたろうさん、どこへいくのですか？」「おにがしまへおにをたおしにいきます。」",
+        "「その<color=#e06c75>ふくろ</color>のなかはなんですか？」「にほんいちのきびだんごです！」\n「ひとつください！そうすれば、いっしょにおにをたおしにいきます！」\n「よし！きびだんごをひとつあげるから、いっしょにいこう！」\nいぬは<color=#61afef>なかま</color>になりました。",
+        "やまをおりてしばらくあるくと、きのうえからなきごえがきこえました。\n<color=#e06c75>うっきー</color>　<color=#e06c75>うっきー</color>\nいっぴきの<color=#61afef>さる</color>がでてきました。<color=#61afef>さる</color>もきびだんごをもらい、なかまになりました。",
+        "もりをぬけてひろいのはらにくると、そらからなきごえがきこえました。\n<color=#e06c75>けんけん</color>　<color=#e06c75>けんけん</color>\n<color=#98c379>いちわ</color>の<color=#61afef>きじ</color>がとんできました。<color=#61afef>きじ</color>もきびだんごをもらい、なかまになりました。\nこれでいぬとさるとキジがなかまになりました。"
+      ],
+      "dictionary": [
+        "<color=#e06c75><b>ワンワン</b></color> — ワンワン — Japanese onomatopoeia for a dog barking. Dogs say 'wan wan' in Japan.\n<color=#61afef><b>一匹</b></color> — いっぴき (一匹) — one small animal. 匹 is the counter used for small non-human animals.",
+        "<color=#e06c75><b>袋</b></color> — ふくろ (袋) — bag, pouch, sack.\n<color=#61afef><b>仲間</b></color> — なかま (仲間) — companion, ally, member of a group. A key theme of this story.",
+        "<color=#e06c75><b>ウッキー</b></color> — ウッキー — Japanese onomatopoeia for a monkey's cry.\n<color=#61afef><b>猿</b></color> — さる (猿) — monkey. Known in Japanese folklore for cleverness and agility.",
+        "<color=#e06c75><b>ケンケン</b></color> — ケンケン — the cry of a pheasant in Japanese onomatopoeia.\n<color=#61afef><b>キジ</b></color> — キジ (雉) — the green pheasant, national bird of Japan. Famous for bravery in folklore.\n<color=#98c379><b>一羽</b></color> — いちわ (一羽) — one bird. 羽 is the counter used specifically for birds."
       ]
     },
     {
       "title": "<b>第四章：鬼ヶ島</b><b>  </b><b>だいよんしょう：おにがしま</b><b>  —  </b><b><i>Chapter Four: Onigashima</i></b>",
-      "pages": [
-        {
-          "body": "広い海が見えてきました。そこには<color=#e06c75>船</color>が<color=#61afef>一艘</color>ありました。\n桃太郎と仲間たちは、この<color=#e06c75>船</color>に乗りました。\n一時間ほど進むと、島が見えてきました。\n「あれが鬼ヶ島だ！」",
-          "translation": "A vast sea came into view. There was a <color=#61afef>single</color> <color=#e06c75>boat</color>.\nMomotaro and his companions boarded the <color=#e06c75>boat</color>.\nAfter sailing for about an hour, an island came into view.\n\"That is Onigashima!\"",
-          "kana": "ひろいうみがみえてきました。そこには<color=#e06c75>ふね</color>が<color=#61afef>いっそう</color>ありました。\nももたろうとなかまたちは、この<color=#e06c75>ふね</color>にのりました。\nいちじかんほどすすむと、しまがみえてきました。\n「あれがおにがしまだ！」",
-          "dictionary": "<color=#e06c75><b>船</b></color> — ふね (船) — boat, ship. The vessel that carries Momotaro to Onigashima.\n<color=#61afef><b>一艘</b></color> — いっそう (一艘) — one boat. 艘 is the counter used for ships and boats."
-        },
-        {
-          "body": "島に<color=#e06c75>到着</color>すると、<color=#98c379>門</color>の前に<color=#61afef>兵隊</color>の鬼がいました。\nその鬼は驚いて、<color=#98c379>門</color>の中へ逃げてしまいました。\n犬が大声で言いました。「桃太郎がお前たちを倒しに来たぞ！<color=#98c379>門</color>を開けろ！」",
-          "translation": "<color=#e06c75>Arriving</color> at the island, there were <color=#61afef>soldier</color> demons at the <color=#98c379>gate</color>.\nThe demons were startled and fled inside the <color=#98c379>gate</color>.\nThe dog called out loudly: \"Momotaro has come to defeat you! Open the <color=#98c379>gate</color>!\"",
-          "kana": "しまに<color=#e06c75>とうちゃく</color>すると、<color=#98c379>もん</color>のまえに<color=#61afef>へいたい</color>のおにがいました。\nそのおにはおどろいて、<color=#98c379>もん</color>のなかへにげてしまいました。\nいぬがおおごえでいいました。「ももたろうがおまえたちをたおしにきたぞ！<color=#98c379>もん</color>をあけろ！」",
-          "dictionary": "<color=#e06c75><b>到着</b></color> — とうちゃく (到着) — arrival, reaching a destination.\n<color=#61afef><b>兵隊</b></color> — へいたい (兵隊) — soldier, troop, military personnel.\n<color=#98c379><b>門</b></color> — もん (門) — gate, large entrance. The guarded entrance to the demon castle."
-        },
-        {
-          "body": "キジが空を飛び、門を超えて兵隊の鬼を<color=#e06c75>攻撃</color>しました。\n猿は高い壁を登って、門の<color=#61afef>鍵</color>を開けました。\n「わぁー！」と大きな声を出して、桃太郎たちは<color=#98c379>お城</color>の中へ入りました。",
-          "translation": "The pheasant flew through the air, crossed the gate, and <color=#e06c75>attacked</color> the soldier demons.\nThe monkey climbed the high wall and <color=#61afef>unlocked</color> the gate.\nShouting \"Charge!\", Momotaro and his companions stormed into the <color=#98c379>castle</color>.",
-          "kana": "きじがそらをとび、もんをこえてへいたいのおにを<color=#e06c75>こうげき</color>しました。\nさるはたかいかべをのぼって、もんの<color=#61afef>かぎ</color>をあけました。\n「わぁー！」とおおきなこえをだして、ももたろうたちは<color=#98c379>おしろ</color>のなかへはいりました。",
-          "dictionary": "<color=#e06c75><b>攻撃</b></color> — こうげき (攻撃) — attack, assault. Each companion uses their natural ability.\n<color=#61afef><b>鍵</b></color> — かぎ (鍵) — key, lock. The monkey's climbing ability opens the path for everyone.\n<color=#98c379><b>お城</b></color> — おしろ (お城) — castle. The demon chief's stronghold on Onigashima."
-        },
-        {
-          "body": "鬼の<color=#e06c75>大将</color>がたくさんの兵隊を連れて向かってきました。\n犬は足を噛み、猿は顔を<color=#61afef>引っかき</color>、キジは目を突きました。\n「痛い！痛い！いたたたたっ！」\n兵隊の鬼たちは逃げていきました。",
-          "translation": "The demon <color=#e06c75>chief</color> came forward with many soldiers.\nThe dog bit their legs, the monkey <color=#61afef>scratched</color> their faces, the pheasant pecked their eyes.\n\"Ow! Ow! Ouch ouch ouch!\"\nThe soldier demons fled.",
-          "kana": "おにの<color=#e06c75>たいしょう</color>がたくさんのへいたいをつれてむかってきました。\nいぬはあしをかみ、さるはかおを<color=#61afef>ひっかき</color>、きじはめをつきました。\n「いたい！いたい！いたたたたっ！」\nへいたいのおにたちはにげていきました。",
-          "dictionary": "<color=#e06c75><b>大将</b></color> — たいしょう (大将) — general, commander, chief. The leader of the demon forces.\n<color=#61afef><b>引っかき</b></color> — ひっかく (引っかく) — to scratch with claws or nails. The monkey's signature move."
-        },
-        {
-          "body": "「お前が桃太郎だな！<color=#e06c75>俺様</color>に勝てるわけがない！」\n「お前たちは悪いことをした！<color=#61afef>許せない</color>！倒してやる！」\n鬼の大将と桃太郎は戦い始めました。\n\n<color=#98c379>ドン</color>！<color=#98c379>ドン</color>！　ドシン！ドシン！　バキッ！バキッ！\n\nついに桃太郎は、鬼の大将を倒しました。",
-          "translation": "\"So you are Momotaro! There is no way you can defeat <color=#e06c75>me</color>!\"\n\"You have done terrible things! I cannot <color=#61afef>forgive</color> you! I will defeat you!\"\nMomotaro and the demon chief began to fight.\n\n<color=#98c379>Boom</color>! <color=#98c379>Boom</color>!  Thud! Thud!  Crack! Crack!\n\nAt last, Momotaro defeated the demon chief.",
-          "kana": "「おまえがももたろうだな！<color=#e06c75>おれさま</color>にかてるわけがない！」\n「おまえたちはわるいことをした！<color=#61afef>ゆるせない</color>！たおしてやる！」\nおにのたいしょうとももたろうはたたかいはじめました。\n\nドン！ドン！　ドシン！ドシン！　バキッ！バキッ！\n\nついにももたろうは、おにのたいしょうをたおしました。",
-          "dictionary": "<color=#e06c75><b>俺様</b></color> — おれさま (俺様) — an arrogant first-person pronoun. Used by villains to show extreme self-importance.\n<color=#61afef><b>許せない</b></color> — ゆるせない (許せない) — cannot forgive, unforgivable. Expresses strong moral outrage.\n<color=#98c379><b>ドン</b></color> — ドン・ドシン・バキッ — battle onomatopoeia. ドン = boom, ドシン = heavy thud, バキッ = crack/snap."
-        }
+      "body": [
+        "広い海が見えてきました。そこには<color=#e06c75>船</color>が<color=#61afef>一艘</color>ありました。\n桃太郎と仲間たちは、この<color=#e06c75>船</color>に乗りました。\n一時間ほど進むと、島が見えてきました。\n「あれが鬼ヶ島だ！」",
+        "島に<color=#e06c75>到着</color>すると、<color=#98c379>門</color>の前に<color=#61afef>兵隊</color>の鬼がいました。\nその鬼は驚いて、<color=#98c379>門</color>の中へ逃げてしまいました。\n犬が大声で言いました。「桃太郎がお前たちを倒しに来たぞ！<color=#98c379>門</color>を開けろ！」",
+        "キジが空を飛び、門を超えて兵隊の鬼を<color=#e06c75>攻撃</color>しました。\n猿は高い壁を登って、門の<color=#61afef>鍵</color>を開けました。\n「わぁー！」と大きな声を出して、桃太郎たちは<color=#98c379>お城</color>の中へ入りました。",
+        "鬼の<color=#e06c75>大将</color>がたくさんの兵隊を連れて向かってきました。\n犬は足を噛み、猿は顔を<color=#61afef>引っかき</color>、キジは目を突きました。\n「痛い！痛い！いたたたたっ！」\n兵隊の鬼たちは逃げていきました。",
+        "「お前が桃太郎だな！<color=#e06c75>俺様</color>に勝てるわけがない！」\n「お前たちは悪いことをした！<color=#61afef>許せない</color>！倒してやる！」\n鬼の大将と桃太郎は戦い始めました。\n\n<color=#98c379>ドン</color>！<color=#98c379>ドン</color>！　ドシン！ドシン！　バキッ！バキッ！\n\nついに桃太郎は、鬼の大将を倒しました。"
+      ],
+      "translation": [
+        "A vast sea came into view. There was a <color=#61afef>single</color> <color=#e06c75>boat</color>.\nMomotaro and his companions boarded the <color=#e06c75>boat</color>.\nAfter sailing for about an hour, an island came into view.\n\"That is Onigashima!\"",
+        "<color=#e06c75>Arriving</color> at the island, there were <color=#61afef>soldier</color> demons at the <color=#98c379>gate</color>.\nThe demons were startled and fled inside the <color=#98c379>gate</color>.\nThe dog called out loudly: \"Momotaro has come to defeat you! Open the <color=#98c379>gate</color>!\"",
+        "The pheasant flew through the air, crossed the gate, and <color=#e06c75>attacked</color> the soldier demons.\nThe monkey climbed the high wall and <color=#61afef>unlocked</color> the gate.\nShouting \"Charge!\", Momotaro and his companions stormed into the <color=#98c379>castle</color>.",
+        "The demon <color=#e06c75>chief</color> came forward with many soldiers.\nThe dog bit their legs, the monkey <color=#61afef>scratched</color> their faces, the pheasant pecked their eyes.\n\"Ow! Ow! Ouch ouch ouch!\"\nThe soldier demons fled.",
+        "\"So you are Momotaro! There is no way you can defeat <color=#e06c75>me</color>!\"\n\"You have done terrible things! I cannot <color=#61afef>forgive</color> you! I will defeat you!\"\nMomotaro and the demon chief began to fight.\n\n<color=#98c379>Boom</color>! <color=#98c379>Boom</color>!  Thud! Thud!  Crack! Crack!\n\nAt last, Momotaro defeated the demon chief."
+      ],
+      "kana": [
+        "ひろいうみがみえてきました。そこには<color=#e06c75>ふね</color>が<color=#61afef>いっそう</color>ありました。\nももたろうとなかまたちは、この<color=#e06c75>ふね</color>にのりました。\nいちじかんほどすすむと、しまがみえてきました。\n「あれがおにがしまだ！」",
+        "しまに<color=#e06c75>とうちゃく</color>すると、<color=#98c379>もん</color>のまえに<color=#61afef>へいたい</color>のおにがいました。\nそのおにはおどろいて、<color=#98c379>もん</color>のなかへにげてしまいました。\nいぬがおおごえでいいました。「ももたろうがおまえたちをたおしにきたぞ！<color=#98c379>もん</color>をあけろ！」",
+        "きじがそらをとび、もんをこえてへいたいのおにを<color=#e06c75>こうげき</color>しました。\nさるはたかいかべをのぼって、もんの<color=#61afef>かぎ</color>をあけました。\n「わぁー！」とおおきなこえをだして、ももたろうたちは<color=#98c379>おしろ</color>のなかへはいりました。",
+        "おにの<color=#e06c75>たいしょう</color>がたくさんのへいたいをつれてむかってきました。\nいぬはあしをかみ、さるはかおを<color=#61afef>ひっかき</color>、きじはめをつきました。\n「いたい！いたい！いたたたたっ！」\nへいたいのおにたちはにげていきました。",
+        "「おまえがももたろうだな！<color=#e06c75>おれさま</color>にかてるわけがない！」\n「おまえたちはわるいことをした！<color=#61afef>ゆるせない</color>！たおしてやる！」\nおにのたいしょうとももたろうはたたかいはじめました。\n\nドン！ドン！　ドシン！ドシン！　バキッ！バキッ！\n\nついにももたろうは、おにのたいしょうをたおしました。"
+      ],
+      "dictionary": [
+        "<color=#e06c75><b>船</b></color> — ふね (船) — boat, ship. The vessel that carries Momotaro to Onigashima.\n<color=#61afef><b>一艘</b></color> — いっそう (一艘) — one boat. 艘 is the counter used for ships and boats.",
+        "<color=#e06c75><b>到着</b></color> — とうちゃく (到着) — arrival, reaching a destination.\n<color=#61afef><b>兵隊</b></color> — へいたい (兵隊) — soldier, troop, military personnel.\n<color=#98c379><b>門</b></color> — もん (門) — gate, large entrance. The guarded entrance to the demon castle.",
+        "<color=#e06c75><b>攻撃</b></color> — こうげき (攻撃) — attack, assault. Each companion uses their natural ability.\n<color=#61afef><b>鍵</b></color> — かぎ (鍵) — key, lock. The monkey's climbing ability opens the path for everyone.\n<color=#98c379><b>お城</b></color> — おしろ (お城) — castle. The demon chief's stronghold on Onigashima.",
+        "<color=#e06c75><b>大将</b></color> — たいしょう (大将) — general, commander, chief. The leader of the demon forces.\n<color=#61afef><b>引っかき</b></color> — ひっかく (引っかく) — to scratch with claws or nails. The monkey's signature move.",
+        "<color=#e06c75><b>俺様</b></color> — おれさま (俺様) — an arrogant first-person pronoun. Used by villains to show extreme self-importance.\n<color=#61afef><b>許せない</b></color> — ゆるせない (許せない) — cannot forgive, unforgivable. Expresses strong moral outrage.\n<color=#98c379><b>ドン</b></color> — ドン・ドシン・バキッ — battle onomatopoeia. ドン = boom, ドシン = heavy thud, バキッ = crack/snap."
       ]
     },
     {
       "title": "<b>第五章：帰還</b><b>  </b><b>だいごしょう：きかん</b><b>  —  </b><b><i>Chapter Five: The Return</i></b>",
-      "pages": [
-        {
-          "body": "鬼の大将は<color=#e06c75>涙を流し</color>ながら言いました。\n「もう二度と悪いことはしません。<color=#61afef>命</color>だけはお助けください。今まで奪った宝物をお返しします。」\n桃太郎たちは、彼らを<color=#98c379>許す</color>ことにしました。",
-          "translation": "The demon chief said through <color=#e06c75>tears</color>:\n\"I will never do evil again. Please spare my <color=#61afef>life</color>. I will return all the treasure I have stolen.\"\nMomotaro and his companions decided to <color=#98c379>forgive</color> them.",
-          "kana": "おにのたいしょうは<color=#e06c75>なみだをながし</color>ながらいいました。\n「もうにどとわるいことはしません。<color=#61afef>いのち</color>だけはおたすけください。いままでうばったたからものをおかえしします。」\nももたろうたちは、かれらを<color=#98c379>ゆるす</color>ことにしました。",
-          "dictionary": "<color=#e06c75><b>涙を流し</b></color> — なみだをながす (涙を流す) — to shed tears. Even the demon chief is moved to tears in defeat.\n<color=#61afef><b>命</b></color> — いのち (命) — life. The demon begs for the most precious thing: his life.\n<color=#98c379><b>許す</b></color> — ゆるす (許す) — to forgive, to pardon. Momotaro's mercy is a key moral lesson of the story."
-        },
-        {
-          "body": "<color=#e06c75>約束通り</color>、鬼の大将はたくさんの宝物を持ってきました。\n桃太郎は宝物を船に積んで、仲間たちと一緒に帰りました。\n\n<color=#61afef>よいしょ</color>　<color=#61afef>よいしょ</color>\n\n船が陸に着くと、犬と猿とキジが宝物を桃太郎の家まで運びました。",
-          "translation": "<color=#e06c75>As promised</color>, the demon chief brought out many treasures.\nMomotaro loaded the treasures onto the boat and returned home with his companions.\n\n<color=#61afef>Heave-ho</color>! <color=#61afef>Heave-ho</color>!\n\nWhen the boat reached shore, the dog, monkey, and pheasant carried the treasures to Momotaro's home.",
-          "kana": "<color=#e06c75>やくそくどおり</color>、おにのたいしょうはたくさんのたからものをもってきました。\nももたろうはたからものをふねにつんで、なかまたちといっしょにかえりました。\n\n<color=#61afef>よいしょ</color>　<color=#61afef>よいしょ</color>\n\nふねがおかについてくと、いぬとさるとキジがたからものをももたろうのいえまではこびました。",
-          "dictionary": "<color=#e06c75><b>約束通り</b></color> — やくそくどおり (約束通り) — as promised, true to one's word. 約束 = promise, 通り = in accordance with.\n<color=#61afef><b>よいしょ</b></color> — よいしょ — an exclamation used when exerting physical effort. Similar to 'heave-ho' or 'oof.'"
-        },
-        {
-          "body": "「おじいさん！おばあさん！<color=#e06c75>ただいま</color>！桃太郎が帰ってきました！」\n「すごい！よくやった！」「怪我が無くて、本当に良かったよ。」\n「僕を<color=#98c379>大切に</color>育ててくれて、本当にありがとうございます。」\n桃太郎は、おじいさんとおばあさんに<color=#61afef>感謝</color>の気持ちを伝えました。",
-          "translation": "\"Grandfather! Grandmother! <color=#e06c75>I am home</color>! Momotaro has returned!\"\n\"Wonderful! Well done!\" \"I am so glad you are not hurt.\"\n\"Thank you so very much for raising me with <color=#98c379>such care</color>.\"\nMomotaro expressed his <color=#61afef>gratitude</color> to the old man and old woman.",
-          "kana": "「おじいさん！おばあさん！<color=#e06c75>ただいま</color>！ももたろうがかえってきました！」\n「すごい！よくやった！」「けががなくて、ほんとうによかったよ。」\n「ぼくを<color=#98c379>だいじに</color>そだててくれて、ほんとうにありがとうございます。」\nももたろうは、おじいさんとおばあさんに<color=#61afef>かんしゃ</color>のきもちをつたえました。",
-          "dictionary": "<color=#e06c75><b>ただいま</b></color> — ただいま — phrase said upon returning home, meaning 'I am back.' Paired with おかえり (welcome back).\n<color=#61afef><b>感謝</b></color> — かんしゃ (感謝) — gratitude, appreciation. Momotaro honours those who raised him.\n<color=#98c379><b>大切に</b></color> — だいじに (大切に / 大事に) — with great care, treating something as precious."
-        },
-        {
-          "body": "犬は「ワンワン」と嬉しそうに吠え、猿は「ウッキーウッキー」と笑い、キジは「ケンケン」と鳴きながら空を飛んでいました。\n\n空は晴れて、庭の<color=#e06c75>桜の花</color>が<color=#61afef>満開</color>に咲いていました。\n\n<color=#98c379>おしまい</color>。",
-          "translation": "The dog barked happily \"Woof woof,\" the monkey laughed \"Ukki ukki,\" and the pheasant cried \"Ken ken\" as it flew through the sky.\n\nThe sky was clear, and the <color=#e06c75>cherry blossoms</color> in the garden were in <color=#61afef>full bloom</color>.\n\n<color=#98c379>The End</color>.",
-          "kana": "いぬは「わんわん」とうれしそうにほえ、さるは「うっきーうっきー」とわらい、きじは「けんけん」となきながらそらをとんでいました。\n\nそらははれて、にわの<color=#e06c75>さくらのはな</color>が<color=#61afef>まんかい</color>にさいていました。\n\n<color=#98c379>おしまい</color>。",
-          "dictionary": "<color=#e06c75><b>桜の花</b></color> — さくら (桜) — cherry blossom. Japan's most beloved flower, symbol of beauty, renewal, and the passing of time.\n<color=#61afef><b>満開</b></color> — まんかい (満開) — full bloom. Used almost exclusively for cherry blossoms in Japanese.\n<color=#98c379><b>おしまい</b></color> — おしまい — The End. The traditional closing word of Japanese folk tales (昔話, むかしばなし)."
-        }
+      "body": [
+        "鬼の大将は<color=#e06c75>涙を流し</color>ながら言いました。\n「もう二度と悪いことはしません。<color=#61afef>命</color>だけはお助けください。今まで奪った宝物をお返しします。」\n桃太郎たちは、彼らを<color=#98c379>許す</color>ことにしました。",
+        "<color=#e06c75>約束通り</color>、鬼の大将はたくさんの宝物を持ってきました。\n桃太郎は宝物を船に積んで、仲間たちと一緒に帰りました。\n\n<color=#61afef>よいしょ</color>　<color=#61afef>よいしょ</color>\n\n船が陸に着くと、犬と猿とキジが宝物を桃太郎の家まで運びました。",
+        "「おじいさん！おばあさん！<color=#e06c75>ただいま</color>！桃太郎が帰ってきました！」\n「すごい！よくやった！」「怪我が無くて、本当に良かったよ。」\n「僕を<color=#98c379>大切に</color>育ててくれて、本当にありがとうございます。」\n桃太郎は、おじいさんとおばあさんに<color=#61afef>感謝</color>の気持ちを伝えました。",
+        "犬は「ワンワン」と嬉しそうに吠え、猿は「ウッキーウッキー」と笑い、キジは「ケンケン」と鳴きながら空を飛んでいました。\n\n空は晴れて、庭の<color=#e06c75>桜の花</color>が<color=#61afef>満開</color>に咲いていました。\n\n<color=#98c379>おしまい</color>。"
+      ],
+      "translation": [
+        "The demon chief said through <color=#e06c75>tears</color>:\n\"I will never do evil again. Please spare my <color=#61afef>life</color>. I will return all the treasure I have stolen.\"\nMomotaro and his companions decided to <color=#98c379>forgive</color> them.",
+        "<color=#e06c75>As promised</color>, the demon chief brought out many treasures.\nMomotaro loaded the treasures onto the boat and returned home with his companions.\n\n<color=#61afef>Heave-ho</color>! <color=#61afef>Heave-ho</color>!\n\nWhen the boat reached shore, the dog, monkey, and pheasant carried the treasures to Momotaro's home.",
+        "\"Grandfather! Grandmother! <color=#e06c75>I am home</color>! Momotaro has returned!\"\n\"Wonderful! Well done!\" \"I am so glad you are not hurt.\"\n\"Thank you so very much for raising me with <color=#98c379>such care</color>.\"\nMomotaro expressed his <color=#61afef>gratitude</color> to the old man and old woman.",
+        "The dog barked happily \"Woof woof,\" the monkey laughed \"Ukki ukki,\" and the pheasant cried \"Ken ken\" as it flew through the sky.\n\nThe sky was clear, and the <color=#e06c75>cherry blossoms</color> in the garden were in <color=#61afef>full bloom</color>.\n\n<color=#98c379>The End</color>."
+      ],
+      "kana": [
+        "おにのたいしょうは<color=#e06c75>なみだをながし</color>ながらいいました。\n「もうにどとわるいことはしません。<color=#61afef>いのち</color>だけはおたすけください。いままでうばったたからものをおかえしします。」\nももたろうたちは、かれらを<color=#98c379>ゆるす</color>ことにしました。",
+        "<color=#e06c75>やくそくどおり</color>、おにのたいしょうはたくさんのたからものをもってきました。\nももたろうはたからものをふねにつんで、なかまたちといっしょにかえりました。\n\n<color=#61afef>よいしょ</color>　<color=#61afef>よいしょ</color>\n\nふねがおかについてくと、いぬとさるとキジがたからものをももたろうのいえまではこびました。",
+        "「おじいさん！おばあさん！<color=#e06c75>ただいま</color>！ももたろうがかえってきました！」\n「すごい！よくやった！」「けががなくて、ほんとうによかったよ。」\n「ぼくを<color=#98c379>だいじに</color>そだててくれて、ほんとうにありがとうございます。」\nももたろうは、おじいさんとおばあさんに<color=#61afef>かんしゃ</color>のきもちをつたえました。",
+        "いぬは「わんわん」とうれしそうにほえ、さるは「うっきーうっきー」とわらい、きじは「けんけん」となきながらそらをとんでいました。\n\nそらははれて、にわの<color=#e06c75>さくらのはな</color>が<color=#61afef>まんかい</color>にさいていました。\n\n<color=#98c379>おしまい</color>。"
+      ],
+      "dictionary": [
+        "<color=#e06c75><b>涙を流し</b></color> — なみだをながす (涙を流す) — to shed tears. Even the demon chief is moved to tears in defeat.\n<color=#61afef><b>命</b></color> — いのち (命) — life. The demon begs for the most precious thing: his life.\n<color=#98c379><b>許す</b></color> — ゆるす (許す) — to forgive, to pardon. Momotaro's mercy is a key moral lesson of the story.",
+        "<color=#e06c75><b>約束通り</b></color> — やくそくどおり (約束通り) — as promised, true to one's word. 約束 = promise, 通り = in accordance with.\n<color=#61afef><b>よいしょ</b></color> — よいしょ — an exclamation used when exerting physical effort. Similar to 'heave-ho' or 'oof.'",
+        "<color=#e06c75><b>ただいま</b></color> — ただいま — phrase said upon returning home, meaning 'I am back.' Paired with おかえり (welcome back).\n<color=#61afef><b>感謝</b></color> — かんしゃ (感謝) — gratitude, appreciation. Momotaro honours those who raised him.\n<color=#98c379><b>大切に</b></color> — だいじに (大切に / 大事に) — with great care, treating something as precious.",
+        "<color=#e06c75><b>桜の花</b></color> — さくら (桜) — cherry blossom. Japan's most beloved flower, symbol of beauty, renewal, and the passing of time.\n<color=#61afef><b>満開</b></color> — まんかい (満開) — full bloom. Used almost exclusively for cherry blossoms in Japanese.\n<color=#98c379><b>おしまい</b></color> — おしまい — The End. The traditional closing word of Japanese folk tales (昔話, むかしばなし)."
       ]
     }
   ]
