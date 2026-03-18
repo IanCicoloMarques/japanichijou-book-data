@@ -6,21 +6,21 @@
   "dictionaryMode": false,
   "chapters": [
     {
-      "title": "<color=#ffffff><b>Chapter 1: Introduction</b></color>",
+      "title": "<b>Chapter 1: Introduction</b>",
       "pages": [
         {
-          "body": "<color=#222222>Body text of page 1.</color>"
+          "body": "Body text of page 1."
         },
         {
-          "body": "<color=#222222>Body text of page 2.</color>"
+          "body": "Body text of page 2."
         }
       ]
     },
     {
-      "title": "<color=#ffffff><b>Chapter 2: Continuation</b></color>",
+      "title": "<b>Chapter 2: Continuation</b>",
       "pages": [
         {
-          "body": "<color=#222222>First page of chapter 2.</color>"
+          "body": "First page of chapter 2."
         }
       ]
     }
