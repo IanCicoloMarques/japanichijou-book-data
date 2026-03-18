@@ -1,0 +1,28 @@
+{
+  "title": "My Sample Book",
+  "id": "sample_book",
+  "translationMode": false,
+  "kanaMode": false,
+  "dictionaryMode": false,
+  "chapters": [
+    {
+      "title": "<color=#ffffff><b>Chapter 1: Introduction</b></color>",
+      "pages": [
+        {
+          "body": "<color=#222222>Body text of page 1.</color>"
+        },
+        {
+          "body": "<color=#222222>Body text of page 2.</color>"
+        }
+      ]
+    },
+    {
+      "title": "<color=#ffffff><b>Chapter 2: Continuation</b></color>",
+      "pages": [
+        {
+          "body": "<color=#222222>First page of chapter 2.</color>"
+        }
+      ]
+    }
+  ]
+}
