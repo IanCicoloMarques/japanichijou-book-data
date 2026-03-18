@@ -7,121 +7,135 @@
   "chapters": [
     {
       "title": "<b>Chapter 1: Plain Text</b>",
-      "pages": [
-        {
-          "body": "This is a plain text page.\nNo formatting at all — just the words you typed in the spreadsheet.\nThe gimmick displays it as-is.",
-          "translation": "Each PAGE BREAK row in the sheet becomes one page in the VRChat book.",
-          "kana": "ぷれーんてきすとのぺーじです。",
-          "dictionary": "Plain text — text with no colour, bold, italic, or any other formatting applied."
-        },
-        {
-          "body": "You can have as many Page Breaks per chapter as you like.\nThe gimmick advances through them one at a time.\nThis is the second page of Chapter 1.",
-          "translation": "Multiple page breaks let you split a long chapter into smaller readable sections.",
-          "kana": "ぺーじぶれーくはいくつでもついかできます。",
-          "dictionary": "Page Break — a row that defines where one page ends and the next begins in the VRChat book."
-        }
+      "body": [
+        "This is a plain text page.\nNo formatting at all — just the words you typed in the spreadsheet.\nThe gimmick displays it as-is.",
+        "You can have as many Page Breaks per chapter as you like.\nThe gimmick advances through them one at a time.\nThis is the second page of Chapter 1."
+      ],
+      "translation": [
+        "Each PAGE BREAK row in the sheet becomes one page in the VRChat book.",
+        "Multiple page breaks let you split a long chapter into smaller readable sections."
+      ],
+      "kana": [
+        "ぷれーんてきすとのぺーじです。",
+        "ぺーじぶれーくはいくつでもついかできます。"
+      ],
+      "dictionary": [
+        "Plain text — text with no colour, bold, italic, or any other formatting applied.",
+        "Page Break — a row that defines where one page ends and the next begins in the VRChat book."
       ]
     },
     {
       "title": "<b>Chapter 2: Text Colour</b>",
-      "pages": [
-        {
-          "body": "Text colour is applied <color=#e06c75><b>per character run</b></color> in the spreadsheet.\nSelect any word, change its font colour, and the parser wraps it in a <color=#61afef><color=#rrggbb></color> tag automatically.\nYou never type the tags — the upload script does it for you.",
-          "translation": "Try selecting a word in the Body cell and changing its <color=#e06c75>font colour</color> via Format → Text formatting.",
-          "kana": "からーは<color=#e06c75>もじごとに</color>せっていできます。",
-          "dictionary": "<color=#rrggbb> — TMP tag that changes text colour. Applied automatically by the upload script."
-        },
-        {
-          "body": "Examples:\n<color=#e06c75>This word is red.  </color><color=#61afef>This word is blue.  </color><color=#98c379>This word is green.\n</color><color=#e5c07b>This word is yellow.  </color><color=#c678dd>This word is purple.  </color><color=#56b6c2>This word is cyan.</color>",
-          "translation": "Each of these words has a different font colour set directly in the spreadsheet cell.",
-          "kana": "<color=#e06c75>あか  </color><color=#61afef>あお  </color><color=#98c379>みどり  </color><color=#e5c07b>きいろ  </color><color=#c678dd>むらさき  </color><color=#56b6c2>みずいろ</color>",
-          "dictionary": "Colour tags are read from the cell's RichTextValue — each run of differently-coloured text becomes its own <color> tag in the JSON."
-        }
+      "body": [
+        "Text colour is applied <color=#e06c75><b>per character run</b></color> in the spreadsheet.\nSelect any word, change its font colour, and the parser wraps it in a <color=#61afef><color=#rrggbb></color> tag automatically.\nYou never type the tags — the upload script does it for you.",
+        "Examples:\n<color=#e06c75>This word is red.  </color><color=#61afef>This word is blue.  </color><color=#98c379>This word is green.\n</color><color=#e5c07b>This word is yellow.  </color><color=#c678dd>This word is purple.  </color><color=#56b6c2>This word is cyan.</color>"
+      ],
+      "translation": [
+        "Try selecting a word in the Body cell and changing its <color=#e06c75>font colour</color> via Format → Text formatting.",
+        "Each of these words has a different font colour set directly in the spreadsheet cell."
+      ],
+      "kana": [
+        "からーは<color=#e06c75>もじごとに</color>せっていできます。",
+        "<color=#e06c75>あか  </color><color=#61afef>あお  </color><color=#98c379>みどり  </color><color=#e5c07b>きいろ  </color><color=#c678dd>むらさき  </color><color=#56b6c2>みずいろ</color>"
+      ],
+      "dictionary": [
+        "<color=#rrggbb> — TMP tag that changes text colour. Applied automatically by the upload script.",
+        "Colour tags are read from the cell's RichTextValue — each run of differently-coloured text becomes its own <color> tag in the JSON."
       ]
     },
     {
       "title": "<b>Chapter 3: Text Styles</b>",
-      "pages": [
-        {
-          "body": "Four text styles are supported:\n<b>Bold</b> — for emphasis or important words.\n<i>Italic</i> — for titles, foreign words, or inner thoughts.\n<u>Underline</u> — for key terms.\n<s>Strikethrough</s> — for corrections or crossed-out text.",
-          "translation": "Apply these via Format → Text formatting in Google Sheets. The upload script converts them to TMP tags.",
-          "kana": "<b>ぼーるど  </b><i>いたりっく  </i><u>あんだーらいん  </u><s>すとらいくする</s>",
-          "dictionary": "<b> bold  |  <i> italic  |  <u> underline  |  <s> strikethrough — the four TMP text style tags."
-        },
-        {
-          "body": "Styles can be <color=#e5c07b><b><i>combined</i></b></color>.\nFor example: <color=#e06c75><b>bold red</b></color>, <color=#61afef><i>italic blue</i></color>, or <color=#98c379><u>underline green</u></color>.\nTags nest in order: <color=#56b6c2><color>→<b>→<i>→<u>→<s></color>",
-          "translation": "Styles and colours can be combined freely. The upload script nests the tags in a consistent order.",
-          "kana": "くみあわせも  <color=#e5c07b><b><i>できます</i></b></color>。",
-          "dictionary": "Tag nesting — combining multiple TMP tags on the same text run. Order: color → bold → italic → underline → strikethrough."
-        }
+      "body": [
+        "Four text styles are supported:\n<b>Bold</b> — for emphasis or important words.\n<i>Italic</i> — for titles, foreign words, or inner thoughts.\n<u>Underline</u> — for key terms.\n<s>Strikethrough</s> — for corrections or crossed-out text.",
+        "Styles can be <color=#e5c07b><b><i>combined</i></b></color>.\nFor example: <color=#e06c75><b>bold red</b></color>, <color=#61afef><i>italic blue</i></color>, or <color=#98c379><u>underline green</u></color>.\nTags nest in order: <color=#56b6c2><color>→<b>→<i>→<u>→<s></color>"
+      ],
+      "translation": [
+        "Apply these via Format → Text formatting in Google Sheets. The upload script converts them to TMP tags.",
+        "Styles and colours can be combined freely. The upload script nests the tags in a consistent order."
+      ],
+      "kana": [
+        "<b>ぼーるど  </b><i>いたりっく  </i><u>あんだーらいん  </u><s>すとらいくする</s>",
+        "くみあわせも  <color=#e5c07b><b><i>できます</i></b></color>。"
+      ],
+      "dictionary": [
+        "<b> bold  |  <i> italic  |  <u> underline  |  <s> strikethrough — the four TMP text style tags.",
+        "Tag nesting — combining multiple TMP tags on the same text run. Order: color → bold → italic → underline → strikethrough."
       ]
     },
     {
       "title": "<b>Chapter 4: Translation Mode</b>",
-      "pages": [
-        {
-          "body": "When Translation Mode is enabled, each page carries a second field with a translation of the body text.\nThe Translation field is shown in the Translation column of each PAGE BREAK row.",
-          "translation": "This is the translation field. It appears alongside the body in the VRChat book.",
-          "kana": "ほんやくもーどがゆうこうのとき、すべてのぺーじにほんやくふぃーるどがひょうじされます。",
-          "dictionary": "Translation Mode — when enabled, a translation field is added to every page of the book."
-        },
-        {
-          "body": "翻訳モードのデモです。\nこの文章は日本語で書かれています。",
-          "translation": "This is a Translation Mode demo.\nThis sentence is written in Japanese.",
-          "kana": "ほんやくもーどのでもです。\nこのぶんしょうはにほんごでかかれています。",
-          "dictionary": "翻訳 (ほんやく) — translation. The act of converting text from one language to another."
-        }
+      "body": [
+        "When Translation Mode is enabled, each page carries a second field with a translation of the body text.\nThe Translation field is shown in the Translation column of each PAGE BREAK row.",
+        "翻訳モードのデモです。\nこの文章は日本語で書かれています。"
+      ],
+      "translation": [
+        "This is the translation field. It appears alongside the body in the VRChat book.",
+        "This is a Translation Mode demo.\nThis sentence is written in Japanese."
+      ],
+      "kana": [
+        "ほんやくもーどがゆうこうのとき、すべてのぺーじにほんやくふぃーるどがひょうじされます。",
+        "ほんやくもーどのでもです。\nこのぶんしょうはにほんごでかかれています。"
+      ],
+      "dictionary": [
+        "Translation Mode — when enabled, a translation field is added to every page of the book.",
+        "翻訳 (ほんやく) — translation. The act of converting text from one language to another."
       ]
     },
     {
       "title": "<b>Chapter 5: Kana Mode</b>",
-      "pages": [
-        {
-          "body": "When Kana Mode is enabled, each page carries a kana reading field.\nThis shows the pronunciation of the body text in hiragana or katakana.",
-          "translation": "Kana Mode is especially useful for Japanese text with difficult kanji readings.",
-          "kana": "かなもーどがゆうこうのとき、すべてのぺーじにかなよみがひょうじされます。",
-          "dictionary": "かな (仮名) — the phonetic Japanese scripts. Hiragana (ひらがな) and katakana (カタカナ)."
-        },
-        {
-          "body": "漢字の読み方が分からないとき、かなモードが役に立ちます。\n例：桃太郎は鬼ヶ島へ旅に出ました。",
-          "translation": "When you do not know how to read kanji, Kana Mode is useful.\nExample: Momotaro set out on a journey to Oni Island.",
-          "kana": "かんじのよみかたがわからないとき、かなもーどがやくにたちます。\nれい：ももたろうはおにがしまへたびにでました。",
-          "dictionary": "漢字 (かんじ) — Chinese characters used in Japanese writing. Can be difficult to read without furigana."
-        }
+      "body": [
+        "When Kana Mode is enabled, each page carries a kana reading field.\nThis shows the pronunciation of the body text in hiragana or katakana.",
+        "漢字の読み方が分からないとき、かなモードが役に立ちます。\n例：桃太郎は鬼ヶ島へ旅に出ました。"
+      ],
+      "translation": [
+        "Kana Mode is especially useful for Japanese text with difficult kanji readings.",
+        "When you do not know how to read kanji, Kana Mode is useful.\nExample: Momotaro set out on a journey to Oni Island."
+      ],
+      "kana": [
+        "かなもーどがゆうこうのとき、すべてのぺーじにかなよみがひょうじされます。",
+        "かんじのよみかたがわからないとき、かなもーどがやくにたちます。\nれい：ももたろうはおにがしまへたびにでました。"
+      ],
+      "dictionary": [
+        "かな (仮名) — the phonetic Japanese scripts. Hiragana (ひらがな) and katakana (カタカナ).",
+        "漢字 (かんじ) — Chinese characters used in Japanese writing. Can be difficult to read without furigana."
       ]
     },
     {
       "title": "<b>Chapter 6: Dictionary Mode</b>",
-      "pages": [
-        {
-          "body": "Dictionary Mode adds a glossary field to each page.\nUse it to explain difficult words, cultural context, or grammar notes.",
-          "translation": "The dictionary field can contain any text — definitions, notes, or extra context for the reader.",
-          "kana": "じしょもーどは、かくぺーじにたんごのせつめいをついかします。",
-          "dictionary": "Dictionary Mode — adds a per-page field for vocabulary notes, definitions, and cultural context."
-        },
-        {
-          "body": "きびだんごを食べると、仲間になってくれます。",
-          "translation": "If you eat a millet dumpling, they will become your companion.",
-          "kana": "きびだんごをたべると、なかまになってくれます。",
-          "dictionary": "<color=#e06c75><b>きびだんご</b></color> — millet dumpling, a traditional Japanese sweet. In the story of Momotaro, sharing one creates loyalty and companionship."
-        }
+      "body": [
+        "Dictionary Mode adds a glossary field to each page.\nUse it to explain difficult words, cultural context, or grammar notes.",
+        "きびだんごを食べると、仲間になってくれます。"
+      ],
+      "translation": [
+        "The dictionary field can contain any text — definitions, notes, or extra context for the reader.",
+        "If you eat a millet dumpling, they will become your companion."
+      ],
+      "kana": [
+        "じしょもーどは、かくぺーじにたんごのせつめいをついかします。",
+        "きびだんごをたべると、なかまになってくれます。"
+      ],
+      "dictionary": [
+        "Dictionary Mode — adds a per-page field for vocabulary notes, definitions, and cultural context.",
+        "<color=#e06c75><b>きびだんご</b></color> — millet dumpling, a traditional Japanese sweet. In the story of Momotaro, sharing one creates loyalty and companionship."
       ]
     },
     {
       "title": "<b>Chapter 7: All Modes Together</b>",
-      "pages": [
-        {
-          "body": "With <color=#e5c07b><b>all modes enabled</b></color>, each page shows:\n<color=#e06c75><b>Body</b></color>  •  <color=#61afef><b>Translation</b></color>  •  <color=#98c379><b>Kana</b></color>  •  <color=#c678dd><b>Dictionary</b></color>",
-          "translation": "Translation, Kana, and Dictionary are all shown simultaneously alongside the body text.",
-          "kana": "すべてのもーどをおんにすると、<color=#e06c75>ほんぶん</color>・<color=#61afef>ほんやく</color>・<color=#98c379>かな</color>・<color=#c678dd>じしょ</color>がすべてひょうじされます。",
-          "dictionary": "<color=#e06c75><b>Body</b></color> — the main text of the page.\n<color=#61afef><b>Translation</b></color> — the translated version.\n<color=#98c379><b>Kana</b></color> — the phonetic reading.\n<color=#c678dd><b>Dictionary</b></color> — vocabulary notes and definitions."
-        },
-        {
-          "body": "これが<color=#e5c07b><b>デモブック</b></color>の最後のページです。\nご覧いただき、ありがとうございました！",
-          "translation": "This is the last page of the demo book.\nThank you for reading!",
-          "kana": "これが<color=#e5c07b><b>でもぶっく</b></color>のさいごのぺーじです。ごらんいただき、ありがとうございました！",
-          "dictionary": "最後 (さいご) — the last, the end.  ありがとうございました — thank you (polite past form)."
-        }
+      "body": [
+        "With <color=#e5c07b><b>all modes enabled</b></color>, each page shows:\n<color=#e06c75><b>Body</b></color>  •  <color=#61afef><b>Translation</b></color>  •  <color=#98c379><b>Kana</b></color>  •  <color=#c678dd><b>Dictionary</b></color>",
+        "これが<color=#e5c07b><b>デモブック</b></color>の最後のページです。\nご覧いただき、ありがとうございました！"
+      ],
+      "translation": [
+        "Translation, Kana, and Dictionary are all shown simultaneously alongside the body text.",
+        "This is the last page of the demo book.\nThank you for reading!"
+      ],
+      "kana": [
+        "すべてのもーどをおんにすると、<color=#e06c75>ほんぶん</color>・<color=#61afef>ほんやく</color>・<color=#98c379>かな</color>・<color=#c678dd>じしょ</color>がすべてひょうじされます。",
+        "これが<color=#e5c07b><b>でもぶっく</b></color>のさいごのぺーじです。ごらんいただき、ありがとうございました！"
+      ],
+      "dictionary": [
+        "<color=#e06c75><b>Body</b></color> — the main text of the page.\n<color=#61afef><b>Translation</b></color> — the translated version.\n<color=#98c379><b>Kana</b></color> — the phonetic reading.\n<color=#c678dd><b>Dictionary</b></color> — vocabulary notes and definitions.",
+        "最後 (さいご) — the last, the end.  ありがとうございました — thank you (polite past form)."
       ]
     }
   ]
