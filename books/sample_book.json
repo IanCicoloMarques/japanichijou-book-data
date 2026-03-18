@@ -7,21 +7,15 @@
   "chapters": [
     {
       "title": "<b>Chapter 1: Introduction</b>",
-      "pages": [
-        {
-          "body": "Body text of page 1."
-        },
-        {
-          "body": "Body text of page 2."
-        }
+      "body": [
+        "Body text of page 1.",
+        "Body text of page 2."
       ]
     },
     {
       "title": "<b>Chapter 2: Continuation</b>",
-      "pages": [
-        {
-          "body": "First page of chapter 2."
-        }
+      "body": [
+        "First page of chapter 2."
       ]
     }
   ]
