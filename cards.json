@@ -1159,7 +1159,7 @@
           "Meaning": "to pay",
           "CardId": 99,
           "AudioStart": 208.12,
-          "AudioDuration": 1.668,
+          "AudioDuration": 1.281,
           "KunyomiKana": "はらう",
           "KunyomiRomaji": "harau",
           "Examples": [
@@ -1182,7 +1182,7 @@
           "Meaning": "to receive",
           "CardId": 100,
           "AudioStart": 210.12,
-          "AudioDuration": 1.716,
+          "AudioDuration": 1.281,
           "KunyomiKana": "もらう",
           "KunyomiRomaji": "morau",
           "Examples": [
@@ -1205,7 +1205,7 @@
           "Meaning": "to give",
           "CardId": 101,
           "AudioStart": 212.12,
-          "AudioDuration": 1.692,
+          "AudioDuration": 1.187,
           "KunyomiKana": "あげる",
           "KunyomiRomaji": "ageru",
           "Examples": [
@@ -1228,7 +1228,7 @@
           "Meaning": "to borrow",
           "CardId": 102,
           "AudioStart": 214.12,
-          "AudioDuration": 1.692,
+          "AudioDuration": 1.306,
           "KunyomiKana": "かりる",
           "KunyomiRomaji": "kariru",
           "Examples": [
@@ -1251,7 +1251,7 @@
           "Meaning": "to lend",
           "CardId": 103,
           "AudioStart": 216.12,
-          "AudioDuration": 1.668,
+          "AudioDuration": 0.964,
           "KunyomiKana": "かす",
           "KunyomiRomaji": "kasu",
           "Examples": [
@@ -1274,7 +1274,7 @@
           "Meaning": "to choose",
           "CardId": 104,
           "AudioStart": 218.12,
-          "AudioDuration": 1.692,
+          "AudioDuration": 1.281,
           "KunyomiKana": "えらぶ",
           "KunyomiRomaji": "erabu",
           "Examples": [
@@ -1297,7 +1297,7 @@
           "Meaning": "to search for",
           "CardId": 105,
           "AudioStart": 220.12,
-          "AudioDuration": 1.86,
+          "AudioDuration": 1.45,
           "KunyomiKana": "さがす",
           "KunyomiRomaji": "sagasu",
           "Examples": [
@@ -1320,7 +1320,7 @@
           "Meaning": "to live / reside",
           "CardId": 106,
           "AudioStart": 222.12,
-          "AudioDuration": 1.62,
+          "AudioDuration": 1.074,
           "KunyomiKana": "すむ",
           "KunyomiRomaji": "sumu",
           "Examples": [
@@ -1343,7 +1343,7 @@
           "Meaning": "to open",
           "CardId": 107,
           "AudioStart": 224.12,
-          "AudioDuration": 1.692,
+          "AudioDuration": 1.289,
           "KunyomiKana": "あける",
           "KunyomiRomaji": "akeru",
           "Examples": [
@@ -1366,7 +1366,7 @@
           "Meaning": "to close",
           "CardId": 108,
           "AudioStart": 226.12,
-          "AudioDuration": 1.74,
+          "AudioDuration": 1.44,
           "KunyomiKana": "しめる",
           "KunyomiRomaji": "shimeru",
           "Examples": [
@@ -1389,7 +1389,7 @@
           "Meaning": "to put in",
           "CardId": 109,
           "AudioStart": 228.12,
-          "AudioDuration": 1.644,
+          "AudioDuration": 1.26,
           "KunyomiKana": "いれる",
           "KunyomiRomaji": "ireru",
           "Examples": [
@@ -1412,7 +1412,7 @@
           "Meaning": "to take out",
           "CardId": 110,
           "AudioStart": 230.12,
-          "AudioDuration": 1.644,
+          "AudioDuration": 1.051,
           "KunyomiKana": "だす",
           "KunyomiRomaji": "dasu",
           "Examples": [
@@ -1435,7 +1435,7 @@
           "Meaning": "to place",
           "CardId": 111,
           "AudioStart": 232.12,
-          "AudioDuration": 1.644,
+          "AudioDuration": 0.981,
           "KunyomiKana": "おく",
           "KunyomiRomaji": "oku",
           "Examples": [
@@ -1458,7 +1458,7 @@
           "Meaning": "to tidy up",
           "CardId": 112,
           "AudioStart": 234.12,
-          "AudioDuration": 1.98,
+          "AudioDuration": 2.055,
           "KunyomiKana": "かたづける",
           "KunyomiRomaji": "katazukeru",
           "Examples": [
@@ -1481,7 +1481,7 @@
           "Meaning": "to clean",
           "CardId": 113,
           "AudioStart": 238.12,
-          "AudioDuration": 1.98,
+          "AudioDuration": 2.107,
           "KunyomiKana": "そうじする",
           "KunyomiRomaji": "souji suru",
           "Examples": [
@@ -1504,7 +1504,7 @@
           "Meaning": "to fix / repair",
           "CardId": 114,
           "AudioStart": 242.12,
-          "AudioDuration": 1.836,
+          "AudioDuration": 1.341,
           "KunyomiKana": "なおす",
           "KunyomiRomaji": "naosu",
           "Examples": [
@@ -1527,7 +1527,7 @@
           "Meaning": "to start",
           "CardId": 115,
           "AudioStart": 244.12,
-          "AudioDuration": 1.836,
+          "AudioDuration": 1.637,
           "KunyomiKana": "はじめる",
           "KunyomiRomaji": "hajimeru",
           "Examples": [
@@ -1550,7 +1550,7 @@
           "Meaning": "to end",
           "CardId": 116,
           "AudioStart": 246.12,
-          "AudioDuration": 1.692,
+          "AudioDuration": 1.3,
           "KunyomiKana": "おわる",
           "KunyomiRomaji": "owaru",
           "Examples": [
@@ -1573,7 +1573,7 @@
           "Meaning": "to continue",
           "CardId": 117,
           "AudioStart": 248.12,
-          "AudioDuration": 1.836,
+          "AudioDuration": 1.858,
           "KunyomiKana": "つづける",
           "KunyomiRomaji": "tsudzukeru",
           "Examples": [
@@ -1596,7 +1596,7 @@
           "Meaning": "to quit / stop",
           "CardId": 118,
           "AudioStart": 250.12,
-          "AudioDuration": 1.716,
+          "AudioDuration": 1.434,
           "KunyomiKana": "やめる",
           "KunyomiRomaji": "yameru",
           "Examples": [
@@ -1619,7 +1619,7 @@
           "Meaning": "to hurry",
           "CardId": 119,
           "AudioStart": 252.12,
-          "AudioDuration": 1.764,
+          "AudioDuration": 1.376,
           "KunyomiKana": "いそぐ",
           "KunyomiRomaji": "isogu",
           "Examples": [
@@ -1642,7 +1642,7 @@
           "Meaning": "to wait",
           "CardId": 120,
           "AudioStart": 254.12,
-          "AudioDuration": 1.644,
+          "AudioDuration": 1.039,
           "KunyomiKana": "まつ",
           "KunyomiRomaji": "matsu",
           "Examples": [
@@ -1665,7 +1665,7 @@
           "Meaning": "to be late",
           "CardId": 121,
           "AudioStart": 256.12,
-          "AudioDuration": 1.836,
+          "AudioDuration": 1.649,
           "KunyomiKana": "おくれる",
           "KunyomiRomaji": "okureru",
           "Examples": [
@@ -1688,7 +1688,7 @@
           "Meaning": "to decide",
           "CardId": 122,
           "AudioStart": 258.12,
-          "AudioDuration": 1.716,
+          "AudioDuration": 1.422,
           "KunyomiKana": "きめる",
           "KunyomiRomaji": "kimeru",
           "Examples": [
