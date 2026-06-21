@@ -1,0 +1,22 @@
+{
+  "title": "testupload",
+  "id": "testupload",
+  "translationMode": false,
+  "kanaMode": false,
+  "dictionaryMode": false,
+  "chapters": [
+    {
+      "title": "<b>Chapter 1: Introduction</b>",
+      "body": [
+        "Body text of page 1.",
+        "Body text of page 2."
+      ]
+    },
+    {
+      "title": "<b>Chapter 2: Continuation</b>",
+      "body": [
+        "First page of chapter 2."
+      ]
+    }
+  ]
+}
