@@ -1,12 +1,13 @@
 {
   "Credits": "<align=center><size=130%><color=#86C48D><b>Voice credits</b></color></size></align>\n<size=80%><align=left>- HayaTikaze\n- TTS: Microsoft Edge (ja-JP-NanamiNeural)</align></size>",
+  "false": "Upload in progress, please wait... Organizing data",
   "Topics": [
     {
       "Topic": "Verbs",
       "Cards": [
         {
           "Kanji": "行く",
-          "Meaning": "to go",
+          "Meaning": "to g",
           "CardId": 49,
           "AudioStart": 96.12,
           "AudioDuration": 0.952,
@@ -3600,6 +3601,645 @@
               "Meaning": "Baby sparrow"
             }
           ]
+        },
+        {
+          "Kanji": "ライオン",
+          "Meaning": "Lion",
+          "CardId": 207,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "らいおん",
+          "KunyomiRomaji": "raion"
+        },
+        {
+          "Kanji": "キリン",
+          "Meaning": "Giraffe",
+          "CardId": 208,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "きりん",
+          "KunyomiRomaji": "kirin"
+        },
+        {
+          "Kanji": "シマウマ",
+          "Meaning": "Zebra",
+          "CardId": 209,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "しまうま",
+          "KunyomiRomaji": "shimauma"
+        },
+        {
+          "Kanji": "パンダ",
+          "Meaning": "Panda",
+          "CardId": 210,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "ぱんだ",
+          "KunyomiRomaji": "panda"
+        },
+        {
+          "Kanji": "コアラ",
+          "Meaning": "Koala",
+          "CardId": 211,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "こあら",
+          "KunyomiRomaji": "koara"
+        },
+        {
+          "Kanji": "カンガルー",
+          "Meaning": "Kangaroo",
+          "CardId": 212,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "かんがるー",
+          "KunyomiRomaji": "kangarū"
+        },
+        {
+          "Kanji": "ゴリラ",
+          "Meaning": "Gorilla",
+          "CardId": 213,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "ごりら",
+          "KunyomiRomaji": "gorira"
+        },
+        {
+          "Kanji": "チンパンジー",
+          "Meaning": "Chimpanzee",
+          "CardId": 214,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "ちんぱんじー",
+          "KunyomiRomaji": "chinpanjī"
+        },
+        {
+          "Kanji": "オランウータン",
+          "Meaning": "Orangutan",
+          "CardId": 215,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "おらんうーたん",
+          "KunyomiRomaji": "oranutan"
+        },
+        {
+          "Kanji": "サイ",
+          "Meaning": "Rhinoceros",
+          "CardId": 216,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "さい",
+          "KunyomiRomaji": "sai"
+        },
+        {
+          "Kanji": "カバ",
+          "Meaning": "Hippopotamus",
+          "CardId": 217,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "かば",
+          "KunyomiRomaji": "kaba"
+        },
+        {
+          "Kanji": "タヌキ",
+          "Meaning": "Raccoon Dog",
+          "CardId": 218,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "たぬき",
+          "KunyomiRomaji": "tanuki"
+        },
+        {
+          "Kanji": "アライグマ",
+          "Meaning": "Raccoon",
+          "CardId": 219,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "あらいぐま",
+          "KunyomiRomaji": "araiguma"
+        },
+        {
+          "Kanji": "リス",
+          "Meaning": "Squirrel",
+          "CardId": 220,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "りす",
+          "KunyomiRomaji": "risu"
+        },
+        {
+          "Kanji": "モグラ",
+          "Meaning": "Mole",
+          "CardId": 221,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "もぐら",
+          "KunyomiRomaji": "mogura"
+        },
+        {
+          "Kanji": "猪",
+          "Meaning": "Wild Boar",
+          "CardId": 222,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "いのしし",
+          "KunyomiRomaji": "inoshishi"
+        },
+        {
+          "Kanji": "山羊",
+          "Meaning": "Goat",
+          "CardId": 223,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "やぎ",
+          "KunyomiRomaji": "yagi"
+        },
+        {
+          "Kanji": "トナカイ",
+          "Meaning": "Reindeer",
+          "CardId": 224,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "となかい",
+          "KunyomiRomaji": "tonakai"
+        },
+        {
+          "Kanji": "ラクダ",
+          "Meaning": "Camel",
+          "CardId": 225,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "らくだ",
+          "KunyomiRomaji": "rakuda"
+        },
+        {
+          "Kanji": "ロバ",
+          "Meaning": "Donkey",
+          "CardId": 226,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "ろば",
+          "KunyomiRomaji": "roba"
+        },
+        {
+          "Kanji": "ラッコ",
+          "Meaning": "Sea Otter",
+          "CardId": 227,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "らっこ",
+          "KunyomiRomaji": "rakko"
+        },
+        {
+          "Kanji": "アザラシ",
+          "Meaning": "Seal",
+          "CardId": 228,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "あざらし",
+          "KunyomiRomaji": "azarashi"
+        },
+        {
+          "Kanji": "イルカ",
+          "Meaning": "Dolphin",
+          "CardId": 229,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "いるか",
+          "KunyomiRomaji": "iruka"
+        },
+        {
+          "Kanji": "ペンギン",
+          "Meaning": "Penguin",
+          "CardId": 230,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "ぺんぎん",
+          "KunyomiRomaji": "pengin"
+        },
+        {
+          "Kanji": "フクロウ",
+          "Meaning": "Owl",
+          "CardId": 231,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "ふくろう",
+          "KunyomiRomaji": "fukurō"
+        },
+        {
+          "Kanji": "カラス",
+          "Meaning": "Crow",
+          "CardId": 232,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "からす",
+          "KunyomiRomaji": "karasu"
+        },
+        {
+          "Kanji": "ワシ",
+          "Meaning": "Eagle",
+          "CardId": 233,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "わし",
+          "KunyomiRomaji": "washi"
+        },
+        {
+          "Kanji": "タカ",
+          "Meaning": "Hawk",
+          "CardId": 234,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "たか",
+          "KunyomiRomaji": "taka"
+        },
+        {
+          "Kanji": "鶴",
+          "Meaning": "Crane",
+          "CardId": 235,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "つる",
+          "KunyomiRomaji": "tsuru"
+        },
+        {
+          "Kanji": "白鳥",
+          "Meaning": "Swan",
+          "CardId": 236,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "はくちょう",
+          "KunyomiRomaji": "hakuchō"
+        },
+        {
+          "Kanji": "鴨",
+          "Meaning": "Duck",
+          "CardId": 237,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "かも",
+          "KunyomiRomaji": "kamo"
+        },
+        {
+          "Kanji": "孔雀",
+          "Meaning": "Peacock",
+          "CardId": 238,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "くじゃく",
+          "KunyomiRomaji": "kujaku"
+        },
+        {
+          "Kanji": "ダチョウ",
+          "Meaning": "Ostrich",
+          "CardId": 239,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "だちょう",
+          "KunyomiRomaji": "dachō"
+        },
+        {
+          "Kanji": "フラミンゴ",
+          "Meaning": "Flamingo",
+          "CardId": 240,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "ふらみんご",
+          "KunyomiRomaji": "furamingo"
+        },
+        {
+          "Kanji": "蛇",
+          "Meaning": "Snake",
+          "CardId": 241,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "へび",
+          "KunyomiRomaji": "hebi"
+        },
+        {
+          "Kanji": "ワニ",
+          "Meaning": "Crocodile",
+          "CardId": 242,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "わに",
+          "KunyomiRomaji": "wani"
+        },
+        {
+          "Kanji": "タコ",
+          "Meaning": "Octopus",
+          "CardId": 243,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "たこ",
+          "KunyomiRomaji": "tako"
+        },
+        {
+          "Kanji": "イカ",
+          "Meaning": "Squid",
+          "CardId": 244,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "いか",
+          "KunyomiRomaji": "ika"
+        },
+        {
+          "Kanji": "海老",
+          "Meaning": "Shrimp",
+          "CardId": 245,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "えび",
+          "KunyomiRomaji": "ebi"
+        },
+        {
+          "Kanji": "蟹",
+          "Meaning": "Crab",
+          "CardId": 246,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "かに",
+          "KunyomiRomaji": "kani"
+        },
+        {
+          "Kanji": "クラゲ",
+          "Meaning": "Jellyfish",
+          "CardId": 247,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "くらげ",
+          "KunyomiRomaji": "kurage"
+        },
+        {
+          "Kanji": "ヒトデ",
+          "Meaning": "Starfish",
+          "CardId": 248,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "ひとで",
+          "KunyomiRomaji": "hitode"
+        },
+        {
+          "Kanji": "鰻",
+          "Meaning": "Eel",
+          "CardId": 249,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "うなぎ",
+          "KunyomiRomaji": "unagi"
+        },
+        {
+          "Kanji": "鯉",
+          "Meaning": "Carp",
+          "CardId": 250,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "こい",
+          "KunyomiRomaji": "koi"
+        },
+        {
+          "Kanji": "フグ",
+          "Meaning": "Pufferfish",
+          "CardId": 251,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "ふぐ",
+          "KunyomiRomaji": "fugu"
+        },
+        {
+          "Kanji": "タツノオトシゴ",
+          "Meaning": "Seahorse",
+          "CardId": 252,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "たつのおとしご",
+          "KunyomiRomaji": "tatsunootoshigo"
+        },
+        {
+          "Kanji": "ハリネズミ",
+          "Meaning": "Hedgehog",
+          "CardId": 253,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "はりねずみ",
+          "KunyomiRomaji": "harinezumi"
+        },
+        {
+          "Kanji": "ナマケモノ",
+          "Meaning": "Sloth",
+          "CardId": 254,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "なまけもの",
+          "KunyomiRomaji": "namakemono"
+        },
+        {
+          "Kanji": "ハムスター",
+          "Meaning": "Hamster",
+          "CardId": 255,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "はむすたー",
+          "KunyomiRomaji": "hamusutā"
+        },
+        {
+          "Kanji": "インコ",
+          "Meaning": "Parakeet",
+          "CardId": 256,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "いんこ",
+          "KunyomiRomaji": "inko"
+        },
+        {
+          "Kanji": "オウム",
+          "Meaning": "Parrot",
+          "CardId": 257,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "おうむ",
+          "KunyomiRomaji": "ōmu"
+        },
+        {
+          "Kanji": "カモメ",
+          "Meaning": "Seagull",
+          "CardId": 258,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "かもめ",
+          "KunyomiRomaji": "kamome"
+        },
+        {
+          "Kanji": "キジ",
+          "Meaning": "Pheasant",
+          "CardId": 259,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "きじ",
+          "KunyomiRomaji": "kiji"
+        },
+        {
+          "Kanji": "ツバメ",
+          "Meaning": "Swallow",
+          "CardId": 260,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "つばめ",
+          "KunyomiRomaji": "tsubame"
+        },
+        {
+          "Kanji": "ドジョウ",
+          "Meaning": "Loach",
+          "CardId": 261,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "どじょう",
+          "KunyomiRomaji": "dojō"
+        },
+        {
+          "Kanji": "メダカ",
+          "Meaning": "Medaka",
+          "CardId": 262,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "めだか",
+          "KunyomiRomaji": "medaka"
+        },
+        {
+          "Kanji": "金魚",
+          "Meaning": "Goldfish",
+          "CardId": 263,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "きんぎょ",
+          "KunyomiRomaji": "kingyo"
+        },
+        {
+          "Kanji": "鮭",
+          "Meaning": "Salmon",
+          "CardId": 264,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "さけ",
+          "KunyomiRomaji": "sake"
+        },
+        {
+          "Kanji": "鯛",
+          "Meaning": "Sea Bream",
+          "CardId": 265,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "たい",
+          "KunyomiRomaji": "tai"
+        },
+        {
+          "Kanji": "鰹",
+          "Meaning": "Bonito",
+          "CardId": 266,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "かつお",
+          "KunyomiRomaji": "katsuo"
+        },
+        {
+          "Kanji": "鯵",
+          "Meaning": "Horse Mackerel",
+          "CardId": 267,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "あじ",
+          "KunyomiRomaji": "aji"
+        },
+        {
+          "Kanji": "秋刀魚",
+          "Meaning": "Pacific Saury",
+          "CardId": 268,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "さんま",
+          "KunyomiRomaji": "sanma"
+        },
+        {
+          "Kanji": "鰯",
+          "Meaning": "Sardine",
+          "CardId": 269,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "いわし",
+          "KunyomiRomaji": "iwashi"
+        },
+        {
+          "Kanji": "ウーパールーパー",
+          "Meaning": "Axolotl",
+          "CardId": 270,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "うーぱーるーぱー",
+          "KunyomiRomaji": "ūpārūpā"
+        },
+        {
+          "Kanji": "カブトムシ",
+          "Meaning": "Rhinoceros Beetle",
+          "CardId": 271,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "かぶとむし",
+          "KunyomiRomaji": "kabutomushi"
+        },
+        {
+          "Kanji": "クワガタ",
+          "Meaning": "Stag Beetle",
+          "CardId": 272,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "くわがた",
+          "KunyomiRomaji": "kuwagata"
+        },
+        {
+          "Kanji": "バッタ",
+          "Meaning": "Grasshopper",
+          "CardId": 273,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "ばった",
+          "KunyomiRomaji": "batta"
+        },
+        {
+          "Kanji": "ガ",
+          "Meaning": "Moth",
+          "CardId": 274,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "が",
+          "KunyomiRomaji": "ga"
+        },
+        {
+          "Kanji": "ダンゴムシ",
+          "Meaning": "Pill Bug",
+          "CardId": 275,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "だんごむし",
+          "KunyomiRomaji": "dangomushi"
+        },
+        {
+          "Kanji": "ミミズ",
+          "Meaning": "Earthworm",
+          "CardId": 276,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "みみず",
+          "KunyomiRomaji": "mimizu"
+        },
+        {
+          "Kanji": "サソリ",
+          "Meaning": "Scorpion",
+          "CardId": 277,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "さそり",
+          "KunyomiRomaji": "sasori"
         }
       ]
     },
@@ -4885,6 +5525,348 @@
           "AudioDuration": 1.74,
           "OnyomiKana": "とりい",
           "OnyomiRomaji": "torii"
+        },
+        {
+          "Kanji": "桜",
+          "Meaning": "Cherry blossom",
+          "CardId": 278,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "さくら",
+          "KunyomiRomaji": "sakura"
+        },
+        {
+          "Kanji": "葉",
+          "Meaning": "Leaf",
+          "CardId": 279,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "は",
+          "KunyomiRomaji": "ha"
+        },
+        {
+          "Kanji": "枝",
+          "Meaning": "Branch",
+          "CardId": 280,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "えだ",
+          "KunyomiRomaji": "eda"
+        },
+        {
+          "Kanji": "木",
+          "Meaning": "Tree",
+          "CardId": 281,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "き",
+          "KunyomiRomaji": "ki"
+        },
+        {
+          "Kanji": "池",
+          "Meaning": "Pond",
+          "CardId": 282,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "いけ",
+          "KunyomiRomaji": "ike"
+        },
+        {
+          "Kanji": "石",
+          "Meaning": "Stone",
+          "CardId": 283,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "いし",
+          "KunyomiRomaji": "ishi"
+        },
+        {
+          "Kanji": "花",
+          "Meaning": "Flower",
+          "CardId": 284,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "はな",
+          "KunyomiRomaji": "hana"
+        },
+        {
+          "Kanji": "花壇",
+          "Meaning": "Flower bed",
+          "CardId": 285,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "かだん",
+          "OnyomiRomaji": "kadan"
+        },
+        {
+          "Kanji": "土",
+          "Meaning": "Soil",
+          "CardId": 286,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "つち",
+          "KunyomiRomaji": "tsuchi"
+        },
+        {
+          "Kanji": "公園",
+          "Meaning": "Park",
+          "CardId": 287,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "こうえん",
+          "OnyomiRomaji": "kouen"
+        },
+        {
+          "Kanji": "レストラン",
+          "Meaning": "Restaurant",
+          "CardId": 288,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "れすとらん",
+          "KunyomiRomaji": "resutoran"
+        },
+        {
+          "Kanji": "図書館",
+          "Meaning": "Library",
+          "CardId": 289,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "としょかん",
+          "OnyomiRomaji": "toshokan"
+        },
+        {
+          "Kanji": "屋根",
+          "Meaning": "Roof",
+          "CardId": 290,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "やね",
+          "KunyomiRomaji": "yane"
+        },
+        {
+          "Kanji": "扉",
+          "Meaning": "Door",
+          "CardId": 291,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "とびら",
+          "KunyomiRomaji": "tobira"
+        },
+        {
+          "Kanji": "こたつ",
+          "Meaning": "Kotatsu",
+          "CardId": 292,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "こたつ",
+          "KunyomiRomaji": "kotatsu"
+        },
+        {
+          "Kanji": "座布団",
+          "Meaning": "Floor cushion",
+          "CardId": 293,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "ざぶとん",
+          "KunyomiRomaji": "zabuton"
+        },
+        {
+          "Kanji": "瓦",
+          "Meaning": "Roof tile",
+          "CardId": 294,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "かわら",
+          "KunyomiRomaji": "kawara"
+        },
+        {
+          "Kanji": "滑り台",
+          "Meaning": "Slide",
+          "CardId": 295,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "すべりだい",
+          "KunyomiRomaji": "suberidai"
+        },
+        {
+          "Kanji": "サイコロ",
+          "Meaning": "Dice",
+          "CardId": 296,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "さいころ",
+          "KunyomiRomaji": "saikoro"
+        },
+        {
+          "Kanji": "看板",
+          "Meaning": "Sign",
+          "CardId": 297,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "かんばん",
+          "KunyomiRomaji": "kanban"
+        },
+        {
+          "Kanji": "ソファ",
+          "Meaning": "Sofa",
+          "CardId": 298,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "そふぁ",
+          "KunyomiRomaji": "sofua"
+        },
+        {
+          "Kanji": "テーブル",
+          "Meaning": "Table",
+          "CardId": 299,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "てーぶる",
+          "KunyomiRomaji": "te-buru"
+        },
+        {
+          "Kanji": "メニュー",
+          "Meaning": "Menu",
+          "CardId": 300,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "めにゅー",
+          "KunyomiRomaji": "menyu-"
+        },
+        {
+          "Kanji": "トイレ",
+          "Meaning": "Toilet",
+          "CardId": 301,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "といれ",
+          "KunyomiRomaji": "toire"
+        },
+        {
+          "Kanji": "学園",
+          "Meaning": "School",
+          "CardId": 302,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "がくえん",
+          "OnyomiRomaji": "gakuen"
+        },
+        {
+          "Kanji": "棚",
+          "Meaning": "Shelf",
+          "CardId": 303,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "たな",
+          "KunyomiRomaji": "tana"
+        },
+        {
+          "Kanji": "本",
+          "Meaning": "Book",
+          "CardId": 304,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "ほん",
+          "OnyomiRomaji": "hon"
+        },
+        {
+          "Kanji": "昔話",
+          "Meaning": "Folktale",
+          "CardId": 305,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "むかしばなし",
+          "KunyomiRomaji": "mukashibanashi"
+        },
+        {
+          "Kanji": "漫画",
+          "Meaning": "Manga",
+          "CardId": 306,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "まんが",
+          "OnyomiRomaji": "manga"
+        },
+        {
+          "Kanji": "絵",
+          "Meaning": "Painting",
+          "CardId": 307,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "え",
+          "KunyomiRomaji": "e"
+        },
+        {
+          "Kanji": "時計",
+          "Meaning": "Clock",
+          "CardId": 308,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "とけい",
+          "OnyomiRomaji": "tokei"
+        },
+        {
+          "Kanji": "石像",
+          "Meaning": "Stone statue",
+          "CardId": 309,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "せきぞう",
+          "OnyomiRomaji": "sekizou"
+        },
+        {
+          "Kanji": "鉛筆",
+          "Meaning": "Pencil",
+          "CardId": 310,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "えんぴつ",
+          "OnyomiRomaji": "enpitsu"
+        },
+        {
+          "Kanji": "教卓",
+          "Meaning": "Teacher's desk",
+          "CardId": 311,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "OnyomiKana": "きょうたく",
+          "OnyomiRomaji": "kyoutaku"
+        },
+        {
+          "Kanji": "竹",
+          "Meaning": "Bamboo",
+          "CardId": 312,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "たけ",
+          "KunyomiRomaji": "take"
+        },
+        {
+          "Kanji": "鈴",
+          "Meaning": "Bell",
+          "CardId": 313,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "すず",
+          "KunyomiRomaji": "suzu"
+        },
+        {
+          "Kanji": "蜜柑",
+          "Meaning": "Mandarin orange",
+          "CardId": 314,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "みかん",
+          "KunyomiRomaji": "mikan"
+        },
+        {
+          "Kanji": "おでん",
+          "Meaning": "Oden",
+          "CardId": 315,
+          "AudioStart": 0,
+          "AudioDuration": 0,
+          "KunyomiKana": "おでん",
+          "KunyomiRomaji": "oden"
         }
       ]
     }
