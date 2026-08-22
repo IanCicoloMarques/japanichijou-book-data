@@ -1,9 +1,9 @@
 {
   "title": "Junishinohajimari",
   "id": "junishinohajimari",
-  "translationMode": false,
-  "kanaMode": false,
-  "dictionaryMode": false,
+  "translationMode": true,
+  "kanaMode": true,
+  "dictionaryMode": true,
   "chapters": [
     {
       "title": "<b>Chapter 1: 神様からのお知らせ</b>",
@@ -11,6 +11,21 @@
         "むかしむかし、まだ年の数え方が決まっていなかったころのお話です。\nある年の暮れ、天の神様が動物たちを集めて、こう言いました。\n「元日の朝、わしの御殿に早く着いた順に、十二匹の動物を年の守り神にしてやろう。」",
         "ところが、ネコだけは居眠りをしていて、神様のお話を聞きそびれてしまいました。\n目を覚ましたネコは、慌てて友達のネズミに尋ねました。\n「ねえ、神様の御殿にはいつ行けばいいんだっけ？」",
         "ずる賢いネズミは、心の中でニヤリと笑いました。\nライバルを減らすチャンスだと思ったのです。\n「元日の次の日だよ。」\nネズミは、こう嘘をつきました。"
+      ],
+      "translation": [
+        "Long, long ago, before people had decided how to count the years, there was a story like this.\r\n\r\nOne year, toward the end of the year, the Heavenly God gathered all the animals together and said:\r\n\r\n“On the morning of New Year’s Day, the first twelve animals to arrive at my palace will become the guardians of the year.”\r",
+        "However, the cat was taking a nap and missed the Heavenly God’s announcement.\r\n\r\nWhen the cat woke up, it hurriedly asked its friend, the mouse:\r\n\r\n“Hey, when are we supposed to go to the Heavenly God’s palace?”\r",
+        "The clever and cunning mouse smiled to himself.\r\n\r\nHe thought, “This is my chance to get rid of a rival.”\r\n\r\n“The day after New Year’s Day,” he said.\r\n\r\nThe mouse had lied to the cat.\r\n"
+      ],
+      "kana": [
+        "むかしむかし、まだとしのかぞえかたがきまっていなかったころのおはなしです。\r\nあるとしのくれ、あまのかみさまがどうぶつたちをあつめて、こういいました。\r\n「がんじつのあさ、わしのごてんにはやくついたじゅんに、じゅうにひきのどうぶつをとしのまもりがみにしてやろう。」\r\n",
+        "ところが、ねこだけはいねむりをしていて、かみさまのおはなしをききそびれてしまいました。\r\nめをさましたねこは、あわててともだちのねずみにたずねました。\r\n「ねえ、かみさまのごてんにはいついけばいいんだっけ？」\r\n",
+        "ずるがしこいねずみは、こころのなかでにやりとわらいました。\r\nらいばるをへらすちゃんすだとおもったのです。\r\n「がんじつのつぎのひだよ。」\r\nねずみは、こううそをつきました。\r\n"
+      ],
+      "dictionary": [
+        "年（とし） — year.\n数え方（かぞえかた） — way of counting.\n十二匹（じゅうにひき） — twelve animals.\n動物（どうぶつ） — animal.\n朝（あさ） — morning.",
+        "ところが — however, but.\nネコ（ねこ） — cat.\nお話（おはなし） — story, tale.\n神様（かみさま） — god, deity.\nネズミ（ねずみ） — mouse.",
+        "ずる賢い（ずるがしこい） — cunning, sly.\n心（こころ） — heart, mind.\n減らす（へらす） — to reduce, to decrease.\n次の日（つぎのひ） — the next day.\n嘘（うそ） — lie."
       ]
     },
     {
@@ -21,6 +36,27 @@
         "やがて御殿の門が見えてきました。\nウシが「やった、一番乗りだ」と思った、まさにその時です。",
         "ネズミがウシの頭を踏み台にして、ぴょんと飛び降り、門をくぐり抜けたのです。\n\n「神様、あけましておめでとうございます！」\nとネズミは一番乗りの挨拶をしました。",
         "こうして、ネズミが一番、ウシが二番になりました。その後、トラ、ウサギ、タツ、ヘビ、ウマ、ヒツジ、サル、トリ、イヌ、イノシシの順に到着し、十二支が決まったのです。\n"
+      ],
+      "translation": [
+        "Now, the morning of New Year’s Day arrived.\r\n\r\nKnowing that he was a slow walker, the Ox set off earlier than anyone else.\r\n",
+        "On the way to the Heavenly God’s palace, a little mouse suddenly jumped onto the Ox’s back.\r\n\r\n“Thank you for giving me a ride, Mr. Ox.”\r\n\r\nThe kind-hearted Ox said nothing and simply continued walking.\r",
+        "Before long, the gates of the Heavenly God’s palace came into view.\r\n\r\nJust as the Ox thought, “I’m going to be the first one here!”...\r",
+        "The mouse used the Ox’s head as a stepping stone, jumped down, and scampered through the gate.\r\n\r\n“Happy New Year, Heavenly God!”\r\n\r\nThe mouse was the first to arrive and greeted the Heavenly God with a cheerful smile.\r",
+        "And so, the Mouse came in first, and the Ox came in second.\r\n\r\nAfter that, the Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, and Boar arrived in that order.\r\n\r\nAnd that is how the twelve animals of the Japanese zodiac were chosen.\r\n\n"
+      ],
+      "kana": [
+        "さて、がんじつのあさがきました。\r\nうしはじぶんのあゆみがおそいことをしっていたので、だれよりもはやくしゅっぱつしました。\r",
+        "そしてごてんへとむかうとちゅう、ちいさなねずみがうしのせなかにひょいととびのりました。\r\n「うしさん、のせていってくれてありがとう。」\r\nやさしいうしはなにもいわず、もくもくとあるきつづけました。\r\n",
+        "やがてごてんのもんがみえてきました。\r\nうしが「やった、いちばんのりだ」とおもった、まさにそのときです。\r\n",
+        "ねずみがうしのあたまをふみだいにして、ぴょんととびおり、もんをくぐりぬけたのです。\r\n\r\n「かみさま、あけましておめでとうございます！」\r\nとねずみはいちばんのりのあいさつをしました。\r",
+        "こうして、ねずみがいちばん、うしがにばんになりました。そのあと、とら、うさぎ、たつ、へび、うま、ひつじ、さる、とり、いぬ、いのししのじゅんにとうちゃくし、じゅうにしがきまったのです。\r"
+      ],
+      "dictionary": [
+        "元日（がんじつ） — New Year's Day.\n朝（あさ） — morning.\n自分（じぶん） — oneself, self.\n遅い（おそい） — slow, late.\n知る（しる） — to know.",
+        "途中（とちゅう） — on the way, along the way.\n小さな（ちいさな） — small, little.\n背中（せなか） — back.\n優しい（やさしい） — kind, gentle.\n何も（なにも） — anything, nothing.",
+        "御殿（ごてん） — palace, grand residence.\n門（もん） — gate.\n見える（みえる） — to be visible, to come into view.\n思う（おもう） — to think.\nその時（そのとき） — at that moment.\n",
+        "頭（あたま） — head.\n踏み台（ふみだい） — stepping stool, something used as a foothold.\nあけましておめでとうございます — Happy New Year.\n一番乗り（いちばんのり） — first to arrive.\n挨拶（あいさつ） — greeting.",
+        "一番（いちばん） — first place, number one.\n二番（にばん） — second place, number two.\nその後（そのご） — after that.\n到着する（とうちゃくする） — to arrive.\n十二支（じゅうにし） — the twelve animals of the Japanese zodiac."
       ]
     },
     {
@@ -30,6 +66,24 @@
         "そして、ネズミにだまされたことに気づき、とても怒りました。\n\n「よくもだましたな、ネズミ！ 絶対に許さないぞ！」\n\nそれからというもの、ネコはネズミを見つけると追いかけるようになったと言われています。",
         "物語に出てきた動物たち",
         "原作：十二支のはじまり\nストーリー編集・調整：tomo\n教材向け編集：HayaTikaze"
+      ],
+      "translation": [
+        "The next day, the Cat finally went to the Heavenly God’s palace, only to discover that everything was already over. The Cat was furious.\r\n\r\n“How dare you trick me, Mouse! I’ll never forgive you!”\r\n\r\nAnd ever since then, it is said that whenever a Cat sees a Mouse, it chases after it.\r\n",
+        "Then the Cat realized that the Mouse had tricked him and became very angry.\r\n\r\n“How dare you trick me, Mouse! I’ll never forgive you!”\r\n\r\nFrom then on, it is said that whenever the Cat sees a Mouse, it chases after it.\r\n",
+        "The animals that appeared in the story",
+        "Original story: *The Beginning of the Twelve Zodiac Animals*\r\nStory editing and adaptation: tomo\r\nEducational adaptation: HayaTikaze\r\n"
+      ],
+      "kana": [
+        "さて、よくじつになってごてんへむかったねこは、すべてがおわっていることをしり、おこりました。\r\n「よくもだましたな、ねずみ！ゆるさないぞ！」\r\nそれいらい、ねこはねずみをみつけるとおいかけるようになった、といいつたえられています。\r\n",
+        "そして、ねずみにだまされたことにきづき、とてもおこりました。\r\n\r\n「よくもだましたな、ねずみ！ ぜったいにゆるさないぞ！」\r\n\r\nそれからというもの、ねこはねずみをみつけるとおいかけるようになったといわれています。\r\n",
+        "ものがたりにでてきたどうぶつたち",
+        "げんさく：じゅうにしのはじまり\r\nすとーりーへんしゅう・ちょうせい：tomo\r\nきょうざいむけへんしゅう：HayaTikaze\r\n"
+      ],
+      "dictionary": [
+        "翌日（よくじつ） — the next day.\nすべて — everything, all.\n終わる（おわる） — to end, to be over.\n怒る（おこる） — to get angry.\n許す（ゆるす） — to forgive, to allow.",
+        "だまされる — to be deceived, to be tricked.\n気づく（きづく） — to notice, to realize.\nとても — very, extremely.\n絶対に（ぜったいに） — absolutely, never.\n見つける（みつける） — to find, to spot.",
+        "ネコ（ねこ） — cat.\nネズミ（ねずみ） — mouse.\nウシ（うし） — ox, cow.\nトラ（とら） — tiger.\nウサギ（うさぎ） — rabbit.\nタツ（たつ） — dragon.\nヘビ（へび） — snake.\nウマ（うま） — horse.\nヒツジ（ひつじ） — sheep, goat.\nサル（さる） — monkey.\nトリ（とり） — rooster, chicken.\nイヌ（いぬ） — dog.\nイノシシ — wild boar.",
+        ""
       ]
     }
   ]
