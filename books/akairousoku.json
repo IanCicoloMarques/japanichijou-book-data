@@ -1,7 +1,7 @@
 {
   "title": "AkaiRousoku",
   "id": "akairousoku",
-  "translationMode": true,
+  "translationMode": false,
   "kanaMode": true,
   "dictionaryMode": true,
   "chapters": [
@@ -11,11 +11,6 @@
         "ある日、山から里へ遊びに行ったサルが、一本の赤いろうそくを拾いました。\n\n赤いろうそくは、山の動物たちにとって、とても珍しいものでした。\n",
         "サルは、これを花火だと思い込みました。\n\nサルはその赤いろうそくを、大事に山へ持って帰りました。",
         "山に帰ると、大騒ぎになりました。\n花火を見たことがある動物が誰もいなかったからです。"
-      ],
-      "translation": [
-        "One day, a monkey came down from the mountains to the village to play and found a red candle.\r\n\r\nThe red candle was something very unusual to the animals living in the mountains.\r\n",
-        "The monkey mistook it for a firework.\r\n\r\nHe carefully carried the red candle back to the mountains.\r\n",
-        "When the monkey returned to the mountains, everyone was in an uproar.\r\n\r\nThat was because none of the animals had ever seen a firework before.\r\n"
       ],
       "kana": [
         "あるひ、やまからさとへあそびにいったさるが、いっぽんのあかいろうそくをひろいました。\r\n\r\nあかいろうそくは、やまのどうぶつたちにとって、とてもめずらしいものでした。\r",
@@ -35,11 +30,6 @@
         "「素晴らしい。」\n\n「素敵だ。」\n\nみんなは押し合いながら、赤いろうそくをのぞきこみました。",
         "サルは言いました。\n\n「危ない危ない。あんまり近づいたら爆発するかもしれないよ。」\n\nみんなは、びっくりして後ろに下がりました。"
       ],
-      "translation": [
-        "The deer, wild boar, rabbit, turtle, weasel, raccoon dog, and fox all came to see it.\r\n",
-        "“Wonderful!”\r\n\r\n“How amazing!”\r\n\r\nEveryone crowded around, pushing against each other as they tried to get a closer look at the red candle.\r\n",
-        "The monkey said,\r\n\r\n“Careful, careful! If you get too close, it might explode!”\r\n\r\nEveryone was startled and stepped back.\r\n"
-      ],
       "kana": [
         "しかも、いのししも、うさぎも、かめも、いたちも、たぬきも、きつねも、みんなあつまってきました。\r\n",
         "「すばらしい。」\r\n\r\n「すてきだ。」\r\n\r\nみんなはおしあいながら、あかいろうそくをのぞきこみました。\r",
@@ -57,10 +47,6 @@
         "サルは、花火というものがどんなに大きな音で飛び出すかをみんなに話しました。\nそして、どんなに美しく空に広がるかも聞かせました。",
         "みんなは、花火を見てみたいと思いました。\n\n「じゃあ、今夜、この山のてっぺんで花火を打ち上げてみよう。」とサルが言いました。\n\nそれを聞いて、みんなはとても喜びました。"
       ],
-      "translation": [
-        "The monkey told everyone how loudly fireworks shoot into the sky.\r\n\r\nHe also told them how beautifully they spread across the sky.\r\n",
-        "Everyone wanted to see the fireworks.\r\n\r\n“Then, let’s set off the firework at the top of this mountain tonight,” said the monkey.\r\n\r\nEveryone was very excited to hear that.\r\n"
-      ],
       "kana": [
         "さるは、はなびというものがどんなにおおきなおとでとびだすかをみんなにはなしました。\r\nそして、どんなにうつくしくそらにひろがるかもきかせました。\r\n",
         "みんなは、はなびをみてみたいとおもいました。\r\n\r\n「じゃあ、こんや、このやまのてっぺんではなびをうちあげてみよう。」とさるがいいました。\r\n\r\nそれをきいて、みんなはとてもよろこびました。\r"
@@ -75,10 +61,6 @@
       "body": [
         "そして、夜になりました。\n\n動物たちはドキドキしながら、山のてっぺんへ登っていきました。",
         "サルは赤いろうそくを木の枝にしばりつけて、みんなが来るのを待っていました。\n\nいよいよ花火に火をつける時間になりました。"
-      ],
-      "translation": [
-        "Then, night fell.\r\n\r\nThe animals climbed to the top of the mountain, their hearts pounding with excitement.\r\n",
-        "The monkey tied the red candle to a tree branch and waited for everyone to arrive.\r\n\r\nAt last, it was time to light the firework.\r"
       ],
       "kana": [
         "そして、よるになりました。\r\n\r\nどうぶつたちはどきどきしながら、やまのてっぺんへのぼっていきました。\r",
@@ -97,13 +79,6 @@
         "最初に当たったのは、カメでした。\n\nカメは、頑張って花火の近くまで行きました。\n\nでも、いざ近くに来ると首が引っ込んでしまい、出てこなくなりました。",
         "もう一度くじを引くと、今度はイタチでした。\n\nイタチはカメよりも少しだけ勇気がありました。\n\n首を引っ込めなかったのです。",
         "ところが、イタチは目が悪かったので、ろうそくのまわりをうろうろするばかりでした。"
-      ],
-      "translation": [
-        "But then, a problem arose.\r\n\r\nNo one wanted to light the firework.\r\n",
-        "Everyone loved watching fireworks, but they were too scared to light one themselves.\r\n\r\nSo, they decided to draw lots to choose who would light the firework.\r",
-        "The turtle was the first one chosen.\r\n\r\nThe turtle bravely made its way toward the firework.\r\n\r\nBut when it finally got close, it pulled its head into its shell and wouldn’t come back out.\r\n",
-        "They drew lots again, and this time, the weasel was chosen.\r\n\r\nThe weasel was a little braver than the turtle.\r\n\r\nAt least, it didn’t hide its head.\r\n",
-        "However, the weasel had poor eyesight, so it could only wander around the candle without being able to light it.\r\n"
       ],
       "kana": [
         "でも、こまったことがおこりました。\r\n\r\nだれもひをつけたがりません。\r",
@@ -125,19 +100,17 @@
       "body": [
         "ついにイノシシが飛び出しました。\n\nイノシシは、勇ましい動物でした。",
         "イノシシは、そのまま花火のところまで行って、火をつけました。\n\nみんなはびっくりして、草の中へ飛び込みました。",
-        "耳をふさいで、目もつぶりました。\n\nでも、赤いろうそくは静かにゆらゆらと燃えているだけでした。"
-      ],
-      "translation": [
-        "At last, the wild boar stepped forward.\r\n\r\nThe wild boar was a brave and fearless animal.\r\n",
-        "The wild boar walked straight up to the firework and lit it.\r\n\r\nEveryone was startled and jumped into the grass.\r\n",
-        "They covered their ears and closed their eyes.\r\n\r\nBut the red candle simply flickered quietly.\r\n"
+        "耳をふさいで、目もつぶりました。\n\nでも、赤いろうそくは静かにゆらゆらと燃えているだけでした。",
+        "原作：赤いろうそく\nストーリー編集・調整：tomo\n教材向け編集：HayaTikaze\nギミック制作：Ainx"
       ],
       "kana": [
         "ついにいのししがとびだしました。\r\n\r\nいのししは、いさましいどうぶつでした。\r",
         "いのししは、そのままはなびのところまでいって、ひをつけました。\r\n\r\nみんなはびっくりして、くさのなかへとびこみました。\r\n",
-        "みみをふさいで、めもつぶりました。\r\n\r\nでも、あかいろうそくはしずかにゆらゆらともえているだけでした。\r\n"
+        "みみをふさいで、めもつぶりました。\r\n\r\nでも、あかいろうそくはしずかにゆらゆらともえているだけでした。\r\n",
+        "げんさく：あかいろうそく\nすとーりーへんしゅう・ちょうせい：tomo\nきょうざいむけへんしゅう：HayaTikaze\nぎみっくせいさく：Ainx"
       ],
       "dictionary": [
+        "",
         "",
         "",
         ""
