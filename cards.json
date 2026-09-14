@@ -1,6 +1,5 @@
 {
   "Credits": "<align=center><size=130%><color=#86C48D><b>Voice credits</b></color></size></align>\n<size=80%><align=left>- HayaTikaze\n- TTS: Microsoft Edge (ja-JP-NanamiNeural)</align></size>",
-  "false": "Upload in progress, please wait... Organizing data",
   "Topics": [
     {
       "Topic": "Verbs",
@@ -15,22 +14,16 @@
           "KunyomiRomaji": "iku",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "行った",
-              "Meaning": "いった"
+              "Kanji": "行った",
+              "Furigana": "いった",
+              "Romaji": "itta",
+              "Meaning": "went"
             },
             {
-              "Kanji": "itta",
-              "Furigana": "went",
-              "Romaji": "行きます",
-              "Meaning": "いきます"
-            },
-            {
-              "Kanji": "ikimasu",
-              "Furigana": "to go",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "行きます",
+              "Furigana": "いきます",
+              "Romaji": "ikimasu",
+              "Meaning": "to go"
             }
           ]
         },
@@ -44,22 +37,16 @@
           "KunyomiRomaji": "kuru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "来た",
-              "Meaning": "きた"
+              "Kanji": "来た",
+              "Furigana": "きた",
+              "Romaji": "kita",
+              "Meaning": "came"
             },
             {
-              "Kanji": "kita",
-              "Furigana": "came",
-              "Romaji": "来ます",
-              "Meaning": "きます"
-            },
-            {
-              "Kanji": "kimasu",
-              "Furigana": "to come",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "来ます",
+              "Furigana": "きます",
+              "Romaji": "kimasu",
+              "Meaning": "to come"
             }
           ]
         },
@@ -73,22 +60,16 @@
           "KunyomiRomaji": "kaeru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "帰った",
-              "Meaning": "かえった"
+              "Kanji": "帰った",
+              "Furigana": "かえった",
+              "Romaji": "kaetta",
+              "Meaning": "returned / went home"
             },
             {
-              "Kanji": "kaetta",
-              "Furigana": "returned / went home",
-              "Romaji": "帰ります",
-              "Meaning": "かえります"
-            },
-            {
-              "Kanji": "kaerimasu",
-              "Furigana": "to return / go home",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "帰ります",
+              "Furigana": "かえります",
+              "Romaji": "kaerimasu",
+              "Meaning": "to return / go home"
             }
           ]
         },
@@ -102,22 +83,16 @@
           "KunyomiRomaji": "suru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "した",
-              "Meaning": "した"
+              "Kanji": "した",
+              "Furigana": "した",
+              "Romaji": "shita",
+              "Meaning": "did"
             },
             {
-              "Kanji": "shita",
-              "Furigana": "did",
-              "Romaji": "します",
-              "Meaning": "します"
-            },
-            {
-              "Kanji": "shimasu",
-              "Furigana": "to do",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "します",
+              "Furigana": "します",
+              "Romaji": "shimasu",
+              "Meaning": "to do"
             }
           ]
         },
@@ -131,22 +106,16 @@
           "KunyomiRomaji": "naru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "なった",
-              "Meaning": "なった"
+              "Kanji": "なった",
+              "Furigana": "なった",
+              "Romaji": "natta",
+              "Meaning": "became"
             },
             {
-              "Kanji": "natta",
-              "Furigana": "became",
-              "Romaji": "なります",
-              "Meaning": "なります"
-            },
-            {
-              "Kanji": "narimasu",
-              "Furigana": "to become",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "なります",
+              "Furigana": "なります",
+              "Romaji": "narimasu",
+              "Meaning": "to become"
             }
           ]
         },
@@ -160,22 +129,16 @@
           "KunyomiRomaji": "aru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "あった",
-              "Meaning": "あった"
+              "Kanji": "あった",
+              "Furigana": "あった",
+              "Romaji": "atta",
+              "Meaning": "existed (inanimate)"
             },
             {
-              "Kanji": "atta",
-              "Furigana": "existed (inanimate)",
-              "Romaji": "あります",
-              "Meaning": "あります"
-            },
-            {
-              "Kanji": "arimasu",
-              "Furigana": "to exist (inanimate)",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "あります",
+              "Furigana": "あります",
+              "Romaji": "arimasu",
+              "Meaning": "to exist (inanimate)"
             }
           ]
         },
@@ -189,22 +152,16 @@
           "KunyomiRomaji": "iru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "いた",
-              "Meaning": "いた"
+              "Kanji": "いた",
+              "Furigana": "いた",
+              "Romaji": "ita",
+              "Meaning": "existed (animate)"
             },
             {
-              "Kanji": "ita",
-              "Furigana": "existed (animate)",
-              "Romaji": "います",
-              "Meaning": "います"
-            },
-            {
-              "Kanji": "imasu",
-              "Furigana": "to exist (animate)",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "います",
+              "Furigana": "います",
+              "Romaji": "imasu",
+              "Meaning": "to exist (animate)"
             }
           ]
         },
@@ -218,22 +175,16 @@
           "KunyomiRomaji": "miru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "見た",
-              "Meaning": "みた"
+              "Kanji": "見た",
+              "Furigana": "みた",
+              "Romaji": "mita",
+              "Meaning": "saw / looked"
             },
             {
-              "Kanji": "mita",
-              "Furigana": "saw / looked",
-              "Romaji": "見ます",
-              "Meaning": "みます"
-            },
-            {
-              "Kanji": "mimasu",
-              "Furigana": "to see / look",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "見ます",
+              "Furigana": "みます",
+              "Romaji": "mimasu",
+              "Meaning": "to see / look"
             }
           ]
         },
@@ -247,22 +198,16 @@
           "KunyomiRomaji": "kiku",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "聞いた",
-              "Meaning": "きいた"
+              "Kanji": "聞いた",
+              "Furigana": "きいた",
+              "Romaji": "kiita",
+              "Meaning": "heard / listened"
             },
             {
-              "Kanji": "kiita",
-              "Furigana": "heard / listened",
-              "Romaji": "聞きます",
-              "Meaning": "ききます"
-            },
-            {
-              "Kanji": "kikimasu",
-              "Furigana": "to hear / listen",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "聞きます",
+              "Furigana": "ききます",
+              "Romaji": "kikimasu",
+              "Meaning": "to hear / listen"
             }
           ]
         },
@@ -276,22 +221,16 @@
           "KunyomiRomaji": "iu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "言った",
-              "Meaning": "いった"
+              "Kanji": "言った",
+              "Furigana": "いった",
+              "Romaji": "itta",
+              "Meaning": "said"
             },
             {
-              "Kanji": "itta",
-              "Furigana": "said",
-              "Romaji": "言います",
-              "Meaning": "いいます"
-            },
-            {
-              "Kanji": "iimasu",
-              "Furigana": "to say",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "言います",
+              "Furigana": "いいます",
+              "Romaji": "iimasu",
+              "Meaning": "to say"
             }
           ]
         },
@@ -305,22 +244,16 @@
           "KunyomiRomaji": "taberu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "食べた",
-              "Meaning": "たべた"
+              "Kanji": "食べた",
+              "Furigana": "たべた",
+              "Romaji": "tabeta",
+              "Meaning": "ate"
             },
             {
-              "Kanji": "tabeta",
-              "Furigana": "ate",
-              "Romaji": "食べます",
-              "Meaning": "たべます"
-            },
-            {
-              "Kanji": "tabemasu",
-              "Furigana": "to eat",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "食べます",
+              "Furigana": "たべます",
+              "Romaji": "tabemasu",
+              "Meaning": "to eat"
             }
           ]
         },
@@ -334,22 +267,16 @@
           "KunyomiRomaji": "nomu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "飲んだ",
-              "Meaning": "のんだ"
+              "Kanji": "飲んだ",
+              "Furigana": "のんだ",
+              "Romaji": "nonda",
+              "Meaning": "drank"
             },
             {
-              "Kanji": "nonda",
-              "Furigana": "drank",
-              "Romaji": "飲みます",
-              "Meaning": "のみます"
-            },
-            {
-              "Kanji": "nomimasu",
-              "Furigana": "to drink",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "飲みます",
+              "Furigana": "のみます",
+              "Romaji": "nomimasu",
+              "Meaning": "to drink"
             }
           ]
         },
@@ -363,22 +290,16 @@
           "KunyomiRomaji": "neru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "寝た",
-              "Meaning": "ねた"
+              "Kanji": "寝た",
+              "Furigana": "ねた",
+              "Romaji": "neta",
+              "Meaning": "slept"
             },
             {
-              "Kanji": "neta",
-              "Furigana": "slept",
-              "Romaji": "寝ます",
-              "Meaning": "ねます"
-            },
-            {
-              "Kanji": "nemasu",
-              "Furigana": "to sleep",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "寝ます",
+              "Furigana": "ねます",
+              "Romaji": "nemasu",
+              "Meaning": "to sleep"
             }
           ]
         },
@@ -392,22 +313,16 @@
           "KunyomiRomaji": "okiru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "起きた",
-              "Meaning": "おきた"
+              "Kanji": "起きた",
+              "Furigana": "おきた",
+              "Romaji": "okita",
+              "Meaning": "woke up"
             },
             {
-              "Kanji": "okita",
-              "Furigana": "woke up",
-              "Romaji": "起きます",
-              "Meaning": "おきます"
-            },
-            {
-              "Kanji": "okimasu",
-              "Furigana": "to wake up",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "起きます",
+              "Furigana": "おきます",
+              "Romaji": "okimasu",
+              "Meaning": "to wake up"
             }
           ]
         },
@@ -421,22 +336,16 @@
           "KunyomiRomaji": "yasumu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "休んだ",
-              "Meaning": "やすんだ"
+              "Kanji": "休んだ",
+              "Furigana": "やすんだ",
+              "Romaji": "yasunda",
+              "Meaning": "rested"
             },
             {
-              "Kanji": "yasunda",
-              "Furigana": "rested",
-              "Romaji": "休みます",
-              "Meaning": "やすみます"
-            },
-            {
-              "Kanji": "yasumimasu",
-              "Furigana": "to rest",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "休みます",
+              "Furigana": "やすみます",
+              "Romaji": "yasumimasu",
+              "Meaning": "to rest"
             }
           ]
         },
@@ -450,22 +359,16 @@
           "KunyomiRomaji": "hataraku",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "働いた",
-              "Meaning": "はたらいた"
+              "Kanji": "働いた",
+              "Furigana": "はたらいた",
+              "Romaji": "hataraita",
+              "Meaning": "worked"
             },
             {
-              "Kanji": "hataraita",
-              "Furigana": "worked",
-              "Romaji": "働きます",
-              "Meaning": "はたらきます"
-            },
-            {
-              "Kanji": "hatarakimasu",
-              "Furigana": "to work",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "働きます",
+              "Furigana": "はたらきます",
+              "Romaji": "hatarakimasu",
+              "Meaning": "to work"
             }
           ]
         },
@@ -479,22 +382,16 @@
           "KunyomiRomaji": "benkyou suru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "勉強した",
-              "Meaning": "べんきょうした"
+              "Kanji": "勉強した",
+              "Furigana": "べんきょうした",
+              "Romaji": "benkyou shita",
+              "Meaning": "studied"
             },
             {
-              "Kanji": "benkyou shita",
-              "Furigana": "studied",
-              "Romaji": "勉強します",
-              "Meaning": "べんきょうします"
-            },
-            {
-              "Kanji": "benkyou shimasu",
-              "Furigana": "to study",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "勉強します",
+              "Furigana": "べんきょうします",
+              "Romaji": "benkyou shimasu",
+              "Meaning": "to study"
             }
           ]
         },
@@ -508,22 +405,16 @@
           "KunyomiRomaji": "arau",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "洗った",
-              "Meaning": "あらった"
+              "Kanji": "洗った",
+              "Furigana": "あらった",
+              "Romaji": "aratta",
+              "Meaning": "washed"
             },
             {
-              "Kanji": "aratta",
-              "Furigana": "washed",
-              "Romaji": "洗います",
-              "Meaning": "あらいます"
-            },
-            {
-              "Kanji": "araimasu",
-              "Furigana": "to wash",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "洗います",
+              "Furigana": "あらいます",
+              "Romaji": "araimasu",
+              "Meaning": "to wash"
             }
           ]
         },
@@ -537,22 +428,16 @@
           "KunyomiRomaji": "tsukau",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "使った",
-              "Meaning": "つかった"
+              "Kanji": "使った",
+              "Furigana": "つかった",
+              "Romaji": "tsukatta",
+              "Meaning": "used"
             },
             {
-              "Kanji": "tsukatta",
-              "Furigana": "used",
-              "Romaji": "使います",
-              "Meaning": "つかいます"
-            },
-            {
-              "Kanji": "tsukaimasu",
-              "Furigana": "to use",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "使います",
+              "Furigana": "つかいます",
+              "Romaji": "tsukaimasu",
+              "Meaning": "to use"
             }
           ]
         },
@@ -566,22 +451,16 @@
           "KunyomiRomaji": "motsu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "持った",
-              "Meaning": "もった"
+              "Kanji": "持った",
+              "Furigana": "もった",
+              "Romaji": "motta",
+              "Meaning": "held / had"
             },
             {
-              "Kanji": "motta",
-              "Furigana": "held / had",
-              "Romaji": "持ちます",
-              "Meaning": "もちます"
-            },
-            {
-              "Kanji": "mochimasu",
-              "Furigana": "to hold / have",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "持ちます",
+              "Furigana": "もちます",
+              "Romaji": "mochimasu",
+              "Meaning": "to hold / have"
             }
           ]
         },
@@ -595,22 +474,16 @@
           "KunyomiRomaji": "aruku",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "歩いた",
-              "Meaning": "あるいた"
+              "Kanji": "歩いた",
+              "Furigana": "あるいた",
+              "Romaji": "aruita",
+              "Meaning": "walked"
             },
             {
-              "Kanji": "aruita",
-              "Furigana": "walked",
-              "Romaji": "歩きます",
-              "Meaning": "あるきます"
-            },
-            {
-              "Kanji": "arukimasu",
-              "Furigana": "to walk",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "歩きます",
+              "Furigana": "あるきます",
+              "Romaji": "arukimasu",
+              "Meaning": "to walk"
             }
           ]
         },
@@ -624,22 +497,16 @@
           "KunyomiRomaji": "hashiru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "走った",
-              "Meaning": "はしった"
+              "Kanji": "走った",
+              "Furigana": "はしった",
+              "Romaji": "hashitta",
+              "Meaning": "ran"
             },
             {
-              "Kanji": "hashitta",
-              "Furigana": "ran",
-              "Romaji": "走ります",
-              "Meaning": "はしります"
-            },
-            {
-              "Kanji": "hashirimasu",
-              "Furigana": "to run",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "走ります",
+              "Furigana": "はしります",
+              "Romaji": "hashirimasu",
+              "Meaning": "to run"
             }
           ]
         },
@@ -653,22 +520,16 @@
           "KunyomiRomaji": "hairu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "入った",
-              "Meaning": "はいった"
+              "Kanji": "入った",
+              "Furigana": "はいった",
+              "Romaji": "haitta",
+              "Meaning": "entered"
             },
             {
-              "Kanji": "haitta",
-              "Furigana": "entered",
-              "Romaji": "入ります",
-              "Meaning": "はいります"
-            },
-            {
-              "Kanji": "hairimasu",
-              "Furigana": "to enter",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "入ります",
+              "Furigana": "はいります",
+              "Romaji": "hairimasu",
+              "Meaning": "to enter"
             }
           ]
         },
@@ -682,22 +543,16 @@
           "KunyomiRomaji": "deru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "出た",
-              "Meaning": "でた"
+              "Kanji": "出た",
+              "Furigana": "でた",
+              "Romaji": "deta",
+              "Meaning": "left / exited"
             },
             {
-              "Kanji": "deta",
-              "Furigana": "left / exited",
-              "Romaji": "出ます",
-              "Meaning": "でます"
-            },
-            {
-              "Kanji": "demasu",
-              "Furigana": "to leave / exit",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "出ます",
+              "Furigana": "でます",
+              "Romaji": "demasu",
+              "Meaning": "to leave / exit"
             }
           ]
         },
@@ -711,22 +566,16 @@
           "KunyomiRomaji": "suwaru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "座った",
-              "Meaning": "すわった"
+              "Kanji": "座った",
+              "Furigana": "すわった",
+              "Romaji": "suwatta",
+              "Meaning": "sat"
             },
             {
-              "Kanji": "suwatta",
-              "Furigana": "sat",
-              "Romaji": "座ります",
-              "Meaning": "すわります"
-            },
-            {
-              "Kanji": "suwarimasu",
-              "Furigana": "to sit",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "座ります",
+              "Furigana": "すわります",
+              "Romaji": "suwarimasu",
+              "Meaning": "to sit"
             }
           ]
         },
@@ -740,22 +589,16 @@
           "KunyomiRomaji": "tatsu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "立った",
-              "Meaning": "たった"
+              "Kanji": "立った",
+              "Furigana": "たった",
+              "Romaji": "tatta",
+              "Meaning": "stood"
             },
             {
-              "Kanji": "tatta",
-              "Furigana": "stood",
-              "Romaji": "立ちます",
-              "Meaning": "たちます"
-            },
-            {
-              "Kanji": "tachimasu",
-              "Furigana": "to stand",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "立ちます",
+              "Furigana": "たちます",
+              "Romaji": "tachimasu",
+              "Meaning": "to stand"
             }
           ]
         },
@@ -769,22 +612,16 @@
           "KunyomiRomaji": "tomaru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "止まった",
-              "Meaning": "とまった"
+              "Kanji": "止まった",
+              "Furigana": "とまった",
+              "Romaji": "tomatta",
+              "Meaning": "stopped"
             },
             {
-              "Kanji": "tomatta",
-              "Furigana": "stopped",
-              "Romaji": "止まります",
-              "Meaning": "とまります"
-            },
-            {
-              "Kanji": "tomarimasu",
-              "Furigana": "to stop",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "止まります",
+              "Furigana": "とまります",
+              "Romaji": "tomarimasu",
+              "Meaning": "to stop"
             }
           ]
         },
@@ -798,22 +635,16 @@
           "KunyomiRomaji": "oyogu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "泳いだ",
-              "Meaning": "およいだ"
+              "Kanji": "泳いだ",
+              "Furigana": "およいだ",
+              "Romaji": "oyoida",
+              "Meaning": "swam"
             },
             {
-              "Kanji": "oyoida",
-              "Furigana": "swam",
-              "Romaji": "泳ぎます",
-              "Meaning": "およぎます"
-            },
-            {
-              "Kanji": "oyogimasu",
-              "Furigana": "to swim",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "泳ぎます",
+              "Furigana": "およぎます",
+              "Romaji": "oyogimasu",
+              "Meaning": "to swim"
             }
           ]
         },
@@ -827,22 +658,16 @@
           "KunyomiRomaji": "tobu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "飛んだ",
-              "Meaning": "とんだ"
+              "Kanji": "飛んだ",
+              "Furigana": "とんだ",
+              "Romaji": "tonda",
+              "Meaning": "flew"
             },
             {
-              "Kanji": "tonda",
-              "Furigana": "flew",
-              "Romaji": "飛びます",
-              "Meaning": "とびます"
-            },
-            {
-              "Kanji": "tobimasu",
-              "Furigana": "to fly",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "飛びます",
+              "Furigana": "とびます",
+              "Romaji": "tobimasu",
+              "Meaning": "to fly"
             }
           ]
         },
@@ -856,22 +681,16 @@
           "KunyomiRomaji": "noboru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "登った",
-              "Meaning": "のぼった"
+              "Kanji": "登った",
+              "Furigana": "のぼった",
+              "Romaji": "nobotta",
+              "Meaning": "climbed"
             },
             {
-              "Kanji": "nobotta",
-              "Furigana": "climbed",
-              "Romaji": "登ります",
-              "Meaning": "のぼります"
-            },
-            {
-              "Kanji": "noborimasu",
-              "Furigana": "to climb",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "登ります",
+              "Furigana": "のぼります",
+              "Romaji": "noborimasu",
+              "Meaning": "to climb"
             }
           ]
         },
@@ -885,22 +704,16 @@
           "KunyomiRomaji": "hanasu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "話した",
-              "Meaning": "はなした"
+              "Kanji": "話した",
+              "Furigana": "はなした",
+              "Romaji": "hanashita",
+              "Meaning": "spoke / talked"
             },
             {
-              "Kanji": "hanashita",
-              "Furigana": "spoke / talked",
-              "Romaji": "話します",
-              "Meaning": "はなします"
-            },
-            {
-              "Kanji": "hanashimasu",
-              "Furigana": "to speak / talk",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "話します",
+              "Furigana": "はなします",
+              "Romaji": "hanashimasu",
+              "Meaning": "to speak / talk"
             }
           ]
         },
@@ -914,22 +727,16 @@
           "KunyomiRomaji": "oshieru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "教えた",
-              "Meaning": "おしえた"
+              "Kanji": "教えた",
+              "Furigana": "おしえた",
+              "Romaji": "oshieta",
+              "Meaning": "taught"
             },
             {
-              "Kanji": "oshieta",
-              "Furigana": "taught",
-              "Romaji": "教えます",
-              "Meaning": "おしえます"
-            },
-            {
-              "Kanji": "oshieimasu",
-              "Furigana": "to teach",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "教えます",
+              "Furigana": "おしえます",
+              "Romaji": "oshieimasu",
+              "Meaning": "to teach"
             }
           ]
         },
@@ -943,22 +750,16 @@
           "KunyomiRomaji": "kotaeru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "答えた",
-              "Meaning": "こたえた"
+              "Kanji": "答えた",
+              "Furigana": "こたえた",
+              "Romaji": "kotaeta",
+              "Meaning": "answered"
             },
             {
-              "Kanji": "kotaeta",
-              "Furigana": "answered",
-              "Romaji": "答えます",
-              "Meaning": "こたえます"
-            },
-            {
-              "Kanji": "kotaemasu",
-              "Furigana": "to answer",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "答えます",
+              "Furigana": "こたえます",
+              "Romaji": "kotaemasu",
+              "Meaning": "to answer"
             }
           ]
         },
@@ -972,22 +773,16 @@
           "KunyomiRomaji": "yobu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "呼んだ",
-              "Meaning": "よんだ"
+              "Kanji": "呼んだ",
+              "Furigana": "よんだ",
+              "Romaji": "yonda",
+              "Meaning": "called"
             },
             {
-              "Kanji": "yonda",
-              "Furigana": "called",
-              "Romaji": "呼びます",
-              "Meaning": "よびます"
-            },
-            {
-              "Kanji": "yobimasu",
-              "Furigana": "to call",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "呼びます",
+              "Furigana": "よびます",
+              "Romaji": "yobimasu",
+              "Meaning": "to call"
             }
           ]
         },
@@ -1001,22 +796,16 @@
           "KunyomiRomaji": "tsutaeru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "伝えた",
-              "Meaning": "つたえた"
+              "Kanji": "伝えた",
+              "Furigana": "つたえた",
+              "Romaji": "tsutaeta",
+              "Meaning": "conveyed / told"
             },
             {
-              "Kanji": "tsutaeta",
-              "Furigana": "conveyed / told",
-              "Romaji": "伝えます",
-              "Meaning": "つたえます"
-            },
-            {
-              "Kanji": "tsutaemasu",
-              "Furigana": "to convey / tell",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "伝えます",
+              "Furigana": "つたえます",
+              "Romaji": "tsutaemasu",
+              "Meaning": "to convey / tell"
             }
           ]
         },
@@ -1030,22 +819,16 @@
           "KunyomiRomaji": "setsumei suru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "説明した",
-              "Meaning": "せつめいした"
+              "Kanji": "説明した",
+              "Furigana": "せつめいした",
+              "Romaji": "setsumei shita",
+              "Meaning": "explained"
             },
             {
-              "Kanji": "setsumei shita",
-              "Furigana": "explained",
-              "Romaji": "説明します",
-              "Meaning": "せつめいします"
-            },
-            {
-              "Kanji": "setsumei shimasu",
-              "Furigana": "to explain",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "説明します",
+              "Furigana": "せつめいします",
+              "Romaji": "setsumei shimasu",
+              "Meaning": "to explain"
             }
           ]
         },
@@ -1059,22 +842,16 @@
           "KunyomiRomaji": "shitsumon suru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "質問した",
-              "Meaning": "しつもんした"
+              "Kanji": "質問した",
+              "Furigana": "しつもんした",
+              "Romaji": "shitsumon shita",
+              "Meaning": "asked a question"
             },
             {
-              "Kanji": "shitsumon shita",
-              "Furigana": "asked a question",
-              "Romaji": "質問します",
-              "Meaning": "しつもんします"
-            },
-            {
-              "Kanji": "shitsumon shimasu",
-              "Furigana": "to ask a question",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "質問します",
+              "Furigana": "しつもんします",
+              "Romaji": "shitsumon shimasu",
+              "Meaning": "to ask a question"
             }
           ]
         },
@@ -1088,22 +865,16 @@
           "KunyomiRomaji": "yakusoku suru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "約束した",
-              "Meaning": "やくそくした"
+              "Kanji": "約束した",
+              "Furigana": "やくそくした",
+              "Romaji": "yakusoku shita",
+              "Meaning": "promised"
             },
             {
-              "Kanji": "yakusoku shita",
-              "Furigana": "promised",
-              "Romaji": "約束します",
-              "Meaning": "やくそくします"
-            },
-            {
-              "Kanji": "yakusoku shimasu",
-              "Furigana": "to promise",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "約束します",
+              "Furigana": "やくそくします",
+              "Romaji": "yakusoku shimasu",
+              "Meaning": "to promise"
             }
           ]
         },
@@ -1117,22 +888,16 @@
           "KunyomiRomaji": "soudan suru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "相談した",
-              "Meaning": "そうだんした"
+              "Kanji": "相談した",
+              "Furigana": "そうだんした",
+              "Romaji": "soudan shita",
+              "Meaning": "consulted / discussed"
             },
             {
-              "Kanji": "soudan shita",
-              "Furigana": "consulted / discussed",
-              "Romaji": "相談します",
-              "Meaning": "そうだんします"
-            },
-            {
-              "Kanji": "soudan shimasu",
-              "Furigana": "to consult / discuss",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "相談します",
+              "Furigana": "そうだんします",
+              "Romaji": "soudan shimasu",
+              "Meaning": "to consult / discuss"
             }
           ]
         },
@@ -1146,22 +911,16 @@
           "KunyomiRomaji": "omou",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "思った",
-              "Meaning": "おもった"
+              "Kanji": "思った",
+              "Furigana": "おもった",
+              "Romaji": "omotta",
+              "Meaning": "thought"
             },
             {
-              "Kanji": "omotta",
-              "Furigana": "thought",
-              "Romaji": "思います",
-              "Meaning": "おもいます"
-            },
-            {
-              "Kanji": "omoimasu",
-              "Furigana": "to think",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "思います",
+              "Furigana": "おもいます",
+              "Romaji": "omoimasu",
+              "Meaning": "to think"
             }
           ]
         },
@@ -1175,22 +934,16 @@
           "KunyomiRomaji": "shiru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "知った",
-              "Meaning": "しった"
+              "Kanji": "知った",
+              "Furigana": "しった",
+              "Romaji": "shitta",
+              "Meaning": "knew"
             },
             {
-              "Kanji": "shitta",
-              "Furigana": "knew",
-              "Romaji": "知ります",
-              "Meaning": "しります"
-            },
-            {
-              "Kanji": "shirimasu",
-              "Furigana": "to know",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "知ります",
+              "Furigana": "しります",
+              "Romaji": "shirimasu",
+              "Meaning": "to know"
             }
           ]
         },
@@ -1204,22 +957,16 @@
           "KunyomiRomaji": "wakaru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "分かった",
-              "Meaning": "わかった"
+              "Kanji": "分かった",
+              "Furigana": "わかった",
+              "Romaji": "wakatta",
+              "Meaning": "understood"
             },
             {
-              "Kanji": "wakatta",
-              "Furigana": "understood",
-              "Romaji": "分かります",
-              "Meaning": "わかります"
-            },
-            {
-              "Kanji": "wakarimasu",
-              "Furigana": "to understand",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "分かります",
+              "Furigana": "わかります",
+              "Romaji": "wakarimasu",
+              "Meaning": "to understand"
             }
           ]
         },
@@ -1233,22 +980,16 @@
           "KunyomiRomaji": "wasureru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "忘れた",
-              "Meaning": "わすれた"
+              "Kanji": "忘れた",
+              "Furigana": "わすれた",
+              "Romaji": "wasureta",
+              "Meaning": "forgot"
             },
             {
-              "Kanji": "wasureta",
-              "Furigana": "forgot",
-              "Romaji": "忘れます",
-              "Meaning": "わすれます"
-            },
-            {
-              "Kanji": "wasuremasu",
-              "Furigana": "to forget",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "忘れます",
+              "Furigana": "わすれます",
+              "Romaji": "wasuremasu",
+              "Meaning": "to forget"
             }
           ]
         },
@@ -1262,22 +1003,16 @@
           "KunyomiRomaji": "oboeru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "覚えた",
-              "Meaning": "おぼえた"
+              "Kanji": "覚えた",
+              "Furigana": "おぼえた",
+              "Romaji": "oboeta",
+              "Meaning": "remembered"
             },
             {
-              "Kanji": "oboeta",
-              "Furigana": "remembered",
-              "Romaji": "覚えます",
-              "Meaning": "おぼえます"
-            },
-            {
-              "Kanji": "oboemasu",
-              "Furigana": "to remember",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "覚えます",
+              "Furigana": "おぼえます",
+              "Romaji": "oboemasu",
+              "Meaning": "to remember"
             }
           ]
         },
@@ -1291,22 +1026,16 @@
           "KunyomiRomaji": "kanjiru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "感じた",
-              "Meaning": "かんじた"
+              "Kanji": "感じた",
+              "Furigana": "かんじた",
+              "Romaji": "kanjita",
+              "Meaning": "felt"
             },
             {
-              "Kanji": "kanjita",
-              "Furigana": "felt",
-              "Romaji": "感じます",
-              "Meaning": "かんじます"
-            },
-            {
-              "Kanji": "kanjimasu",
-              "Furigana": "to feel",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "感じます",
+              "Furigana": "かんじます",
+              "Romaji": "kanjimasu",
+              "Meaning": "to feel"
             }
           ]
         },
@@ -1320,22 +1049,16 @@
           "KunyomiRomaji": "shinjiru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "信じた",
-              "Meaning": "しんじた"
+              "Kanji": "信じた",
+              "Furigana": "しんじた",
+              "Romaji": "shinjita",
+              "Meaning": "believed"
             },
             {
-              "Kanji": "shinjita",
-              "Furigana": "believed",
-              "Romaji": "信じます",
-              "Meaning": "しんじます"
-            },
-            {
-              "Kanji": "shinjimasu",
-              "Furigana": "to believe",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "信じます",
+              "Furigana": "しんじます",
+              "Romaji": "shinjimasu",
+              "Meaning": "to believe"
             }
           ]
         },
@@ -1349,22 +1072,16 @@
           "KunyomiRomaji": "kangaeru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "考えた",
-              "Meaning": "かんがえた"
+              "Kanji": "考えた",
+              "Furigana": "かんがえた",
+              "Romaji": "kangaeta",
+              "Meaning": "considered"
             },
             {
-              "Kanji": "kangaeta",
-              "Furigana": "considered",
-              "Romaji": "考えます",
-              "Meaning": "かんがえます"
-            },
-            {
-              "Kanji": "kangaemasu",
-              "Furigana": "to think / consider",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "考えます",
+              "Furigana": "かんがえます",
+              "Romaji": "kangaemasu",
+              "Meaning": "to think / consider"
             }
           ]
         },
@@ -1378,22 +1095,16 @@
           "KunyomiRomaji": "kau",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "買った",
-              "Meaning": "かった"
+              "Kanji": "買った",
+              "Furigana": "かった",
+              "Romaji": "katta",
+              "Meaning": "bought"
             },
             {
-              "Kanji": "katta",
-              "Furigana": "bought",
-              "Romaji": "買います",
-              "Meaning": "かいます"
-            },
-            {
-              "Kanji": "kaimasu",
-              "Furigana": "to buy",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "買います",
+              "Furigana": "かいます",
+              "Romaji": "kaimasu",
+              "Meaning": "to buy"
             }
           ]
         },
@@ -1407,22 +1118,16 @@
           "KunyomiRomaji": "uru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "売った",
-              "Meaning": "うった"
+              "Kanji": "売った",
+              "Furigana": "うった",
+              "Romaji": "utta",
+              "Meaning": "sold"
             },
             {
-              "Kanji": "utta",
-              "Furigana": "sold",
-              "Romaji": "売ります",
-              "Meaning": "うります"
-            },
-            {
-              "Kanji": "urimasu",
-              "Furigana": "to sell",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "売ります",
+              "Furigana": "うります",
+              "Romaji": "urimasu",
+              "Meaning": "to sell"
             }
           ]
         },
@@ -1436,22 +1141,16 @@
           "KunyomiRomaji": "tsukuru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "作った",
-              "Meaning": "つくった"
+              "Kanji": "作った",
+              "Furigana": "つくった",
+              "Romaji": "tsukutta",
+              "Meaning": "made"
             },
             {
-              "Kanji": "tsukutta",
-              "Furigana": "made",
-              "Romaji": "作ります",
-              "Meaning": "つくります"
-            },
-            {
-              "Kanji": "tsukurimasu",
-              "Furigana": "to make",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "作ります",
+              "Furigana": "つくります",
+              "Romaji": "tsukurimasu",
+              "Meaning": "to make"
             }
           ]
         },
@@ -1465,22 +1164,16 @@
           "KunyomiRomaji": "harau",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "払った",
-              "Meaning": "はらった"
+              "Kanji": "払った",
+              "Furigana": "はらった",
+              "Romaji": "haratta",
+              "Meaning": "paid"
             },
             {
-              "Kanji": "haratta",
-              "Furigana": "paid",
-              "Romaji": "払います",
-              "Meaning": "はらいます"
-            },
-            {
-              "Kanji": "haraimasu",
-              "Furigana": "to pay",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "払います",
+              "Furigana": "はらいます",
+              "Romaji": "haraimasu",
+              "Meaning": "to pay"
             }
           ]
         },
@@ -1494,22 +1187,16 @@
           "KunyomiRomaji": "morau",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "もらった",
-              "Meaning": "もらった"
+              "Kanji": "もらった",
+              "Furigana": "もらった",
+              "Romaji": "moratta",
+              "Meaning": "received"
             },
             {
-              "Kanji": "moratta",
-              "Furigana": "received",
-              "Romaji": "もらいます",
-              "Meaning": "もらいます"
-            },
-            {
-              "Kanji": "moraimasu",
-              "Furigana": "to receive",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "もらいます",
+              "Furigana": "もらいます",
+              "Romaji": "moraimasu",
+              "Meaning": "to receive"
             }
           ]
         },
@@ -1523,22 +1210,16 @@
           "KunyomiRomaji": "ageru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "あげた",
-              "Meaning": "あげた"
+              "Kanji": "あげた",
+              "Furigana": "あげた",
+              "Romaji": "ageta",
+              "Meaning": "gave"
             },
             {
-              "Kanji": "ageta",
-              "Furigana": "gave",
-              "Romaji": "あげます",
-              "Meaning": "あげます"
-            },
-            {
-              "Kanji": "agemasu",
-              "Furigana": "to give",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "あげます",
+              "Furigana": "あげます",
+              "Romaji": "agemasu",
+              "Meaning": "to give"
             }
           ]
         },
@@ -1552,22 +1233,16 @@
           "KunyomiRomaji": "kariru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "借りた",
-              "Meaning": "かりた"
+              "Kanji": "借りた",
+              "Furigana": "かりた",
+              "Romaji": "karita",
+              "Meaning": "borrowed"
             },
             {
-              "Kanji": "karita",
-              "Furigana": "borrowed",
-              "Romaji": "借ります",
-              "Meaning": "かります"
-            },
-            {
-              "Kanji": "karimasu",
-              "Furigana": "to borrow",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "借ります",
+              "Furigana": "かります",
+              "Romaji": "karimasu",
+              "Meaning": "to borrow"
             }
           ]
         },
@@ -1581,22 +1256,16 @@
           "KunyomiRomaji": "kasu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "貸した",
-              "Meaning": "かした"
+              "Kanji": "貸した",
+              "Furigana": "かした",
+              "Romaji": "kashita",
+              "Meaning": "lent"
             },
             {
-              "Kanji": "kashita",
-              "Furigana": "lent",
-              "Romaji": "貸します",
-              "Meaning": "かします"
-            },
-            {
-              "Kanji": "kashimasu",
-              "Furigana": "to lend",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "貸します",
+              "Furigana": "かします",
+              "Romaji": "kashimasu",
+              "Meaning": "to lend"
             }
           ]
         },
@@ -1610,22 +1279,16 @@
           "KunyomiRomaji": "erabu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "選んだ",
-              "Meaning": "えらんだ"
+              "Kanji": "選んだ",
+              "Furigana": "えらんだ",
+              "Romaji": "eranda",
+              "Meaning": "chose"
             },
             {
-              "Kanji": "eranda",
-              "Furigana": "chose",
-              "Romaji": "選びます",
-              "Meaning": "えらびます"
-            },
-            {
-              "Kanji": "erabimasu",
-              "Furigana": "to choose",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "選びます",
+              "Furigana": "えらびます",
+              "Romaji": "erabimasu",
+              "Meaning": "to choose"
             }
           ]
         },
@@ -1639,22 +1302,16 @@
           "KunyomiRomaji": "sagasu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "探した",
-              "Meaning": "さがした"
+              "Kanji": "探した",
+              "Furigana": "さがした",
+              "Romaji": "sagashita",
+              "Meaning": "searched for"
             },
             {
-              "Kanji": "sagashita",
-              "Furigana": "searched for",
-              "Romaji": "探します",
-              "Meaning": "さがします"
-            },
-            {
-              "Kanji": "sagashimasu",
-              "Furigana": "to search for",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "探します",
+              "Furigana": "さがします",
+              "Romaji": "sagashimasu",
+              "Meaning": "to search for"
             }
           ]
         },
@@ -1668,22 +1325,16 @@
           "KunyomiRomaji": "sumu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "住んだ",
-              "Meaning": "すんだ"
+              "Kanji": "住んだ",
+              "Furigana": "すんだ",
+              "Romaji": "sunda",
+              "Meaning": "lived / resided"
             },
             {
-              "Kanji": "sunda",
-              "Furigana": "lived / resided",
-              "Romaji": "住みます",
-              "Meaning": "すみます"
-            },
-            {
-              "Kanji": "sumimasu",
-              "Furigana": "to live / reside",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "住みます",
+              "Furigana": "すみます",
+              "Romaji": "sumimasu",
+              "Meaning": "to live / reside"
             }
           ]
         },
@@ -1697,22 +1348,16 @@
           "KunyomiRomaji": "akeru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "開けた",
-              "Meaning": "あけた"
+              "Kanji": "開けた",
+              "Furigana": "あけた",
+              "Romaji": "aketa",
+              "Meaning": "opened"
             },
             {
-              "Kanji": "aketa",
-              "Furigana": "opened",
-              "Romaji": "開けます",
-              "Meaning": "あけます"
-            },
-            {
-              "Kanji": "akemasu",
-              "Furigana": "to open",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "開けます",
+              "Furigana": "あけます",
+              "Romaji": "akemasu",
+              "Meaning": "to open"
             }
           ]
         },
@@ -1726,22 +1371,16 @@
           "KunyomiRomaji": "shimeru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "閉めた",
-              "Meaning": "しめた"
+              "Kanji": "閉めた",
+              "Furigana": "しめた",
+              "Romaji": "shimeta",
+              "Meaning": "closed"
             },
             {
-              "Kanji": "shimeta",
-              "Furigana": "closed",
-              "Romaji": "閉めます",
-              "Meaning": "しめます"
-            },
-            {
-              "Kanji": "shimemasu",
-              "Furigana": "to close",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "閉めます",
+              "Furigana": "しめます",
+              "Romaji": "shimemasu",
+              "Meaning": "to close"
             }
           ]
         },
@@ -1755,22 +1394,16 @@
           "KunyomiRomaji": "ireru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "入れた",
-              "Meaning": "いれた"
+              "Kanji": "入れた",
+              "Furigana": "いれた",
+              "Romaji": "ireta",
+              "Meaning": "put in"
             },
             {
-              "Kanji": "ireta",
-              "Furigana": "put in",
-              "Romaji": "入れます",
-              "Meaning": "いれます"
-            },
-            {
-              "Kanji": "iremasu",
-              "Furigana": "to put in",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "入れます",
+              "Furigana": "いれます",
+              "Romaji": "iremasu",
+              "Meaning": "to put in"
             }
           ]
         },
@@ -1784,22 +1417,16 @@
           "KunyomiRomaji": "dasu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "出した",
-              "Meaning": "だした"
+              "Kanji": "出した",
+              "Furigana": "だした",
+              "Romaji": "dashita",
+              "Meaning": "took out"
             },
             {
-              "Kanji": "dashita",
-              "Furigana": "took out",
-              "Romaji": "出します",
-              "Meaning": "だします"
-            },
-            {
-              "Kanji": "dashimasu",
-              "Furigana": "to take out",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "出します",
+              "Furigana": "だします",
+              "Romaji": "dashimasu",
+              "Meaning": "to take out"
             }
           ]
         },
@@ -1813,22 +1440,16 @@
           "KunyomiRomaji": "oku",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "置いた",
-              "Meaning": "おいた"
+              "Kanji": "置いた",
+              "Furigana": "おいた",
+              "Romaji": "oita",
+              "Meaning": "put / placed"
             },
             {
-              "Kanji": "oita",
-              "Furigana": "put / placed",
-              "Romaji": "置きます",
-              "Meaning": "おきます"
-            },
-            {
-              "Kanji": "okimasu",
-              "Furigana": "to put / place",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "置きます",
+              "Furigana": "おきます",
+              "Romaji": "okimasu",
+              "Meaning": "to put / place"
             }
           ]
         },
@@ -1842,22 +1463,16 @@
           "KunyomiRomaji": "katazukeru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "片づけた",
-              "Meaning": "かたづけた"
+              "Kanji": "片づけた",
+              "Furigana": "かたづけた",
+              "Romaji": "katazuketa",
+              "Meaning": "tidied up"
             },
             {
-              "Kanji": "katazuketa",
-              "Furigana": "tidied up",
-              "Romaji": "片づけます",
-              "Meaning": "かたづけます"
-            },
-            {
-              "Kanji": "katazukemasu",
-              "Furigana": "to tidy up",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "片づけます",
+              "Furigana": "かたづけます",
+              "Romaji": "katazukemasu",
+              "Meaning": "to tidy up"
             }
           ]
         },
@@ -1871,22 +1486,16 @@
           "KunyomiRomaji": "souji suru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "掃除した",
-              "Meaning": "そうじした"
+              "Kanji": "掃除した",
+              "Furigana": "そうじした",
+              "Romaji": "souji shita",
+              "Meaning": "cleaned"
             },
             {
-              "Kanji": "souji shita",
-              "Furigana": "cleaned",
-              "Romaji": "掃除します",
-              "Meaning": "そうじします"
-            },
-            {
-              "Kanji": "souji shimasu",
-              "Furigana": "to clean",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "掃除します",
+              "Furigana": "そうじします",
+              "Romaji": "souji shimasu",
+              "Meaning": "to clean"
             }
           ]
         },
@@ -1900,22 +1509,16 @@
           "KunyomiRomaji": "naosu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "直した",
-              "Meaning": "なおした"
+              "Kanji": "直した",
+              "Furigana": "なおした",
+              "Romaji": "naoshita",
+              "Meaning": "fixed / repaired"
             },
             {
-              "Kanji": "naoshita",
-              "Furigana": "fixed / repaired",
-              "Romaji": "直します",
-              "Meaning": "なおします"
-            },
-            {
-              "Kanji": "naoshimasu",
-              "Furigana": "to fix / repair",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "直します",
+              "Furigana": "なおします",
+              "Romaji": "naoshimasu",
+              "Meaning": "to fix / repair"
             }
           ]
         },
@@ -1929,22 +1532,16 @@
           "KunyomiRomaji": "hajimeru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "始めた",
-              "Meaning": "はじめた"
+              "Kanji": "始めた",
+              "Furigana": "はじめた",
+              "Romaji": "hajimeta",
+              "Meaning": "started"
             },
             {
-              "Kanji": "hajimeta",
-              "Furigana": "started",
-              "Romaji": "始めます",
-              "Meaning": "はじめます"
-            },
-            {
-              "Kanji": "hajimemasu",
-              "Furigana": "to start",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "始めます",
+              "Furigana": "はじめます",
+              "Romaji": "hajimemasu",
+              "Meaning": "to start"
             }
           ]
         },
@@ -1958,22 +1555,16 @@
           "KunyomiRomaji": "owaru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "終わった",
-              "Meaning": "おわった"
+              "Kanji": "終わった",
+              "Furigana": "おわった",
+              "Romaji": "owatta",
+              "Meaning": "ended"
             },
             {
-              "Kanji": "owatta",
-              "Furigana": "ended",
-              "Romaji": "終わります",
-              "Meaning": "おわります"
-            },
-            {
-              "Kanji": "owarimasu",
-              "Furigana": "to end",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "終わります",
+              "Furigana": "おわります",
+              "Romaji": "owarimasu",
+              "Meaning": "to end"
             }
           ]
         },
@@ -1987,22 +1578,16 @@
           "KunyomiRomaji": "tsudzukeru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "続けた",
-              "Meaning": "つづけた"
+              "Kanji": "続けた",
+              "Furigana": "つづけた",
+              "Romaji": "tsudzuketa",
+              "Meaning": "continued"
             },
             {
-              "Kanji": "tsudzuketa",
-              "Furigana": "continued",
-              "Romaji": "続けます",
-              "Meaning": "つづけます"
-            },
-            {
-              "Kanji": "tsudzukemasu",
-              "Furigana": "to continue",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "続けます",
+              "Furigana": "つづけます",
+              "Romaji": "tsudzukemasu",
+              "Meaning": "to continue"
             }
           ]
         },
@@ -2016,22 +1601,16 @@
           "KunyomiRomaji": "yameru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "やめた",
-              "Meaning": "やめた"
+              "Kanji": "やめた",
+              "Furigana": "やめた",
+              "Romaji": "yameta",
+              "Meaning": "quit / stopped"
             },
             {
-              "Kanji": "yameta",
-              "Furigana": "quit / stopped",
-              "Romaji": "やめます",
-              "Meaning": "やめます"
-            },
-            {
-              "Kanji": "yamemasu",
-              "Furigana": "to quit / stop",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "やめます",
+              "Furigana": "やめます",
+              "Romaji": "yamemasu",
+              "Meaning": "to quit / stop"
             }
           ]
         },
@@ -2045,22 +1624,16 @@
           "KunyomiRomaji": "isogu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "急いだ",
-              "Meaning": "いそいだ"
+              "Kanji": "急いだ",
+              "Furigana": "いそいだ",
+              "Romaji": "isoida",
+              "Meaning": "hurried"
             },
             {
-              "Kanji": "isoida",
-              "Furigana": "hurried",
-              "Romaji": "急ぎます",
-              "Meaning": "いそぎます"
-            },
-            {
-              "Kanji": "isogimasu",
-              "Furigana": "to hurry",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "急ぎます",
+              "Furigana": "いそぎます",
+              "Romaji": "isogimasu",
+              "Meaning": "to hurry"
             }
           ]
         },
@@ -2074,22 +1647,16 @@
           "KunyomiRomaji": "matsu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "待った",
-              "Meaning": "まった"
+              "Kanji": "待った",
+              "Furigana": "まった",
+              "Romaji": "matta",
+              "Meaning": "waited"
             },
             {
-              "Kanji": "matta",
-              "Furigana": "waited",
-              "Romaji": "待ちます",
-              "Meaning": "まちます"
-            },
-            {
-              "Kanji": "machimasu",
-              "Furigana": "to wait",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "待ちます",
+              "Furigana": "まちます",
+              "Romaji": "machimasu",
+              "Meaning": "to wait"
             }
           ]
         },
@@ -2103,22 +1670,16 @@
           "KunyomiRomaji": "okureru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "遅れた",
-              "Meaning": "おくれた"
+              "Kanji": "遅れた",
+              "Furigana": "おくれた",
+              "Romaji": "okureta",
+              "Meaning": "was late"
             },
             {
-              "Kanji": "okureta",
-              "Furigana": "was late",
-              "Romaji": "遅れます",
-              "Meaning": "おくれます"
-            },
-            {
-              "Kanji": "okuremasu",
-              "Furigana": "to be late",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "遅れます",
+              "Furigana": "おくれます",
+              "Romaji": "okuremasu",
+              "Meaning": "to be late"
             }
           ]
         },
@@ -2132,22 +1693,16 @@
           "KunyomiRomaji": "kimeru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "決めた",
-              "Meaning": "きめた"
+              "Kanji": "決めた",
+              "Furigana": "きめた",
+              "Romaji": "kimeta",
+              "Meaning": "decided"
             },
             {
-              "Kanji": "kimeta",
-              "Furigana": "decided",
-              "Romaji": "決めます",
-              "Meaning": "きめます"
-            },
-            {
-              "Kanji": "kimemasu",
-              "Furigana": "to decide",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "決めます",
+              "Furigana": "きめます",
+              "Romaji": "kimemasu",
+              "Meaning": "to decide"
             }
           ]
         },
@@ -2161,22 +1716,16 @@
           "KunyomiRomaji": "yotei suru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "予定した",
-              "Meaning": "よていした"
+              "Kanji": "予定した",
+              "Furigana": "よていした",
+              "Romaji": "yotei shita",
+              "Meaning": "planned"
             },
             {
-              "Kanji": "yotei shita",
-              "Furigana": "planned",
-              "Romaji": "予定します",
-              "Meaning": "よていします"
-            },
-            {
-              "Kanji": "yotei shimasu",
-              "Furigana": "to plan",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "予定します",
+              "Furigana": "よていします",
+              "Romaji": "yotei shimasu",
+              "Meaning": "to plan"
             }
           ]
         },
@@ -2190,22 +1739,16 @@
           "KunyomiRomaji": "junbi suru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "準備した",
-              "Meaning": "じゅんびした"
+              "Kanji": "準備した",
+              "Furigana": "じゅんびした",
+              "Romaji": "junbi shita",
+              "Meaning": "prepared"
             },
             {
-              "Kanji": "junbi shita",
-              "Furigana": "prepared",
-              "Romaji": "準備します",
-              "Meaning": "じゅんびします"
-            },
-            {
-              "Kanji": "junbi shimasu",
-              "Furigana": "to prepare",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "準備します",
+              "Furigana": "じゅんびします",
+              "Romaji": "junbi shimasu",
+              "Meaning": "to prepare"
             }
           ]
         },
@@ -2219,22 +1762,16 @@
           "KunyomiRomaji": "au",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "会った",
-              "Meaning": "あった"
+              "Kanji": "会った",
+              "Furigana": "あった",
+              "Romaji": "atta",
+              "Meaning": "met"
             },
             {
-              "Kanji": "atta",
-              "Furigana": "met",
-              "Romaji": "会います",
-              "Meaning": "あいます"
-            },
-            {
-              "Kanji": "aimasu",
-              "Furigana": "to meet",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "会います",
+              "Furigana": "あいます",
+              "Romaji": "aimasu",
+              "Meaning": "to meet"
             }
           ]
         },
@@ -2248,22 +1785,16 @@
           "KunyomiRomaji": "chigau",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "違った",
-              "Meaning": "ちがった"
+              "Kanji": "違った",
+              "Furigana": "ちがった",
+              "Romaji": "chigatta",
+              "Meaning": "was different"
             },
             {
-              "Kanji": "chigatta",
-              "Furigana": "was different",
-              "Romaji": "違います",
-              "Meaning": "ちがいます"
-            },
-            {
-              "Kanji": "chigaimasu",
-              "Furigana": "to be different",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "違います",
+              "Furigana": "ちがいます",
+              "Romaji": "chigaimasu",
+              "Meaning": "to be different"
             }
           ]
         },
@@ -2277,22 +1808,16 @@
           "KunyomiRomaji": "hitsuyou ni naru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "必要になった",
-              "Meaning": "ひつようになった"
+              "Kanji": "必要になった",
+              "Furigana": "ひつようになった",
+              "Romaji": "hitsuyou ni natta",
+              "Meaning": "became necessary"
             },
             {
-              "Kanji": "hitsuyou ni natta",
-              "Furigana": "became necessary",
-              "Romaji": "必要になります",
-              "Meaning": "ひつようになります"
-            },
-            {
-              "Kanji": "hitsuyou ni narimasu",
-              "Furigana": "to become necessary",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "必要になります",
+              "Furigana": "ひつようになります",
+              "Romaji": "hitsuyou ni narimasu",
+              "Meaning": "to become necessary"
             }
           ]
         },
@@ -2306,22 +1831,16 @@
           "KunyomiRomaji": "dekiru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "できた",
-              "Meaning": "できた"
+              "Kanji": "できた",
+              "Furigana": "できた",
+              "Romaji": "dekita",
+              "Meaning": "was able to / could"
             },
             {
-              "Kanji": "dekita",
-              "Furigana": "was able to / could",
-              "Romaji": "できます",
-              "Meaning": "できます"
-            },
-            {
-              "Kanji": "dekimasu",
-              "Furigana": "can / be able to",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "できます",
+              "Furigana": "できます",
+              "Romaji": "dekimasu",
+              "Meaning": "can / be able to"
             }
           ]
         },
@@ -2335,22 +1854,16 @@
           "KunyomiRomaji": "tamesu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "試した",
-              "Meaning": "ためした"
+              "Kanji": "試した",
+              "Furigana": "ためした",
+              "Romaji": "tameshita",
+              "Meaning": "tried"
             },
             {
-              "Kanji": "tameshita",
-              "Furigana": "tried",
-              "Romaji": "試します",
-              "Meaning": "ためします"
-            },
-            {
-              "Kanji": "tameshimasu",
-              "Furigana": "to try",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "試します",
+              "Furigana": "ためします",
+              "Romaji": "tameshimasu",
+              "Meaning": "to try"
             }
           ]
         },
@@ -2364,22 +1877,16 @@
           "KunyomiRomaji": "kaeru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "変えた",
-              "Meaning": "かえた"
+              "Kanji": "変えた",
+              "Furigana": "かえた",
+              "Romaji": "kaeta",
+              "Meaning": "changed"
             },
             {
-              "Kanji": "kaeta",
-              "Furigana": "changed",
-              "Romaji": "変えます",
-              "Meaning": "かえます"
-            },
-            {
-              "Kanji": "kaemasu",
-              "Furigana": "to change",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "変えます",
+              "Furigana": "かえます",
+              "Romaji": "kaemasu",
+              "Meaning": "to change"
             }
           ]
         },
@@ -2393,22 +1900,16 @@
           "KunyomiRomaji": "atsumaru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "集まった",
-              "Meaning": "あつまった"
+              "Kanji": "集まった",
+              "Furigana": "あつまった",
+              "Romaji": "atsumatta",
+              "Meaning": "gathered"
             },
             {
-              "Kanji": "atsumatta",
-              "Furigana": "gathered",
-              "Romaji": "集まります",
-              "Meaning": "あつまります"
-            },
-            {
-              "Kanji": "atsumarimasu",
-              "Furigana": "to gather",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "集まります",
+              "Furigana": "あつまります",
+              "Romaji": "atsumarimasu",
+              "Meaning": "to gather"
             }
           ]
         },
@@ -2422,22 +1923,16 @@
           "KunyomiRomaji": "deau",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "出会った",
-              "Meaning": "であった"
+              "Kanji": "出会った",
+              "Furigana": "であった",
+              "Romaji": "deatta",
+              "Meaning": "encountered / met"
             },
             {
-              "Kanji": "deatta",
-              "Furigana": "encountered / met",
-              "Romaji": "出会います",
-              "Meaning": "であいます"
-            },
-            {
-              "Kanji": "deaimasu",
-              "Furigana": "to encounter / meet",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "出会います",
+              "Furigana": "であいます",
+              "Romaji": "deaimasu",
+              "Meaning": "to encounter / meet"
             }
           ]
         },
@@ -2451,22 +1946,16 @@
           "KunyomiRomaji": "tasukeru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "助けた",
-              "Meaning": "たすけた"
+              "Kanji": "助けた",
+              "Furigana": "たすけた",
+              "Romaji": "tasuketa",
+              "Meaning": "helped"
             },
             {
-              "Kanji": "tasuketa",
-              "Furigana": "helped",
-              "Romaji": "助けます",
-              "Meaning": "たすけます"
-            },
-            {
-              "Kanji": "tasukemasu",
-              "Furigana": "to help",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "助けます",
+              "Furigana": "たすけます",
+              "Romaji": "tasukemasu",
+              "Meaning": "to help"
             }
           ]
         },
@@ -2480,22 +1969,16 @@
           "KunyomiRomaji": "tanoshimu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "楽しんだ",
-              "Meaning": "たのしんだ"
+              "Kanji": "楽しんだ",
+              "Furigana": "たのしんだ",
+              "Romaji": "tanoshinda",
+              "Meaning": "enjoyed"
             },
             {
-              "Kanji": "tanoshinda",
-              "Furigana": "enjoyed",
-              "Romaji": "楽しみます",
-              "Meaning": "たのしみます"
-            },
-            {
-              "Kanji": "tanoshimimasu",
-              "Furigana": "to enjoy",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "楽しみます",
+              "Furigana": "たのしみます",
+              "Romaji": "tanoshimimasu",
+              "Meaning": "to enjoy"
             }
           ]
         },
@@ -2509,22 +1992,16 @@
           "KunyomiRomaji": "ganbaru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "頑張った",
-              "Meaning": "がんばった"
+              "Kanji": "頑張った",
+              "Furigana": "がんばった",
+              "Romaji": "ganbatta",
+              "Meaning": "did one’s best"
             },
             {
-              "Kanji": "ganbatta",
-              "Furigana": "did one’s best",
-              "Romaji": "頑張ります",
-              "Meaning": "がんばります"
-            },
-            {
-              "Kanji": "ganbarimasu",
-              "Furigana": "to do one’s best",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "頑張ります",
+              "Furigana": "がんばります",
+              "Romaji": "ganbarimasu",
+              "Meaning": "to do one’s best"
             }
           ]
         },
@@ -2538,22 +2015,16 @@
           "KunyomiRomaji": "warau",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "笑った",
-              "Meaning": "わらった"
+              "Kanji": "笑った",
+              "Furigana": "わらった",
+              "Romaji": "waratta",
+              "Meaning": "laughed"
             },
             {
-              "Kanji": "waratta",
-              "Furigana": "laughed",
-              "Romaji": "笑います",
-              "Meaning": "わらいます"
-            },
-            {
-              "Kanji": "waraimasu",
-              "Furigana": "to laugh",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "笑います",
+              "Furigana": "わらいます",
+              "Romaji": "waraimasu",
+              "Meaning": "to laugh"
             }
           ]
         },
@@ -2567,22 +2038,16 @@
           "KunyomiRomaji": "naku",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "泣いた",
-              "Meaning": "なった"
+              "Kanji": "泣いた",
+              "Furigana": "なった",
+              "Romaji": "natta",
+              "Meaning": "cried"
             },
             {
-              "Kanji": "natta",
-              "Furigana": "cried",
-              "Romaji": "泣きます",
-              "Meaning": "なきます"
-            },
-            {
-              "Kanji": "nakimasu",
-              "Furigana": "to cry",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "泣きます",
+              "Furigana": "なきます",
+              "Romaji": "nakimasu",
+              "Meaning": "to cry"
             }
           ]
         },
@@ -2596,22 +2061,16 @@
           "KunyomiRomaji": "okoru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "怒った",
-              "Meaning": "おこった"
+              "Kanji": "怒った",
+              "Furigana": "おこった",
+              "Romaji": "okotta",
+              "Meaning": "got angry"
             },
             {
-              "Kanji": "okotta",
-              "Furigana": "got angry",
-              "Romaji": "怒ります",
-              "Meaning": "おこります"
-            },
-            {
-              "Kanji": "okorimasu",
-              "Furigana": "to get angry",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "怒ります",
+              "Furigana": "おこります",
+              "Romaji": "okorimasu",
+              "Meaning": "to get angry"
             }
           ]
         },
@@ -2625,22 +2084,16 @@
           "KunyomiRomaji": "odoroku",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "驚いた",
-              "Meaning": "おどろいた"
+              "Kanji": "驚いた",
+              "Furigana": "おどろいた",
+              "Romaji": "odoruita",
+              "Meaning": "was surprised"
             },
             {
-              "Kanji": "odoruita",
-              "Furigana": "was surprised",
-              "Romaji": "驚きます",
-              "Meaning": "おどろきます"
-            },
-            {
-              "Kanji": "odorokimasu",
-              "Furigana": "to be surprised",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "驚きます",
+              "Furigana": "おどろきます",
+              "Romaji": "odorokimasu",
+              "Meaning": "to be surprised"
             }
           ]
         },
@@ -2654,22 +2107,16 @@
           "KunyomiRomaji": "komaru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "困った",
-              "Meaning": "こまった"
+              "Kanji": "困った",
+              "Furigana": "こまった",
+              "Romaji": "komatta",
+              "Meaning": "was troubled"
             },
             {
-              "Kanji": "komatta",
-              "Furigana": "was troubled",
-              "Romaji": "困ります",
-              "Meaning": "こまります"
-            },
-            {
-              "Kanji": "komarimasu",
-              "Furigana": "to be troubled",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "困ります",
+              "Furigana": "こまります",
+              "Romaji": "komarimasu",
+              "Meaning": "to be troubled"
             }
           ]
         },
@@ -2683,22 +2130,16 @@
           "KunyomiRomaji": "shippai suru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "失敗した",
-              "Meaning": "しっぱいした"
+              "Kanji": "失敗した",
+              "Furigana": "しっぱいした",
+              "Romaji": "shippai shita",
+              "Meaning": "failed"
             },
             {
-              "Kanji": "shippai shita",
-              "Furigana": "failed",
-              "Romaji": "失敗します",
-              "Meaning": "しっぱいします"
-            },
-            {
-              "Kanji": "shippai shimasu",
-              "Furigana": "to fail",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "失敗します",
+              "Furigana": "しっぱいします",
+              "Romaji": "shippai shimasu",
+              "Meaning": "to fail"
             }
           ]
         },
@@ -2712,22 +2153,16 @@
           "KunyomiRomaji": "seikou suru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "成功した",
-              "Meaning": "せいこうした"
+              "Kanji": "成功した",
+              "Furigana": "せいこうした",
+              "Romaji": "seikou shita",
+              "Meaning": "succeeded"
             },
             {
-              "Kanji": "seikou shita",
-              "Furigana": "succeeded",
-              "Romaji": "成功します",
-              "Meaning": "せいこうします"
-            },
-            {
-              "Kanji": "seikou shimasu",
-              "Furigana": "to succeed",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "成功します",
+              "Furigana": "せいこうします",
+              "Romaji": "seikou shimasu",
+              "Meaning": "to succeed"
             }
           ]
         },
@@ -2741,22 +2176,16 @@
           "KunyomiRomaji": "ikiru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "生きた",
-              "Meaning": "いきた"
+              "Kanji": "生きた",
+              "Furigana": "いきた",
+              "Romaji": "ikita",
+              "Meaning": "lived"
             },
             {
-              "Kanji": "ikita",
-              "Furigana": "lived",
-              "Romaji": "生きます",
-              "Meaning": "いきます"
-            },
-            {
-              "Kanji": "ikimasu",
-              "Furigana": "to live",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "生きます",
+              "Furigana": "いきます",
+              "Romaji": "ikimasu",
+              "Meaning": "to live"
             }
           ]
         },
@@ -2770,22 +2199,16 @@
           "KunyomiRomaji": "suki ni naru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "好きになった",
-              "Meaning": "すきになった"
+              "Kanji": "好きになった",
+              "Furigana": "すきになった",
+              "Romaji": "suki ni natta",
+              "Meaning": "came to like"
             },
             {
-              "Kanji": "suki ni natta",
-              "Furigana": "came to like",
-              "Romaji": "好きになります",
-              "Meaning": "すきになります"
-            },
-            {
-              "Kanji": "suki ni narimasu",
-              "Furigana": "to come to like",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "好きになります",
+              "Furigana": "すきになります",
+              "Romaji": "suki ni narimasu",
+              "Meaning": "to come to like"
             }
           ]
         },
@@ -2799,22 +2222,16 @@
           "KunyomiRomaji": "kirai ni naru",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "嫌いになった",
-              "Meaning": "きらいになった"
+              "Kanji": "嫌いになった",
+              "Furigana": "きらいになった",
+              "Romaji": "kirai ni natta",
+              "Meaning": "came to dislike"
             },
             {
-              "Kanji": "kirai ni natta",
-              "Furigana": "came to dislike",
-              "Romaji": "嫌いになります",
-              "Meaning": "きらいになります"
-            },
-            {
-              "Kanji": "kirai ni narimasu",
-              "Furigana": "to come to dislike",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "嫌いになります",
+              "Furigana": "きらいになります",
+              "Romaji": "kirai ni narimasu",
+              "Meaning": "to come to dislike"
             }
           ]
         },
@@ -2828,22 +2245,16 @@
           "KunyomiRomaji": "kiku",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "聴いた",
-              "Meaning": "きいた"
+              "Kanji": "聴いた",
+              "Furigana": "きいた",
+              "Romaji": "kiita",
+              "Meaning": "listened"
             },
             {
-              "Kanji": "kiita",
-              "Furigana": "listened",
-              "Romaji": "聴きます",
-              "Meaning": "ききます"
-            },
-            {
-              "Kanji": "kikimasu",
-              "Furigana": "to listen",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "聴きます",
+              "Furigana": "ききます",
+              "Romaji": "kikimasu",
+              "Meaning": "to listen"
             }
           ]
         }
@@ -2866,34 +2277,34 @@
           "YomiRomaji": "ichi",
           "Examples": [
             {
-              "Kanji": "いち",
-              "Furigana": "ichi",
-              "Romaji": "一人",
-              "Meaning": "ひとり"
+              "Kanji": "一人",
+              "Furigana": "ひとり",
+              "Romaji": "hitori",
+              "Meaning": "one person"
             },
             {
-              "Kanji": "hitori",
-              "Furigana": "one person",
-              "Romaji": "一分",
-              "Meaning": "いっぷん"
+              "Kanji": "一分",
+              "Furigana": "いっぷん",
+              "Romaji": "i-ppun",
+              "Meaning": "one minute"
             },
             {
-              "Kanji": "i-ppun",
-              "Furigana": "one minute",
-              "Romaji": "一日",
-              "Meaning": "ついたち, いちにち"
+              "Kanji": "一日",
+              "Furigana": "ついたち, いちにち",
+              "Romaji": "tsuitachi, ichinichi",
+              "Meaning": "the first day, one day"
             },
             {
-              "Kanji": "tsuitachi, ichinichi",
-              "Furigana": "the first day, one day",
-              "Romaji": "一時",
-              "Meaning": "いちじ"
+              "Kanji": "一時",
+              "Furigana": "いちじ",
+              "Romaji": "ichiji",
+              "Meaning": "one o’clock"
             },
             {
-              "Kanji": "ichiji",
-              "Furigana": "one o’clock",
-              "Romaji": "一月",
-              "Meaning": "いちがつ"
+              "Kanji": "一月",
+              "Furigana": "いちがつ",
+              "Romaji": "ichigatsu",
+              "Meaning": "January"
             }
           ]
         },
@@ -2909,34 +2320,34 @@
           "OnyomiRomaji": "ni",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "二人",
-              "Meaning": "ふたり"
+              "Kanji": "二人",
+              "Furigana": "ふたり",
+              "Romaji": "futari",
+              "Meaning": "two people"
             },
             {
-              "Kanji": "futari",
-              "Furigana": "two people",
-              "Romaji": "二分",
-              "Meaning": "にふん"
+              "Kanji": "二分",
+              "Furigana": "にふん",
+              "Romaji": "ni-fun",
+              "Meaning": "two minutes"
             },
             {
-              "Kanji": "ni-fun",
-              "Furigana": "two minutes",
-              "Romaji": "二日",
-              "Meaning": "ふつか"
+              "Kanji": "二日",
+              "Furigana": "ふつか",
+              "Romaji": "futsuka",
+              "Meaning": "the second day"
             },
             {
-              "Kanji": "futsuka",
-              "Furigana": "the second day",
-              "Romaji": "二時",
-              "Meaning": "にじ"
+              "Kanji": "二時",
+              "Furigana": "にじ",
+              "Romaji": "niji",
+              "Meaning": "two o’clock"
             },
             {
-              "Kanji": "niji",
-              "Furigana": "two o’clock",
-              "Romaji": "二月",
-              "Meaning": "にがつ"
+              "Kanji": "二月",
+              "Furigana": "にがつ",
+              "Romaji": "nigatsu",
+              "Meaning": "February"
             }
           ]
         },
@@ -2952,34 +2363,34 @@
           "OnyomiRomaji": "san",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "三人",
-              "Meaning": "さんにん"
+              "Kanji": "三人",
+              "Furigana": "さんにん",
+              "Romaji": "san-nin",
+              "Meaning": "three people"
             },
             {
-              "Kanji": "san-nin",
-              "Furigana": "three people",
-              "Romaji": "三分",
-              "Meaning": "さんぷん"
+              "Kanji": "三分",
+              "Furigana": "さんぷん",
+              "Romaji": "san-pun",
+              "Meaning": "three minutes"
             },
             {
-              "Kanji": "san-pun",
-              "Furigana": "three minutes",
-              "Romaji": "三日",
-              "Meaning": "みっか"
+              "Kanji": "三日",
+              "Furigana": "みっか",
+              "Romaji": "mikka",
+              "Meaning": "the third day"
             },
             {
-              "Kanji": "mikka",
-              "Furigana": "the third day",
-              "Romaji": "三時",
-              "Meaning": "さんじ"
+              "Kanji": "三時",
+              "Furigana": "さんじ",
+              "Romaji": "sanji",
+              "Meaning": "three o’clock"
             },
             {
-              "Kanji": "sanji",
-              "Furigana": "three o’clock",
-              "Romaji": "三月",
-              "Meaning": "さんがつ"
+              "Kanji": "三月",
+              "Furigana": "さんがつ",
+              "Romaji": "sangatsu",
+              "Meaning": "March"
             }
           ]
         },
@@ -2995,34 +2406,34 @@
           "OnyomiRomaji": "shi, yon",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "四人",
-              "Meaning": "よにん"
+              "Kanji": "四人",
+              "Furigana": "よにん",
+              "Romaji": "yo-nin",
+              "Meaning": "four people"
             },
             {
-              "Kanji": "yo-nin",
-              "Furigana": "four people",
-              "Romaji": "四分",
-              "Meaning": "よんぷん"
+              "Kanji": "四分",
+              "Furigana": "よんぷん",
+              "Romaji": "yon-pun",
+              "Meaning": "four minutes"
             },
             {
-              "Kanji": "yon-pun",
-              "Furigana": "four minutes",
-              "Romaji": "四日",
-              "Meaning": "よっか"
+              "Kanji": "四日",
+              "Furigana": "よっか",
+              "Romaji": "yokka",
+              "Meaning": "the fourth day"
             },
             {
-              "Kanji": "yokka",
-              "Furigana": "the fourth day",
-              "Romaji": "四時",
-              "Meaning": "よじ"
+              "Kanji": "四時",
+              "Furigana": "よじ",
+              "Romaji": "yoji",
+              "Meaning": "four o’clock"
             },
             {
-              "Kanji": "yoji",
-              "Furigana": "four o’clock",
-              "Romaji": "四月",
-              "Meaning": "しがつ"
+              "Kanji": "四月",
+              "Furigana": "しがつ",
+              "Romaji": "shigatsu",
+              "Meaning": "April"
             }
           ]
         },
@@ -3038,34 +2449,34 @@
           "OnyomiRomaji": "go",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "五人",
-              "Meaning": "ごにん"
+              "Kanji": "五人",
+              "Furigana": "ごにん",
+              "Romaji": "go-nin",
+              "Meaning": "five people"
             },
             {
-              "Kanji": "go-nin",
-              "Furigana": "five people",
-              "Romaji": "五分",
-              "Meaning": "ごふん"
+              "Kanji": "五分",
+              "Furigana": "ごふん",
+              "Romaji": "go-fun",
+              "Meaning": "five minutes"
             },
             {
-              "Kanji": "go-fun",
-              "Furigana": "five minutes",
-              "Romaji": "五日",
-              "Meaning": "いつか"
+              "Kanji": "五日",
+              "Furigana": "いつか",
+              "Romaji": "itsuka",
+              "Meaning": "the fifth day"
             },
             {
-              "Kanji": "itsuka",
-              "Furigana": "the fifth day",
-              "Romaji": "五時",
-              "Meaning": "ごじ"
+              "Kanji": "五時",
+              "Furigana": "ごじ",
+              "Romaji": "goji",
+              "Meaning": "five o’clock"
             },
             {
-              "Kanji": "goji",
-              "Furigana": "five o’clock",
-              "Romaji": "五月",
-              "Meaning": "ごがつ"
+              "Kanji": "五月",
+              "Furigana": "ごがつ",
+              "Romaji": "gogatsu",
+              "Meaning": "May"
             }
           ]
         },
@@ -3081,34 +2492,34 @@
           "OnyomiRomaji": "roku",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "六人",
-              "Meaning": "ろくにん"
+              "Kanji": "六人",
+              "Furigana": "ろくにん",
+              "Romaji": "roku-nin",
+              "Meaning": "six people"
             },
             {
-              "Kanji": "roku-nin",
-              "Furigana": "six people",
-              "Romaji": "六分",
-              "Meaning": "ろっぷん"
+              "Kanji": "六分",
+              "Furigana": "ろっぷん",
+              "Romaji": "ro-ppun",
+              "Meaning": "six minutes"
             },
             {
-              "Kanji": "ro-ppun",
-              "Furigana": "six minutes",
-              "Romaji": "六日",
-              "Meaning": "むいか"
+              "Kanji": "六日",
+              "Furigana": "むいか",
+              "Romaji": "muika",
+              "Meaning": "the sixth day"
             },
             {
-              "Kanji": "muika",
-              "Furigana": "the sixth day",
-              "Romaji": "六時",
-              "Meaning": "ろくじ"
+              "Kanji": "六時",
+              "Furigana": "ろくじ",
+              "Romaji": "rokuji",
+              "Meaning": "six o’clock"
             },
             {
-              "Kanji": "rokuji",
-              "Furigana": "six o’clock",
-              "Romaji": "六月",
-              "Meaning": "ろくがつ"
+              "Kanji": "六月",
+              "Furigana": "ろくがつ",
+              "Romaji": "rokugatsu",
+              "Meaning": "June"
             }
           ]
         },
@@ -3124,34 +2535,34 @@
           "OnyomiRomaji": "shichi, nana",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "七人",
-              "Meaning": "ななにん, しちにん"
+              "Kanji": "七人",
+              "Furigana": "ななにん, しちにん",
+              "Romaji": "nana-nin / shichi-nin",
+              "Meaning": "seven people"
             },
             {
-              "Kanji": "nana-nin / shichi-nin",
-              "Furigana": "seven people",
-              "Romaji": "七分",
-              "Meaning": "ななふん"
+              "Kanji": "七分",
+              "Furigana": "ななふん",
+              "Romaji": "nana-fun",
+              "Meaning": "seven minutes"
             },
             {
-              "Kanji": "nana-fun",
-              "Furigana": "seven minutes",
-              "Romaji": "七日",
-              "Meaning": "なのか"
+              "Kanji": "七日",
+              "Furigana": "なのか",
+              "Romaji": "nanoka",
+              "Meaning": "the seventh day"
             },
             {
-              "Kanji": "nanoka",
-              "Furigana": "the seventh day",
-              "Romaji": "七時",
-              "Meaning": "しちじ"
+              "Kanji": "七時",
+              "Furigana": "しちじ",
+              "Romaji": "shichiji",
+              "Meaning": "seven o’clock"
             },
             {
-              "Kanji": "shichiji",
-              "Furigana": "seven o’clock",
-              "Romaji": "七月",
-              "Meaning": "しちがつ"
+              "Kanji": "七月",
+              "Furigana": "しちがつ",
+              "Romaji": "shichigatsu",
+              "Meaning": "July"
             }
           ]
         },
@@ -3167,34 +2578,34 @@
           "OnyomiRomaji": "hachi",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "八人",
-              "Meaning": "はちにん"
+              "Kanji": "八人",
+              "Furigana": "はちにん",
+              "Romaji": "hachi-nin",
+              "Meaning": "eight people"
             },
             {
-              "Kanji": "hachi-nin",
-              "Furigana": "eight people",
-              "Romaji": "八分",
-              "Meaning": "はっぷん"
+              "Kanji": "八分",
+              "Furigana": "はっぷん",
+              "Romaji": "ha-ppun",
+              "Meaning": "eight minutes"
             },
             {
-              "Kanji": "ha-ppun",
-              "Furigana": "eight minutes",
-              "Romaji": "八日",
-              "Meaning": "ようか"
+              "Kanji": "八日",
+              "Furigana": "ようか",
+              "Romaji": "youka",
+              "Meaning": "the eighth day"
             },
             {
-              "Kanji": "youka",
-              "Furigana": "the eighth day",
-              "Romaji": "八時",
-              "Meaning": "はちじ"
+              "Kanji": "八時",
+              "Furigana": "はちじ",
+              "Romaji": "hachiji",
+              "Meaning": "eight o’clock"
             },
             {
-              "Kanji": "hachiji",
-              "Furigana": "eight o’clock",
-              "Romaji": "八月",
-              "Meaning": "はちがつ"
+              "Kanji": "八月",
+              "Furigana": "はちがつ",
+              "Romaji": "hachigatsu",
+              "Meaning": "August"
             }
           ]
         },
@@ -3210,34 +2621,34 @@
           "OnyomiRomaji": "ku, kyuu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "九人",
-              "Meaning": "きゅうにん"
+              "Kanji": "九人",
+              "Furigana": "きゅうにん",
+              "Romaji": "kyuu-nin",
+              "Meaning": "nine people"
             },
             {
-              "Kanji": "kyuu-nin",
-              "Furigana": "nine people",
-              "Romaji": "九分",
-              "Meaning": "きゅうふん"
+              "Kanji": "九分",
+              "Furigana": "きゅうふん",
+              "Romaji": "kyuu-fun",
+              "Meaning": "nine minutes"
             },
             {
-              "Kanji": "kyuu-fun",
-              "Furigana": "nine minutes",
-              "Romaji": "九日",
-              "Meaning": "ここのか"
+              "Kanji": "九日",
+              "Furigana": "ここのか",
+              "Romaji": "kokonoka",
+              "Meaning": "the ninth day"
             },
             {
-              "Kanji": "kokonoka",
-              "Furigana": "the ninth day",
-              "Romaji": "九時",
-              "Meaning": "くじ"
+              "Kanji": "九時",
+              "Furigana": "くじ",
+              "Romaji": "kuji",
+              "Meaning": "nine o’clock"
             },
             {
-              "Kanji": "kuji",
-              "Furigana": "nine o’clock",
-              "Romaji": "九月",
-              "Meaning": "くがつ"
+              "Kanji": "九月",
+              "Furigana": "くがつ",
+              "Romaji": "kugatsu",
+              "Meaning": "September"
             }
           ]
         },
@@ -3253,34 +2664,34 @@
           "OnyomiRomaji": "juu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "十人",
-              "Meaning": "じゅうにん"
+              "Kanji": "十人",
+              "Furigana": "じゅうにん",
+              "Romaji": "juu-nin",
+              "Meaning": "ten people"
             },
             {
-              "Kanji": "juu-nin",
-              "Furigana": "ten people",
-              "Romaji": "十分",
-              "Meaning": "じゅっぷん"
+              "Kanji": "十分",
+              "Furigana": "じゅっぷん",
+              "Romaji": "ju-ppun",
+              "Meaning": "ten minutes"
             },
             {
-              "Kanji": "ju-ppun",
-              "Furigana": "ten minutes",
-              "Romaji": "十日",
-              "Meaning": "とおか"
+              "Kanji": "十日",
+              "Furigana": "とおか",
+              "Romaji": "tooka",
+              "Meaning": "the tenth day"
             },
             {
-              "Kanji": "tooka",
-              "Furigana": "the tenth day",
-              "Romaji": "十時",
-              "Meaning": "じゅうじ"
+              "Kanji": "十時",
+              "Furigana": "じゅうじ",
+              "Romaji": "juuji",
+              "Meaning": "ten o’clock"
             },
             {
-              "Kanji": "juuji",
-              "Furigana": "ten o’clock",
-              "Romaji": "十月",
-              "Meaning": "じゅうがつ"
+              "Kanji": "十月",
+              "Furigana": "じゅうがつ",
+              "Romaji": "juugatsu",
+              "Meaning": "October"
             }
           ]
         },
@@ -3294,34 +2705,34 @@
           "OnyomiRomaji": "juuichi",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "十一人",
-              "Meaning": "じゅういちにん"
+              "Kanji": "十一人",
+              "Furigana": "じゅういちにん",
+              "Romaji": "juuichi-nin",
+              "Meaning": "eleven people"
             },
             {
-              "Kanji": "juuichi-nin",
-              "Furigana": "eleven people",
-              "Romaji": "十一分",
-              "Meaning": "じゅういっぷん"
+              "Kanji": "十一分",
+              "Furigana": "じゅういっぷん",
+              "Romaji": "juu-i-ppun",
+              "Meaning": "eleven minutes"
             },
             {
-              "Kanji": "juu-i-ppun",
-              "Furigana": "eleven minutes",
-              "Romaji": "十一日",
-              "Meaning": "じゅういちにち"
+              "Kanji": "十一日",
+              "Furigana": "じゅういちにち",
+              "Romaji": "juuichinichi",
+              "Meaning": "the eleventh day"
             },
             {
-              "Kanji": "juuichinichi",
-              "Furigana": "the eleventh day",
-              "Romaji": "十一時",
-              "Meaning": "じゅういちじ"
+              "Kanji": "十一時",
+              "Furigana": "じゅういちじ",
+              "Romaji": "juuichiji",
+              "Meaning": "eleven o’clock"
             },
             {
-              "Kanji": "juuichiji",
-              "Furigana": "eleven o’clock",
-              "Romaji": "十一月",
-              "Meaning": "じゅういちがつ"
+              "Kanji": "十一月",
+              "Furigana": "じゅういちがつ",
+              "Romaji": "juuichigatsu",
+              "Meaning": "November"
             }
           ]
         },
@@ -3335,34 +2746,34 @@
           "OnyomiRomaji": "juuni",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "十二人",
-              "Meaning": "じゅうににん"
+              "Kanji": "十二人",
+              "Furigana": "じゅうににん",
+              "Romaji": "juuni-nin",
+              "Meaning": "twelve people"
             },
             {
-              "Kanji": "juuni-nin",
-              "Furigana": "twelve people",
-              "Romaji": "十二分",
-              "Meaning": "じゅうにふん"
+              "Kanji": "十二分",
+              "Furigana": "じゅうにふん",
+              "Romaji": "juu-ni-fun",
+              "Meaning": "twelve minutes"
             },
             {
-              "Kanji": "juu-ni-fun",
-              "Furigana": "twelve minutes",
-              "Romaji": "十二日",
-              "Meaning": "じゅうににち"
+              "Kanji": "十二日",
+              "Furigana": "じゅうににち",
+              "Romaji": "juuninichi",
+              "Meaning": "the twelfth day"
             },
             {
-              "Kanji": "juuninichi",
-              "Furigana": "the twelfth day",
-              "Romaji": "十二時",
-              "Meaning": "じゅうにじ"
+              "Kanji": "十二時",
+              "Furigana": "じゅうにじ",
+              "Romaji": "juuniji",
+              "Meaning": "twelve o’clock"
             },
             {
-              "Kanji": "juuniji",
-              "Furigana": "twelve o’clock",
-              "Romaji": "十二月",
-              "Meaning": "じゅうにがつ"
+              "Kanji": "十二月",
+              "Furigana": "じゅうにがつ",
+              "Romaji": "juunigatsu",
+              "Meaning": "December"
             }
           ]
         },
@@ -3376,28 +2787,22 @@
           "OnyomiRomaji": "nijuu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "二十人",
-              "Meaning": "にじゅうにん"
+              "Kanji": "二十人",
+              "Furigana": "にじゅうにん",
+              "Romaji": "nijuu-nin",
+              "Meaning": "twenty people"
             },
             {
-              "Kanji": "nijuu-nin",
-              "Furigana": "twenty people",
-              "Romaji": "二十分",
-              "Meaning": "にじゅっぷん"
+              "Kanji": "二十分",
+              "Furigana": "にじゅっぷん",
+              "Romaji": "ni-ju-ppun",
+              "Meaning": "twenty minutes"
             },
             {
-              "Kanji": "ni-ju-ppun",
-              "Furigana": "twenty minutes",
-              "Romaji": "二十日",
-              "Meaning": "はつか, にじゅうにち"
-            },
-            {
-              "Kanji": "hatsuka, nijuu-nichi",
-              "Furigana": "twentieth day",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "二十日",
+              "Furigana": "はつか, にじゅうにち",
+              "Romaji": "hatsuka, nijuu-nichi",
+              "Meaning": "twentieth day"
             }
           ]
         },
@@ -3411,28 +2816,22 @@
           "OnyomiRomaji": "sanjuu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "三十人",
-              "Meaning": "さんじゅうにん"
+              "Kanji": "三十人",
+              "Furigana": "さんじゅうにん",
+              "Romaji": "sanjuu-nin",
+              "Meaning": "thirty people"
             },
             {
-              "Kanji": "sanjuu-nin",
-              "Furigana": "thirty people",
-              "Romaji": "三十分",
-              "Meaning": "さんじゅっぷん"
+              "Kanji": "三十分",
+              "Furigana": "さんじゅっぷん",
+              "Romaji": "san-ju-ppun",
+              "Meaning": "thirty minutes"
             },
             {
-              "Kanji": "san-ju-ppun",
-              "Furigana": "thirty minutes",
-              "Romaji": "三十日",
-              "Meaning": "さんじゅうにち"
-            },
-            {
-              "Kanji": "sanjuu-nichi",
-              "Furigana": "thirtieth day",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "三十日",
+              "Furigana": "さんじゅうにち",
+              "Romaji": "sanjuu-nichi",
+              "Meaning": "thirtieth day"
             }
           ]
         },
@@ -3446,22 +2845,16 @@
           "OnyomiRomaji": "hyaku",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "百人",
-              "Meaning": "ひゃくにん"
+              "Kanji": "百人",
+              "Furigana": "ひゃくにん",
+              "Romaji": "hyaku-nin",
+              "Meaning": "one hundred people"
             },
             {
-              "Kanji": "hyaku-nin",
-              "Furigana": "one hundred people",
-              "Romaji": "百分",
-              "Meaning": "ひゃっぷん"
-            },
-            {
-              "Kanji": "hya-ppun",
-              "Furigana": "one hundred minutes",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "百分",
+              "Furigana": "ひゃっぷん",
+              "Romaji": "hya-ppun",
+              "Meaning": "one hundred minutes"
             }
           ]
         },
@@ -3475,22 +2868,16 @@
           "OnyomiRomaji": "sen",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "千人",
-              "Meaning": "せんにん"
+              "Kanji": "千人",
+              "Furigana": "せんにん",
+              "Romaji": "sennin",
+              "Meaning": "one thousand people"
             },
             {
-              "Kanji": "sennin",
-              "Furigana": "one thousand people",
-              "Romaji": "千分",
-              "Meaning": "せんぷん"
-            },
-            {
-              "Kanji": "sen-pun",
-              "Furigana": "one thousand minutes",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "千分",
+              "Furigana": "せんぷん",
+              "Romaji": "sen-pun",
+              "Meaning": "one thousand minutes"
             }
           ]
         },
@@ -3504,16 +2891,10 @@
           "OnyomiRomaji": "ichiman",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "一万人",
-              "Meaning": "いちまんにん"
-            },
-            {
-              "Kanji": "ichiman-nin",
-              "Furigana": "ten thousand people",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "一万人",
+              "Furigana": "いちまんにん",
+              "Romaji": "ichiman-nin",
+              "Meaning": "ten thousand people"
             }
           ]
         },
@@ -3527,16 +2908,10 @@
           "OnyomiRomaji": "juuman",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "十万人",
-              "Meaning": "じゅうまんにん"
-            },
-            {
-              "Kanji": "juuman-nin",
-              "Furigana": "one hundred thousand people",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "十万人",
+              "Furigana": "じゅうまんにん",
+              "Romaji": "juuman-nin",
+              "Meaning": "one hundred thousand people"
             }
           ]
         },
@@ -3550,16 +2925,10 @@
           "OnyomiRomaji": "hyakuman",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "百万人",
-              "Meaning": "ひゃくまんにん"
-            },
-            {
-              "Kanji": "hyakuman-nin",
-              "Furigana": "one million people",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "百万人",
+              "Furigana": "ひゃくまんにん",
+              "Romaji": "hyakuman-nin",
+              "Meaning": "one million people"
             }
           ]
         },
@@ -3573,16 +2942,10 @@
           "OnyomiRomaji": "issenman",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "一千万人",
-              "Meaning": "いっせんまんにん"
-            },
-            {
-              "Kanji": "issenman-nin",
-              "Furigana": "ten million people",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "一千万人",
+              "Furigana": "いっせんまんにん",
+              "Romaji": "issenman-nin",
+              "Meaning": "ten million people"
             }
           ]
         },
@@ -3596,16 +2959,10 @@
           "OnyomiRomaji": "ichioku",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "一億人",
-              "Meaning": "いちおくにん"
-            },
-            {
-              "Kanji": "ichioku-nin",
-              "Furigana": "one hundred million people",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "一億人",
+              "Furigana": "いちおくにん",
+              "Romaji": "ichioku-nin",
+              "Meaning": "one hundred million people"
             }
           ]
         }
@@ -3626,28 +2983,22 @@
           "OnyomiRomaji": "byou",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "子猫",
-              "Meaning": "こねこ"
+              "Kanji": "子猫",
+              "Furigana": "こねこ",
+              "Romaji": "koneko",
+              "Meaning": "Kitten"
             },
             {
-              "Kanji": "koneko",
-              "Furigana": "Kitten",
-              "Romaji": "野良猫",
-              "Meaning": "のらねこ"
+              "Kanji": "野良猫",
+              "Furigana": "のらねこ",
+              "Romaji": "noraneko",
+              "Meaning": "Stray cat"
             },
             {
-              "Kanji": "noraneko",
-              "Furigana": "Stray cat",
-              "Romaji": "黒猫",
-              "Meaning": "くろねこ"
-            },
-            {
-              "Kanji": "kuroneko",
-              "Furigana": "Black cat",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "黒猫",
+              "Furigana": "くろねこ",
+              "Romaji": "kuroneko",
+              "Meaning": "Black cat"
             }
           ]
         },
@@ -3663,28 +3014,22 @@
           "OnyomiRomaji": "ken",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "子犬",
-              "Meaning": "こいぬ"
+              "Kanji": "子犬",
+              "Furigana": "こいぬ",
+              "Romaji": "koinu",
+              "Meaning": "Puppy"
             },
             {
-              "Kanji": "koinu",
-              "Furigana": "Puppy",
-              "Romaji": "番犬",
-              "Meaning": "ばんけん"
+              "Kanji": "番犬",
+              "Furigana": "ばんけん",
+              "Romaji": "banken",
+              "Meaning": "Guard dog"
             },
             {
-              "Kanji": "banken",
-              "Furigana": "Guard dog",
-              "Romaji": "盲導犬",
-              "Meaning": "もうどうけん"
-            },
-            {
-              "Kanji": "moudouken",
-              "Furigana": "Guide dog",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "盲導犬",
+              "Furigana": "もうどうけん",
+              "Romaji": "moudouken",
+              "Meaning": "Guide dog"
             }
           ]
         },
@@ -3700,28 +3045,22 @@
           "OnyomiRomaji": "chou",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "小鳥",
-              "Meaning": "ことり"
+              "Kanji": "小鳥",
+              "Furigana": "ことり",
+              "Romaji": "kotori",
+              "Meaning": "Small bird"
             },
             {
-              "Kanji": "kotori",
-              "Furigana": "Small bird",
-              "Romaji": "野鳥",
-              "Meaning": "やちょう"
+              "Kanji": "野鳥",
+              "Furigana": "やちょう",
+              "Romaji": "yachou",
+              "Meaning": "Wild bird"
             },
             {
-              "Kanji": "yachou",
-              "Furigana": "Wild bird",
-              "Romaji": "鳥類",
-              "Meaning": "ちょうるい"
-            },
-            {
-              "Kanji": "chourui",
-              "Furigana": "Bird species",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "鳥類",
+              "Furigana": "ちょうるい",
+              "Romaji": "chourui",
+              "Meaning": "Bird species"
             }
           ]
         },
@@ -3737,28 +3076,22 @@
           "OnyomiRomaji": "gyo",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "金魚",
-              "Meaning": "きんぎょ"
+              "Kanji": "金魚",
+              "Furigana": "きんぎょ",
+              "Romaji": "kingyo",
+              "Meaning": "Goldfish"
             },
             {
-              "Kanji": "kingyo",
-              "Furigana": "Goldfish",
-              "Romaji": "熱帯魚",
-              "Meaning": "ねったいぎょ"
+              "Kanji": "熱帯魚",
+              "Furigana": "ねったいぎょ",
+              "Romaji": "nettaigyo",
+              "Meaning": "Tropical fish"
             },
             {
-              "Kanji": "nettaigyo",
-              "Furigana": "Tropical fish",
-              "Romaji": "魚介",
-              "Meaning": "ぎょかい"
-            },
-            {
-              "Kanji": "gyokai",
-              "Furigana": "Seafood",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "魚介",
+              "Furigana": "ぎょかい",
+              "Romaji": "gyokai",
+              "Meaning": "Seafood"
             }
           ]
         },
@@ -3774,28 +3107,22 @@
           "OnyomiRomaji": "ba",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "子馬",
-              "Meaning": "こうま"
+              "Kanji": "子馬",
+              "Furigana": "こうま",
+              "Romaji": "kouma",
+              "Meaning": "Foal"
             },
             {
-              "Kanji": "kouma",
-              "Furigana": "Foal",
-              "Romaji": "競馬",
-              "Meaning": "けいば"
+              "Kanji": "競馬",
+              "Furigana": "けいば",
+              "Romaji": "keiba",
+              "Meaning": "Horse racing"
             },
             {
-              "Kanji": "keiba",
-              "Furigana": "Horse racing",
-              "Romaji": "野馬",
-              "Meaning": "のうま"
-            },
-            {
-              "Kanji": "nouma",
-              "Furigana": "Wild horse",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "野馬",
+              "Furigana": "のうま",
+              "Romaji": "nouma",
+              "Meaning": "Wild horse"
             }
           ]
         },
@@ -3811,28 +3138,22 @@
           "OnyomiRomaji": "gyuu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "牛肉",
-              "Meaning": "ぎゅうにく"
+              "Kanji": "牛肉",
+              "Furigana": "ぎゅうにく",
+              "Romaji": "gyuuniku",
+              "Meaning": "Beef"
             },
             {
-              "Kanji": "gyuuniku",
-              "Furigana": "Beef",
-              "Romaji": "牛乳",
-              "Meaning": "ぎゅうにゅう"
+              "Kanji": "牛乳",
+              "Furigana": "ぎゅうにゅう",
+              "Romaji": "gyuunyuu",
+              "Meaning": "Milk"
             },
             {
-              "Kanji": "gyuunyuu",
-              "Furigana": "Milk",
-              "Romaji": "子牛",
-              "Meaning": "こうし"
-            },
-            {
-              "Kanji": "koushi",
-              "Furigana": "Calf",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "子牛",
+              "Furigana": "こうし",
+              "Romaji": "koushi",
+              "Meaning": "Calf"
             }
           ]
         },
@@ -3848,28 +3169,22 @@
           "OnyomiRomaji": "ton",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "豚肉",
-              "Meaning": "ぶたにく"
+              "Kanji": "豚肉",
+              "Furigana": "ぶたにく",
+              "Romaji": "butaniku",
+              "Meaning": "Pork"
             },
             {
-              "Kanji": "butaniku",
-              "Furigana": "Pork",
-              "Romaji": "豚骨",
-              "Meaning": "とんこつ"
+              "Kanji": "豚骨",
+              "Furigana": "とんこつ",
+              "Romaji": "tonkotsu",
+              "Meaning": "Pork bone"
             },
             {
-              "Kanji": "tonkotsu",
-              "Furigana": "Pork bone",
-              "Romaji": "子豚",
-              "Meaning": "こぶた"
-            },
-            {
-              "Kanji": "kobuta",
-              "Furigana": "Piglet",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "子豚",
+              "Furigana": "こぶた",
+              "Romaji": "kobuta",
+              "Meaning": "Piglet"
             }
           ]
         },
@@ -3885,28 +3200,22 @@
           "OnyomiRomaji": "you",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "羊肉",
-              "Meaning": "ようにく"
+              "Kanji": "羊肉",
+              "Furigana": "ようにく",
+              "Romaji": "youniku",
+              "Meaning": "Mutton"
             },
             {
-              "Kanji": "youniku",
-              "Furigana": "Mutton",
-              "Romaji": "羊毛",
-              "Meaning": "ようもう"
+              "Kanji": "羊毛",
+              "Furigana": "ようもう",
+              "Romaji": "youmou",
+              "Meaning": "Wool"
             },
             {
-              "Kanji": "youmou",
-              "Furigana": "Wool",
-              "Romaji": "子羊",
-              "Meaning": "こひつじ"
-            },
-            {
-              "Kanji": "kohitsuji",
-              "Furigana": "Lamb",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "子羊",
+              "Furigana": "こひつじ",
+              "Romaji": "kohitsuji",
+              "Meaning": "Lamb"
             }
           ]
         },
@@ -3922,22 +3231,16 @@
           "OnyomiRomaji": "en",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "子猿",
-              "Meaning": "こざる"
+              "Kanji": "子猿",
+              "Furigana": "こざる",
+              "Romaji": "kozaru",
+              "Meaning": "Baby monkey"
             },
             {
-              "Kanji": "kozaru",
-              "Furigana": "Baby monkey",
-              "Romaji": "猿山",
-              "Meaning": "さるやま"
-            },
-            {
-              "Kanji": "saruyama",
-              "Furigana": "Monkey park",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "猿山",
+              "Furigana": "さるやま",
+              "Romaji": "saruyama",
+              "Meaning": "Monkey park"
             }
           ]
         },
@@ -3953,22 +3256,16 @@
           "OnyomiRomaji": "yuu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "子熊",
-              "Meaning": "こぐま"
+              "Kanji": "子熊",
+              "Furigana": "こぐま",
+              "Romaji": "koguma",
+              "Meaning": "Bear cub"
             },
             {
-              "Kanji": "koguma",
-              "Furigana": "Bear cub",
-              "Romaji": "熊本県",
-              "Meaning": "くまもとけん"
-            },
-            {
-              "Kanji": "kumamotoken",
-              "Furigana": "Kumamoto prefecture",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "熊本県",
+              "Furigana": "くまもとけん",
+              "Romaji": "kumamotoken",
+              "Meaning": "Kumamoto prefecture"
             }
           ]
         },
@@ -3984,22 +3281,16 @@
           "OnyomiRomaji": "roku",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "鹿肉",
-              "Meaning": "しかにく"
+              "Kanji": "鹿肉",
+              "Furigana": "しかにく",
+              "Romaji": "shikaniku",
+              "Meaning": "Venison"
             },
             {
-              "Kanji": "shikaniku",
-              "Furigana": "Venison",
-              "Romaji": "子鹿",
-              "Meaning": "こじか"
-            },
-            {
-              "Kanji": "kojika",
-              "Furigana": "Fawn",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "子鹿",
+              "Furigana": "こじか",
+              "Romaji": "kojika",
+              "Meaning": "Fawn"
             }
           ]
         },
@@ -4015,22 +3306,16 @@
           "OnyomiRomaji": "ton",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "子兎",
-              "Meaning": "こうさぎ"
+              "Kanji": "子兎",
+              "Furigana": "こうさぎ",
+              "Romaji": "kousagi",
+              "Meaning": "Baby rabbit"
             },
             {
-              "Kanji": "kousagi",
-              "Furigana": "Baby rabbit",
-              "Romaji": "野兎",
-              "Meaning": "のうさぎ"
-            },
-            {
-              "Kanji": "nousagi",
-              "Furigana": "Wild rabbit",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "野兎",
+              "Furigana": "のうさぎ",
+              "Romaji": "nousagi",
+              "Meaning": "Wild rabbit"
             }
           ]
         },
@@ -4046,28 +3331,22 @@
           "OnyomiRomaji": "ko",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "子狐",
-              "Meaning": "こぎつね"
+              "Kanji": "子狐",
+              "Furigana": "こぎつね",
+              "Romaji": "kogitsune",
+              "Meaning": "Fox cub"
             },
             {
-              "Kanji": "kogitsune",
-              "Furigana": "Fox cub",
-              "Romaji": "狐火",
-              "Meaning": "きつねび"
+              "Kanji": "狐火",
+              "Furigana": "きつねび",
+              "Romaji": "kitsunebi",
+              "Meaning": "Fox fire"
             },
             {
-              "Kanji": "kitsunebi",
-              "Furigana": "Fox fire",
-              "Romaji": "狐面",
-              "Meaning": "きつねめん"
-            },
-            {
-              "Kanji": "kitsunemen",
-              "Furigana": "Fox mask",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "狐面",
+              "Furigana": "きつねめん",
+              "Romaji": "kitsunemen",
+              "Meaning": "Fox mask"
             }
           ]
         },
@@ -4081,22 +3360,16 @@
           "OnyomiRomaji": "shou, zou",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "印象",
-              "Meaning": "いんしょう"
+              "Kanji": "印象",
+              "Furigana": "いんしょう",
+              "Romaji": "inshou",
+              "Meaning": "Impression"
             },
             {
-              "Kanji": "inshou",
-              "Furigana": "Impression",
-              "Romaji": "象牙",
-              "Meaning": "ぞうげ"
-            },
-            {
-              "Kanji": "zouge",
-              "Furigana": "Ivory",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "象牙",
+              "Furigana": "ぞうげ",
+              "Romaji": "zouge",
+              "Meaning": "Ivory"
             }
           ]
         },
@@ -4112,22 +3385,16 @@
           "OnyomiRomaji": "ko",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "虎柄",
-              "Meaning": "とらがら"
+              "Kanji": "虎柄",
+              "Furigana": "とらがら",
+              "Romaji": "toragara",
+              "Meaning": "Tiger pattern"
             },
             {
-              "Kanji": "toragara",
-              "Furigana": "Tiger pattern",
-              "Romaji": "白虎",
-              "Meaning": "びゃっこ"
-            },
-            {
-              "Kanji": "byakko",
-              "Furigana": "White tiger",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "白虎",
+              "Furigana": "びゃっこ",
+              "Romaji": "byakko",
+              "Meaning": "White tiger"
             }
           ]
         },
@@ -4143,22 +3410,16 @@
           "OnyomiRomaji": "rou",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "一匹狼",
-              "Meaning": "いっぴきおおかみ"
+              "Kanji": "一匹狼",
+              "Furigana": "いっぴきおおかみ",
+              "Romaji": "ippikiookami",
+              "Meaning": "Lone wolf"
             },
             {
-              "Kanji": "ippikiookami",
-              "Furigana": "Lone wolf",
-              "Romaji": "狼男",
-              "Meaning": "おおかみおとこ"
-            },
-            {
-              "Kanji": "ookamiotoko",
-              "Furigana": "Werewolf",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "狼男",
+              "Furigana": "おおかみおとこ",
+              "Romaji": "ookamiotoko",
+              "Meaning": "Werewolf"
             }
           ]
         },
@@ -4172,22 +3433,16 @@
           "KunyomiRomaji": "nezumi",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "子鼠",
-              "Meaning": "こねずみ"
+              "Kanji": "子鼠",
+              "Furigana": "こねずみ",
+              "Romaji": "konezumi",
+              "Meaning": "Baby mouse"
             },
             {
-              "Kanji": "konezumi",
-              "Furigana": "Baby mouse",
-              "Romaji": "鼠色",
-              "Meaning": "ねずみいろ"
-            },
-            {
-              "Kanji": "nezumiiro",
-              "Furigana": "Gray",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "鼠色",
+              "Furigana": "ねずみいろ",
+              "Romaji": "nezumiiro",
+              "Meaning": "Gray"
             }
           ]
         },
@@ -4203,22 +3458,16 @@
           "OnyomiRomaji": "ki",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "子亀",
-              "Meaning": "こがめ"
+              "Kanji": "子亀",
+              "Furigana": "こがめ",
+              "Romaji": "kogame",
+              "Meaning": "Baby turtle"
             },
             {
-              "Kanji": "kogame",
-              "Furigana": "Baby turtle",
-              "Romaji": "海亀",
-              "Meaning": "うみがめ"
-            },
-            {
-              "Kanji": "umigame",
-              "Furigana": "Sea turtle",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "海亀",
+              "Furigana": "うみがめ",
+              "Romaji": "umigame",
+              "Meaning": "Sea turtle"
             }
           ]
         },
@@ -4234,16 +3483,10 @@
           "OnyomiRomaji": "a",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "蛙の歌",
-              "Meaning": "かえるのうた"
-            },
-            {
-              "Kanji": "kaerunouta",
-              "Furigana": "Frog song",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "蛙の歌",
+              "Furigana": "かえるのうた",
+              "Romaji": "kaerunouta",
+              "Meaning": "Frog song"
             }
           ]
         },
@@ -4259,22 +3502,16 @@
           "OnyomiRomaji": "kei",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "鶏肉",
-              "Meaning": "とりにく"
+              "Kanji": "鶏肉",
+              "Furigana": "とりにく",
+              "Romaji": "toriniku",
+              "Meaning": "Chicken meat"
             },
             {
-              "Kanji": "toriniku",
-              "Furigana": "Chicken meat",
-              "Romaji": "鶏卵",
-              "Meaning": "けいらん"
-            },
-            {
-              "Kanji": "keiran",
-              "Furigana": "Chicken egg",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "鶏卵",
+              "Furigana": "けいらん",
+              "Romaji": "keiran",
+              "Meaning": "Chicken egg"
             }
           ]
         },
@@ -4290,22 +3527,16 @@
           "OnyomiRomaji": "kyuu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "伝書鳩",
-              "Meaning": "でんしょばと"
+              "Kanji": "伝書鳩",
+              "Furigana": "でんしょばと",
+              "Romaji": "denshobato",
+              "Meaning": "Carrier pigeon"
             },
             {
-              "Kanji": "denshobato",
-              "Furigana": "Carrier pigeon",
-              "Romaji": "白鳩",
-              "Meaning": "しろばと"
-            },
-            {
-              "Kanji": "shirobato",
-              "Furigana": "White dove",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "白鳩",
+              "Furigana": "しろばと",
+              "Romaji": "shirobato",
+              "Meaning": "White dove"
             }
           ]
         },
@@ -4321,16 +3552,10 @@
           "OnyomiRomaji": "gei",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "捕鯨",
-              "Meaning": "ほげい"
-            },
-            {
-              "Kanji": "hogei",
-              "Furigana": "Whaling",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "捕鯨",
+              "Furigana": "ほげい",
+              "Romaji": "hogei",
+              "Meaning": "Whaling"
             }
           ]
         },
@@ -4346,22 +3571,16 @@
           "OnyomiRomaji": "kou",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "鮫肌",
-              "Meaning": "さめはだ"
+              "Kanji": "鮫肌",
+              "Furigana": "さめはだ",
+              "Romaji": "samehada",
+              "Meaning": "Rough skin"
             },
             {
-              "Kanji": "samehada",
-              "Furigana": "Rough skin",
-              "Romaji": "人喰い鮫",
-              "Meaning": "ひとくいざめ"
-            },
-            {
-              "Kanji": "hitokuizame",
-              "Furigana": "Man-eating shark",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "人喰い鮫",
+              "Furigana": "ひとくいざめ",
+              "Romaji": "hitokuizame",
+              "Meaning": "Man-eating shark"
             }
           ]
         },
@@ -4377,16 +3596,10 @@
           "OnyomiRomaji": "jaku",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "子雀",
-              "Meaning": "こすずめ"
-            },
-            {
-              "Kanji": "kosuzume",
-              "Furigana": "Baby sparrow",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "子雀",
+              "Furigana": "こすずめ",
+              "Romaji": "kosuzume",
+              "Meaning": "Baby sparrow"
             }
           ]
         },
@@ -5046,28 +4259,22 @@
           "OnyomiRomaji": "hoku",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "北風",
-              "Meaning": "きたかぜ"
+              "Kanji": "北風",
+              "Furigana": "きたかぜ",
+              "Romaji": "kitakaze",
+              "Meaning": "North wind"
             },
             {
-              "Kanji": "kitakaze",
-              "Furigana": "North wind",
-              "Romaji": "北極",
-              "Meaning": "ほっきょく"
+              "Kanji": "北極",
+              "Furigana": "ほっきょく",
+              "Romaji": "hokkyoku",
+              "Meaning": "North Pole"
             },
             {
-              "Kanji": "hokkyoku",
-              "Furigana": "North Pole",
-              "Romaji": "北口",
-              "Meaning": "きたぐち"
-            },
-            {
-              "Kanji": "kitaguchi",
-              "Furigana": "North entrance",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "北口",
+              "Furigana": "きたぐち",
+              "Romaji": "kitaguchi",
+              "Meaning": "North entrance"
             }
           ]
         },
@@ -5083,28 +4290,22 @@
           "OnyomiRomaji": "nan",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "南風",
-              "Meaning": "みなみかぜ"
+              "Kanji": "南風",
+              "Furigana": "みなみかぜ",
+              "Romaji": "minamikaze",
+              "Meaning": "South wind"
             },
             {
-              "Kanji": "minamikaze",
-              "Furigana": "South wind",
-              "Romaji": "南国",
-              "Meaning": "なんごく"
+              "Kanji": "南国",
+              "Furigana": "なんごく",
+              "Romaji": "nangoku",
+              "Meaning": "Southern country"
             },
             {
-              "Kanji": "nangoku",
-              "Furigana": "Southern country",
-              "Romaji": "南口",
-              "Meaning": "みなみぐち"
-            },
-            {
-              "Kanji": "minamiguchi",
-              "Furigana": "South entrance",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "南口",
+              "Furigana": "みなみぐち",
+              "Romaji": "minamiguchi",
+              "Meaning": "South entrance"
             }
           ]
         },
@@ -5120,28 +4321,22 @@
           "OnyomiRomaji": "tou",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "東京",
-              "Meaning": "とうきょう"
+              "Kanji": "東京",
+              "Furigana": "とうきょう",
+              "Romaji": "toukyou",
+              "Meaning": "Tokyo (Eastern capital)"
             },
             {
-              "Kanji": "toukyou",
-              "Furigana": "Tokyo (Eastern capital)",
-              "Romaji": "東口",
-              "Meaning": "ひがしぐち"
+              "Kanji": "東口",
+              "Furigana": "ひがしぐち",
+              "Romaji": "higashiguchi",
+              "Meaning": "East exit"
             },
             {
-              "Kanji": "higashiguchi",
-              "Furigana": "East exit",
-              "Romaji": "東側",
-              "Meaning": "ひがしがわ"
-            },
-            {
-              "Kanji": "higashigawa",
-              "Furigana": "East side",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "東側",
+              "Furigana": "ひがしがわ",
+              "Romaji": "higashigawa",
+              "Meaning": "East side"
             }
           ]
         },
@@ -5157,28 +4352,22 @@
           "OnyomiRomaji": "sei, sai",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "西口",
-              "Meaning": "にしぐち"
+              "Kanji": "西口",
+              "Furigana": "にしぐち",
+              "Romaji": "nishiguchi",
+              "Meaning": "West exit"
             },
             {
-              "Kanji": "nishiguchi",
-              "Furigana": "West exit",
-              "Romaji": "西日",
-              "Meaning": "にしび"
+              "Kanji": "西日",
+              "Furigana": "にしび",
+              "Romaji": "nishibi",
+              "Meaning": "Setting sun"
             },
             {
-              "Kanji": "nishibi",
-              "Furigana": "Setting sun",
-              "Romaji": "西側",
-              "Meaning": "にしがわ"
-            },
-            {
-              "Kanji": "nishigawa",
-              "Furigana": "West side",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "西側",
+              "Furigana": "にしがわ",
+              "Romaji": "nishigawa",
+              "Meaning": "West side"
             }
           ]
         },
@@ -5194,28 +4383,22 @@
           "OnyomiRomaji": "chuu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "中心",
-              "Meaning": "ちゅうしん"
+              "Kanji": "中心",
+              "Furigana": "ちゅうしん",
+              "Romaji": "chuushin",
+              "Meaning": "Center"
             },
             {
-              "Kanji": "chuushin",
-              "Furigana": "Center",
-              "Romaji": "中間",
-              "Meaning": "ちゅうかん"
+              "Kanji": "中間",
+              "Furigana": "ちゅうかん",
+              "Romaji": "chuukan",
+              "Meaning": "Middle"
             },
             {
-              "Kanji": "chuukan",
-              "Furigana": "Middle",
-              "Romaji": "中庭",
-              "Meaning": "なかにわ"
-            },
-            {
-              "Kanji": "nakaniwa",
-              "Furigana": "Courtyard",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "中庭",
+              "Furigana": "なかにわ",
+              "Romaji": "nakaniwa",
+              "Meaning": "Courtyard"
             }
           ]
         },
@@ -5231,28 +4414,22 @@
           "OnyomiRomaji": "u, yuu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "右手",
-              "Meaning": "みぎて"
+              "Kanji": "右手",
+              "Furigana": "みぎて",
+              "Romaji": "migite",
+              "Meaning": "Right hand"
             },
             {
-              "Kanji": "migite",
-              "Furigana": "Right hand",
-              "Romaji": "右側",
-              "Meaning": "みぎがわ"
+              "Kanji": "右側",
+              "Furigana": "みぎがわ",
+              "Romaji": "migigawa",
+              "Meaning": "Right side"
             },
             {
-              "Kanji": "migigawa",
-              "Furigana": "Right side",
-              "Romaji": "右折",
-              "Meaning": "うせつ"
-            },
-            {
-              "Kanji": "usetsu",
-              "Furigana": "Right turn",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "右折",
+              "Furigana": "うせつ",
+              "Romaji": "usetsu",
+              "Meaning": "Right turn"
             }
           ]
         },
@@ -5268,34 +4445,28 @@
           "OnyomiRomaji": "sa",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "左手",
-              "Meaning": "ひだりて"
+              "Kanji": "左手",
+              "Furigana": "ひだりて",
+              "Romaji": "hidarite",
+              "Meaning": "Left hand"
             },
             {
-              "Kanji": "hidarite",
-              "Furigana": "Left hand",
-              "Romaji": "左側",
-              "Meaning": "ひだりがわ"
+              "Kanji": "左側",
+              "Furigana": "ひだりがわ",
+              "Romaji": "hidarigawa",
+              "Meaning": "Left side"
             },
             {
-              "Kanji": "hidarigawa",
-              "Furigana": "Left side",
-              "Romaji": "左折",
-              "Meaning": "させつ"
+              "Kanji": "左折",
+              "Furigana": "させつ",
+              "Romaji": "sasetsu",
+              "Meaning": "Left turn"
             },
             {
-              "Kanji": "sasetsu",
-              "Furigana": "Left turn",
-              "Romaji": "左右",
-              "Meaning": "さゆう"
-            },
-            {
-              "Kanji": "sayuu",
-              "Furigana": "Left right",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "左右",
+              "Furigana": "さゆう",
+              "Romaji": "sayuu",
+              "Meaning": "Left right"
             }
           ]
         },
@@ -5311,34 +4482,28 @@
           "OnyomiRomaji": "jou",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "上昇",
-              "Meaning": "じょうしょう"
+              "Kanji": "上昇",
+              "Furigana": "じょうしょう",
+              "Romaji": "joushou",
+              "Meaning": "Rise, ascent"
             },
             {
-              "Kanji": "joushou",
-              "Furigana": "Rise, ascent",
-              "Romaji": "上手",
-              "Meaning": "うわて, じょうず"
+              "Kanji": "上手",
+              "Furigana": "うわて, じょうず",
+              "Romaji": "uwate, jouzu",
+              "Meaning": "Skilled, upper side"
             },
             {
-              "Kanji": "uwate, jouzu",
-              "Furigana": "Skilled, upper side",
-              "Romaji": "上階",
-              "Meaning": "じょうかい"
+              "Kanji": "上階",
+              "Furigana": "じょうかい",
+              "Romaji": "joukai",
+              "Meaning": "Upper floor"
             },
             {
-              "Kanji": "joukai",
-              "Furigana": "Upper floor",
-              "Romaji": "上下",
-              "Meaning": "じょうげ"
-            },
-            {
-              "Kanji": "jouge",
-              "Furigana": "Up down",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "上下",
+              "Furigana": "じょうげ",
+              "Romaji": "jouge",
+              "Meaning": "Up down"
             }
           ]
         },
@@ -5354,28 +4519,22 @@
           "OnyomiRomaji": "ka, ge",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "下降",
-              "Meaning": "かこう"
+              "Kanji": "下降",
+              "Furigana": "かこう",
+              "Romaji": "kakou",
+              "Meaning": "Descent"
             },
             {
-              "Kanji": "kakou",
-              "Furigana": "Descent",
-              "Romaji": "地下",
-              "Meaning": "ちか"
+              "Kanji": "地下",
+              "Furigana": "ちか",
+              "Romaji": "chika",
+              "Meaning": "Underground"
             },
             {
-              "Kanji": "chika",
-              "Furigana": "Underground",
-              "Romaji": "下手",
-              "Meaning": "したて, へた"
-            },
-            {
-              "Kanji": "shitate, heta",
-              "Furigana": "Unskilled, lower side",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "下手",
+              "Furigana": "したて, へた",
+              "Romaji": "shitate, heta",
+              "Meaning": "Unskilled, lower side"
             }
           ]
         }
@@ -5396,28 +4555,22 @@
           "OnyomiRomaji": "moku, boku",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "木材",
-              "Meaning": "もくざい"
+              "Kanji": "木材",
+              "Furigana": "もくざい",
+              "Romaji": "mokuzai",
+              "Meaning": "Lumber"
             },
             {
-              "Kanji": "mokuzai",
-              "Furigana": "Lumber",
-              "Romaji": "木陰",
-              "Meaning": "こかげ"
+              "Kanji": "木陰",
+              "Furigana": "こかげ",
+              "Romaji": "kokage",
+              "Meaning": "Shade"
             },
             {
-              "Kanji": "kokage",
-              "Furigana": "Shade",
-              "Romaji": "木の葉",
-              "Meaning": "このは"
-            },
-            {
-              "Kanji": "konoha",
-              "Furigana": "Leaf",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "木の葉",
+              "Furigana": "このは",
+              "Romaji": "konoha",
+              "Meaning": "Leaf"
             }
           ]
         },
@@ -5433,28 +4586,22 @@
           "OnyomiRomaji": "sui",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "水中",
-              "Meaning": "すいちゅう"
+              "Kanji": "水中",
+              "Furigana": "すいちゅう",
+              "Romaji": "suichuu",
+              "Meaning": "Underwater"
             },
             {
-              "Kanji": "suichuu",
-              "Furigana": "Underwater",
-              "Romaji": "水面",
-              "Meaning": "すいめん"
+              "Kanji": "水面",
+              "Furigana": "すいめん",
+              "Romaji": "suimen",
+              "Meaning": "Water surface"
             },
             {
-              "Kanji": "suimen",
-              "Furigana": "Water surface",
-              "Romaji": "水滴",
-              "Meaning": "すいてき"
-            },
-            {
-              "Kanji": "suiteki",
-              "Furigana": "Water droplet",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "水滴",
+              "Furigana": "すいてき",
+              "Romaji": "suiteki",
+              "Meaning": "Water droplet"
             }
           ]
         },
@@ -5470,28 +4617,22 @@
           "OnyomiRomaji": "ka",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "火山",
-              "Meaning": "かざん"
+              "Kanji": "火山",
+              "Furigana": "かざん",
+              "Romaji": "kazan",
+              "Meaning": "Volcano"
             },
             {
-              "Kanji": "kazan",
-              "Furigana": "Volcano",
-              "Romaji": "火事",
-              "Meaning": "かじ"
+              "Kanji": "火事",
+              "Furigana": "かじ",
+              "Romaji": "kaji",
+              "Meaning": "Fire incident"
             },
             {
-              "Kanji": "kaji",
-              "Furigana": "Fire incident",
-              "Romaji": "火花",
-              "Meaning": "ひばな"
-            },
-            {
-              "Kanji": "hibana",
-              "Furigana": "Spark",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "火花",
+              "Furigana": "ひばな",
+              "Romaji": "hibana",
+              "Meaning": "Spark"
             }
           ]
         },
@@ -5507,28 +4648,22 @@
           "OnyomiRomaji": "san",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "山頂",
-              "Meaning": "さんちょう"
+              "Kanji": "山頂",
+              "Furigana": "さんちょう",
+              "Romaji": "sanchou",
+              "Meaning": "Summit"
             },
             {
-              "Kanji": "sanchou",
-              "Furigana": "Summit",
-              "Romaji": "山道",
-              "Meaning": "やまみち"
+              "Kanji": "山道",
+              "Furigana": "やまみち",
+              "Romaji": "yamamichi",
+              "Meaning": "Mountain path"
             },
             {
-              "Kanji": "yamamichi",
-              "Furigana": "Mountain path",
-              "Romaji": "富士山",
-              "Meaning": "ふじさん"
-            },
-            {
-              "Kanji": "fujisan",
-              "Furigana": "Mount Fuji",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "富士山",
+              "Furigana": "ふじさん",
+              "Romaji": "fujisan",
+              "Meaning": "Mount Fuji"
             }
           ]
         },
@@ -5544,28 +4679,22 @@
           "OnyomiRomaji": "fuu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "強風",
-              "Meaning": "きょうふう"
+              "Kanji": "強風",
+              "Furigana": "きょうふう",
+              "Romaji": "kyoufuu",
+              "Meaning": "Strong wind"
             },
             {
-              "Kanji": "kyoufuu",
-              "Furigana": "Strong wind",
-              "Romaji": "風車",
-              "Meaning": "ふうしゃ"
+              "Kanji": "風車",
+              "Furigana": "ふうしゃ",
+              "Romaji": "fuusha",
+              "Meaning": "Windmill"
             },
             {
-              "Kanji": "fuusha",
-              "Furigana": "Windmill",
-              "Romaji": "風速",
-              "Meaning": "ふうそく"
-            },
-            {
-              "Kanji": "fuusoku",
-              "Furigana": "Wind speed",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "風速",
+              "Furigana": "ふうそく",
+              "Romaji": "fuusoku",
+              "Meaning": "Wind speed"
             }
           ]
         },
@@ -5581,22 +4710,16 @@
           "OnyomiRomaji": "do",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "土地",
-              "Meaning": "とち"
+              "Kanji": "土地",
+              "Furigana": "とち",
+              "Romaji": "tochi",
+              "Meaning": "Land"
             },
             {
-              "Kanji": "tochi",
-              "Furigana": "Land",
-              "Romaji": "土曜日",
-              "Meaning": "どようび"
-            },
-            {
-              "Kanji": "doyoubi",
-              "Furigana": "Saturday",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "土曜日",
+              "Furigana": "どようび",
+              "Romaji": "doyoubi",
+              "Meaning": "Saturday"
             }
           ]
         },
@@ -5612,22 +4735,16 @@
           "OnyomiRomaji": "kuu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "空気",
-              "Meaning": "くうき"
+              "Kanji": "空気",
+              "Furigana": "くうき",
+              "Romaji": "kuuki",
+              "Meaning": "Air"
             },
             {
-              "Kanji": "kuuki",
-              "Furigana": "Air",
-              "Romaji": "空港",
-              "Meaning": "くうこう"
-            },
-            {
-              "Kanji": "kuukou",
-              "Furigana": "Airport",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "空港",
+              "Furigana": "くうこう",
+              "Romaji": "kuukou",
+              "Meaning": "Airport"
             }
           ]
         },
@@ -5643,22 +4760,16 @@
           "OnyomiRomaji": "u",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "雨天",
-              "Meaning": "うてん"
+              "Kanji": "雨天",
+              "Furigana": "うてん",
+              "Romaji": "uten",
+              "Meaning": "Rainy Weather"
             },
             {
-              "Kanji": "uten",
-              "Furigana": "Rainy Weather",
-              "Romaji": "大雨",
-              "Meaning": "おおあめ"
-            },
-            {
-              "Kanji": "ooame",
-              "Furigana": "Heavy Rain",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "大雨",
+              "Furigana": "おおあめ",
+              "Romaji": "ooame",
+              "Meaning": "Heavy Rain"
             }
           ]
         },
@@ -5674,22 +4785,16 @@
           "OnyomiRomaji": "sen",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "河川",
-              "Meaning": "かせん"
+              "Kanji": "河川",
+              "Furigana": "かせん",
+              "Romaji": "kasen",
+              "Meaning": "River"
             },
             {
-              "Kanji": "kasen",
-              "Furigana": "River",
-              "Romaji": "川辺",
-              "Meaning": "かわべ"
-            },
-            {
-              "Kanji": "kawabe",
-              "Furigana": "Riverside",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "川辺",
+              "Furigana": "かわべ",
+              "Romaji": "kawabe",
+              "Meaning": "Riverside"
             }
           ]
         },
@@ -5705,22 +4810,16 @@
           "OnyomiRomaji": "kai",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "海岸",
-              "Meaning": "かいがん"
+              "Kanji": "海岸",
+              "Furigana": "かいがん",
+              "Romaji": "kaigan",
+              "Meaning": "Coast"
             },
             {
-              "Kanji": "kaigan",
-              "Furigana": "Coast",
-              "Romaji": "海中",
-              "Meaning": "かいちゅう"
-            },
-            {
-              "Kanji": "kaichuu",
-              "Furigana": "Underwater / Sea",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "海中",
+              "Furigana": "かいちゅう",
+              "Romaji": "kaichuu",
+              "Meaning": "Underwater / Sea"
             }
           ]
         },
@@ -5736,22 +4835,16 @@
           "OnyomiRomaji": "shin",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "森林",
-              "Meaning": "しんりん"
+              "Kanji": "森林",
+              "Furigana": "しんりん",
+              "Romaji": "shinrin",
+              "Meaning": "Forest"
             },
             {
-              "Kanji": "shinrin",
-              "Furigana": "Forest",
-              "Romaji": "森の中",
-              "Meaning": "もりのなか"
-            },
-            {
-              "Kanji": "morinonaka",
-              "Furigana": "In the Forest",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "森の中",
+              "Furigana": "もりのなか",
+              "Romaji": "morinonaka",
+              "Meaning": "In the Forest"
             }
           ]
         },
@@ -5767,22 +4860,16 @@
           "OnyomiRomaji": "rin",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "林業",
-              "Meaning": "りんぎょう"
+              "Kanji": "林業",
+              "Furigana": "りんぎょう",
+              "Romaji": "ringyou",
+              "Meaning": "Forestry"
             },
             {
-              "Kanji": "ringyou",
-              "Furigana": "Forestry",
-              "Romaji": "小林",
-              "Meaning": "こばやし"
-            },
-            {
-              "Kanji": "kobayashi",
-              "Furigana": "Kobayashi",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "小林",
+              "Furigana": "こばやし",
+              "Romaji": "kobayashi",
+              "Meaning": "Kobayashi"
             }
           ]
         },
@@ -5798,22 +4885,16 @@
           "OnyomiRomaji": "seki",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "石鹸",
-              "Meaning": "せっけん"
+              "Kanji": "石鹸",
+              "Furigana": "せっけん",
+              "Romaji": "sekken",
+              "Meaning": "Soap"
             },
             {
-              "Kanji": "sekken",
-              "Furigana": "Soap",
-              "Romaji": "石油",
-              "Meaning": "せきゆ"
-            },
-            {
-              "Kanji": "sekiyu",
-              "Furigana": "Petroleum",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "石油",
+              "Furigana": "せきゆ",
+              "Romaji": "sekiyu",
+              "Meaning": "Petroleum"
             }
           ]
         },
@@ -5829,22 +4910,16 @@
           "OnyomiRomaji": "nichi",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "日曜日",
-              "Meaning": "にちようび"
+              "Kanji": "日曜日",
+              "Furigana": "にちようび",
+              "Romaji": "nichiyoubi",
+              "Meaning": "Sunday"
             },
             {
-              "Kanji": "nichiyoubi",
-              "Furigana": "Sunday",
-              "Romaji": "日本",
-              "Meaning": "にほん"
-            },
-            {
-              "Kanji": "nihon",
-              "Furigana": "Japan",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "日本",
+              "Furigana": "にほん",
+              "Romaji": "nihon",
+              "Meaning": "Japan"
             }
           ]
         },
@@ -5860,22 +4935,16 @@
           "OnyomiRomaji": "getsu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "月曜日",
-              "Meaning": "げつようび"
+              "Kanji": "月曜日",
+              "Furigana": "げつようび",
+              "Romaji": "getsuyoubi",
+              "Meaning": "Monday"
             },
             {
-              "Kanji": "getsuyoubi",
-              "Furigana": "Monday",
-              "Romaji": "満月",
-              "Meaning": "まんげつ"
-            },
-            {
-              "Kanji": "mangetsu",
-              "Furigana": "Full Moon",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "満月",
+              "Furigana": "まんげつ",
+              "Romaji": "mangetsu",
+              "Meaning": "Full Moon"
             }
           ]
         },
@@ -5891,22 +4960,16 @@
           "OnyomiRomaji": "un",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "入道雲",
-              "Meaning": "にゅうどうぐも"
+              "Kanji": "入道雲",
+              "Furigana": "にゅうどうぐも",
+              "Romaji": "nyuudougumo",
+              "Meaning": "Cumulonimbus Cloud"
             },
             {
-              "Kanji": "nyuudougumo",
-              "Furigana": "Cumulonimbus Cloud",
-              "Romaji": "曇り雲",
-              "Meaning": "くもりぐも"
-            },
-            {
-              "Kanji": "kumorigumo",
-              "Furigana": "Cloudy Sky",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "曇り雲",
+              "Furigana": "くもりぐも",
+              "Romaji": "kumorigumo",
+              "Meaning": "Cloudy Sky"
             }
           ]
         },
@@ -5922,22 +4985,16 @@
           "OnyomiRomaji": "setsu",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "大雪",
-              "Meaning": "おおゆき"
+              "Kanji": "大雪",
+              "Furigana": "おおゆき",
+              "Romaji": "ooyuki",
+              "Meaning": "Heavy Snow"
             },
             {
-              "Kanji": "ooyuki",
-              "Furigana": "Heavy Snow",
-              "Romaji": "雪国",
-              "Meaning": "ゆきぐに"
-            },
-            {
-              "Kanji": "yukiguni",
-              "Furigana": "Snow Country",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "雪国",
+              "Furigana": "ゆきぐに",
+              "Romaji": "yukiguni",
+              "Meaning": "Snow Country"
             }
           ]
         },
@@ -5953,22 +5010,16 @@
           "OnyomiRomaji": "rai",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "雷雨",
-              "Meaning": "らいう"
+              "Kanji": "雷雨",
+              "Furigana": "らいう",
+              "Romaji": "raiu",
+              "Meaning": "Thunderstorm"
             },
             {
-              "Kanji": "raiu",
-              "Furigana": "Thunderstorm",
-              "Romaji": "稲妻",
-              "Meaning": "いなずま"
-            },
-            {
-              "Kanji": "inazuma",
-              "Furigana": "Lightning",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "稲妻",
+              "Furigana": "いなずま",
+              "Romaji": "inazuma",
+              "Meaning": "Lightning"
             }
           ]
         },
@@ -5984,22 +5035,16 @@
           "OnyomiRomaji": "sei",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "星空",
-              "Meaning": "ほしぞら"
+              "Kanji": "星空",
+              "Furigana": "ほしぞら",
+              "Romaji": "hoshizora",
+              "Meaning": "Starry Sky"
             },
             {
-              "Kanji": "hoshizora",
-              "Furigana": "Starry Sky",
-              "Romaji": "衛星",
-              "Meaning": "えいせい"
-            },
-            {
-              "Kanji": "eisei",
-              "Furigana": "Satellite",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "衛星",
+              "Furigana": "えいせい",
+              "Romaji": "eisei",
+              "Meaning": "Satellite"
             }
           ]
         },
@@ -6015,22 +5060,16 @@
           "OnyomiRomaji": "ka",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "花火",
-              "Meaning": "はなび"
+              "Kanji": "花火",
+              "Furigana": "はなび",
+              "Romaji": "hanabi",
+              "Meaning": "Fireworks"
             },
             {
-              "Kanji": "hanabi",
-              "Furigana": "Fireworks",
-              "Romaji": "花見",
-              "Meaning": "はなみ"
-            },
-            {
-              "Kanji": "hanami",
-              "Furigana": "Cherry Blossom Viewing",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "花見",
+              "Furigana": "はなみ",
+              "Romaji": "hanami",
+              "Meaning": "Cherry Blossom Viewing"
             }
           ]
         },
@@ -6046,22 +5085,16 @@
           "OnyomiRomaji": "sou",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "草原",
-              "Meaning": "そうげん"
+              "Kanji": "草原",
+              "Furigana": "そうげん",
+              "Romaji": "sougen",
+              "Meaning": "Grassland"
             },
             {
-              "Kanji": "sougen",
-              "Furigana": "Grassland",
-              "Romaji": "雑草",
-              "Meaning": "ざっそう"
-            },
-            {
-              "Kanji": "zassou",
-              "Furigana": "Weeds",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "雑草",
+              "Furigana": "ざっそう",
+              "Romaji": "zassou",
+              "Meaning": "Weeds"
             }
           ]
         },
@@ -6077,22 +5110,16 @@
           "OnyomiRomaji": "you",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "葉書",
-              "Meaning": "はがき"
+              "Kanji": "葉書",
+              "Furigana": "はがき",
+              "Romaji": "hagaki",
+              "Meaning": "Postcard"
             },
             {
-              "Kanji": "hagaki",
-              "Furigana": "Postcard",
-              "Romaji": "葉っぱ",
-              "Meaning": "はっぱ"
-            },
-            {
-              "Kanji": "happa",
-              "Furigana": "Leaf",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "葉っぱ",
+              "Furigana": "はっぱ",
+              "Romaji": "happa",
+              "Meaning": "Leaf"
             }
           ]
         },
@@ -6108,22 +5135,16 @@
           "OnyomiRomaji": "chiku",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "竹林",
-              "Meaning": "ちくりん"
+              "Kanji": "竹林",
+              "Furigana": "ちくりん",
+              "Romaji": "chikurin",
+              "Meaning": "Bamboo Grove"
             },
             {
-              "Kanji": "chikurin",
-              "Furigana": "Bamboo Grove",
-              "Romaji": "竹の子",
-              "Meaning": "たけのこ"
-            },
-            {
-              "Kanji": "takenoko",
-              "Furigana": "Bamboo Shoot",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "竹の子",
+              "Furigana": "たけのこ",
+              "Romaji": "takenoko",
+              "Meaning": "Bamboo Shoot"
             }
           ]
         },
@@ -6139,22 +5160,16 @@
           "OnyomiRomaji": "den",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "水田",
-              "Meaning": "すいでん"
+              "Kanji": "水田",
+              "Furigana": "すいでん",
+              "Romaji": "suiden",
+              "Meaning": "Rice Field"
             },
             {
-              "Kanji": "suiden",
-              "Furigana": "Rice Field",
-              "Romaji": "田舎",
-              "Meaning": "いなか"
-            },
-            {
-              "Kanji": "inaka",
-              "Furigana": "Countryside",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "田舎",
+              "Furigana": "いなか",
+              "Romaji": "inaka",
+              "Meaning": "Countryside"
             }
           ]
         },
@@ -6169,22 +5184,16 @@
           "OnyomiRomaji": "han",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "野菜畑",
-              "Meaning": "やさいばたけ"
+              "Kanji": "野菜畑",
+              "Furigana": "やさいばたけ",
+              "Romaji": "yasai-batake",
+              "Meaning": "Vegetable Field"
             },
             {
-              "Kanji": "yasai-batake",
-              "Furigana": "Vegetable Field",
-              "Romaji": "畑仕事",
-              "Meaning": "はたけしごと"
-            },
-            {
-              "Kanji": "hatakeshigoto",
-              "Furigana": "Farm Work",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "畑仕事",
+              "Furigana": "はたけしごと",
+              "Romaji": "hatakeshigoto",
+              "Meaning": "Farm Work"
             }
           ]
         },
@@ -6200,22 +5209,16 @@
           "OnyomiRomaji": "kou",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "日光",
-              "Meaning": "にっこう"
+              "Kanji": "日光",
+              "Furigana": "にっこう",
+              "Romaji": "nikkou",
+              "Meaning": "Sunlight"
             },
             {
-              "Kanji": "nikkou",
-              "Furigana": "Sunlight",
-              "Romaji": "月光",
-              "Meaning": "げっこう"
-            },
-            {
-              "Kanji": "gekkou",
-              "Furigana": "Moonlight",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "月光",
+              "Furigana": "げっこう",
+              "Romaji": "gekkou",
+              "Meaning": "Moonlight"
             }
           ]
         },
@@ -6231,22 +5234,16 @@
           "OnyomiRomaji": "on",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "音楽",
-              "Meaning": "おんがく"
+              "Kanji": "音楽",
+              "Furigana": "おんがく",
+              "Romaji": "ongaku",
+              "Meaning": "Music"
             },
             {
-              "Kanji": "ongaku",
-              "Furigana": "Music",
-              "Romaji": "騒音",
-              "Meaning": "そうおん"
-            },
-            {
-              "Kanji": "souon",
-              "Furigana": "Noise",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "騒音",
+              "Furigana": "そうおん",
+              "Romaji": "souon",
+              "Meaning": "Noise"
             }
           ]
         },
@@ -6262,22 +5259,16 @@
           "OnyomiRomaji": "ha",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "波動",
-              "Meaning": "はどう"
+              "Kanji": "波動",
+              "Furigana": "はどう",
+              "Romaji": "hadou",
+              "Meaning": "Wave Motion"
             },
             {
-              "Kanji": "hadou",
-              "Furigana": "Wave Motion",
-              "Romaji": "高波",
-              "Meaning": "たかなみ"
-            },
-            {
-              "Kanji": "takanami",
-              "Furigana": "High Waves",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "高波",
+              "Furigana": "たかなみ",
+              "Romaji": "takanami",
+              "Meaning": "High Waves"
             }
           ]
         },
@@ -6293,22 +5284,16 @@
           "OnyomiRomaji": "ei",
           "Examples": [
             {
-              "Kanji": "",
-              "Furigana": "",
-              "Romaji": "日影",
-              "Meaning": "ひかげ"
+              "Kanji": "日影",
+              "Furigana": "ひかげ",
+              "Romaji": "hikage",
+              "Meaning": "Shade"
             },
             {
-              "Kanji": "hikage",
-              "Furigana": "Shade",
-              "Romaji": "影響",
-              "Meaning": "えいきょう"
-            },
-            {
-              "Kanji": "eikyou",
-              "Furigana": "Influence",
-              "Romaji": "",
-              "Meaning": ""
+              "Kanji": "影響",
+              "Furigana": "えいきょう",
+              "Romaji": "eikyou",
+              "Meaning": "Influence"
             }
           ]
         }
