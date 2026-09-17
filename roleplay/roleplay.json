@@ -1,0 +1,705 @@
+{
+  "Credits": "<align=center><b>Voice credits</b></align>\n<size=80%>TTS: Microsoft Edge (ja-JP-NanamiNeural, ja-JP-KeitaNeural)</size>",
+  "Scenarios": [
+    {
+      "Id": "restaurant_polite",
+      "Title": "レストラン（丁寧）",
+      "Category": "Restaurant",
+      "Level": "N5",
+      "Tags": [
+        "Polite",
+        "Going Out",
+        "Good for Beginners"
+      ],
+      "Roles": [
+        {
+          "Name": "Clerk",
+          "Color": "#1F5FBF"
+        },
+        {
+          "Name": "Customer",
+          "Color": "#1FA3B5"
+        }
+      ],
+      "Lines": [
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 1,
+              "Japanese": "いらっしゃいませ。何名様ですか？",
+              "Hiragana": "いらっしゃいませ。なんめいさまですか？",
+              "Romaji": "irasshaimase. nanmei-sama desu ka?",
+              "English": "Welcome. How many people?",
+              "AudioStart": 0.12,
+              "AudioDuration": 4.332
+            }
+          ]
+        },
+        {
+          "Role": 1,
+          "Options": [
+            {
+              "AudioId": 2,
+              "Japanese": "2人です。",
+              "Hiragana": "ふたりです。",
+              "Romaji": "futari desu.",
+              "English": "Two people.",
+              "AudioStart": 6.12,
+              "AudioDuration": 2.052
+            },
+            {
+              "AudioId": 3,
+              "Japanese": "2名です。",
+              "Hiragana": "にめいです。",
+              "Romaji": "nimei desu.",
+              "English": "Two people. (formal)",
+              "AudioStart": 10.12,
+              "AudioDuration": 2.052
+            }
+          ]
+        },
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 4,
+              "Japanese": "こちらのお席へどうぞ。",
+              "Hiragana": "こちらのおせきへどうぞ。",
+              "Romaji": "kochira no oseki e douzo.",
+              "English": "Please take this seat.",
+              "AudioStart": 14.12,
+              "AudioDuration": 2.7
+            }
+          ]
+        },
+        {
+          "Role": 1,
+          "Options": [
+            {
+              "AudioId": 5,
+              "Japanese": "ありがとうございます。",
+              "Hiragana": "ありがとうございます。",
+              "Romaji": "arigatou gozaimasu.",
+              "English": "Thank you.",
+              "AudioStart": 18.12,
+              "AudioDuration": 2.412
+            }
+          ]
+        },
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 6,
+              "Japanese": "ご注文はお決まりですか？",
+              "Hiragana": "ごちゅうもんはおきまりですか？",
+              "Romaji": "gochuumon wa okimari desu ka?",
+              "English": "Are you ready to order?",
+              "AudioStart": 22.12,
+              "AudioDuration": 3.084
+            }
+          ]
+        },
+        {
+          "Role": 1,
+          "Options": [
+            {
+              "AudioId": 7,
+              "Japanese": "ラーメンを一つください。",
+              "Hiragana": "らーめんをひとつください。",
+              "Romaji": "raamen o hitotsu kudasai.",
+              "English": "One ramen, please.",
+              "AudioStart": 26.12,
+              "AudioDuration": 2.484
+            },
+            {
+              "AudioId": 8,
+              "Japanese": "カレーライスを一つお願いします。",
+              "Hiragana": "かれーらいすをひとつおねがいします。",
+              "Romaji": "karee raisu o hitotsu onegai shimasu.",
+              "English": "One curry rice, please.",
+              "AudioStart": 30.12,
+              "AudioDuration": 3.108
+            },
+            {
+              "AudioId": 9,
+              "Japanese": "おすすめは何ですか？",
+              "Hiragana": "おすすめはなんですか？",
+              "Romaji": "osusume wa nan desu ka?",
+              "English": "What do you recommend?",
+              "AudioStart": 34.12,
+              "AudioDuration": 2.388
+            }
+          ]
+        },
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 10,
+              "Japanese": "お飲み物はいかがですか？",
+              "Hiragana": "おのみものはいかがですか？",
+              "Romaji": "onomimono wa ikaga desu ka?",
+              "English": "Would you like something to drink?",
+              "AudioStart": 38.12,
+              "AudioDuration": 2.82
+            }
+          ]
+        },
+        {
+          "Role": 1,
+          "Options": [
+            {
+              "AudioId": 11,
+              "Japanese": "お水をお願いします。",
+              "Hiragana": "おみずをおねがいします。",
+              "Romaji": "omizu o onegai shimasu.",
+              "English": "Water, please.",
+              "AudioStart": 42.12,
+              "AudioDuration": 2.484
+            },
+            {
+              "AudioId": 12,
+              "Japanese": "大丈夫です。",
+              "Hiragana": "だいじょうぶです。",
+              "Romaji": "daijoubu desu.",
+              "English": "I'm fine, thank you.",
+              "AudioStart": 46.12,
+              "AudioDuration": 2.052
+            }
+          ]
+        },
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 13,
+              "Japanese": "かしこまりました。少々お待ちください。",
+              "Hiragana": "かしこまりました。しょうしょうおまちください。",
+              "Romaji": "kashikomarimashita. shoushou omachi kudasai.",
+              "English": "Certainly. Please wait a moment.",
+              "AudioStart": 50.12,
+              "AudioDuration": 4.668
+            }
+          ]
+        },
+        {
+          "Role": 1,
+          "Options": [
+            {
+              "AudioId": 14,
+              "Japanese": "すみません、お会計をお願いします。",
+              "Hiragana": "すみません、おかいけいをおねがいします。",
+              "Romaji": "sumimasen, okaikei o onegai shimasu.",
+              "English": "Excuse me, the check, please.",
+              "AudioStart": 56.12,
+              "AudioDuration": 3.684
+            }
+          ]
+        },
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 15,
+              "Japanese": "1200円です。",
+              "Hiragana": "せんにひゃくえんです。",
+              "Romaji": "sen nihyaku en desu.",
+              "English": "That will be 1,200 yen.",
+              "AudioStart": 60.12,
+              "AudioDuration": 2.58
+            }
+          ]
+        },
+        {
+          "Role": 1,
+          "Options": [
+            {
+              "AudioId": 16,
+              "Japanese": "カードで払えますか？",
+              "Hiragana": "かーどではらえますか？",
+              "Romaji": "kaado de haraemasu ka?",
+              "English": "Can I pay by card?",
+              "AudioStart": 64.12,
+              "AudioDuration": 2.268
+            },
+            {
+              "AudioId": 17,
+              "Japanese": "現金でお願いします。",
+              "Hiragana": "げんきんでおねがいします。",
+              "Romaji": "genkin de onegai shimasu.",
+              "English": "In cash, please.",
+              "AudioStart": 68.12,
+              "AudioDuration": 2.604
+            }
+          ]
+        },
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 18,
+              "Japanese": "ありがとうございました。またお越しください。",
+              "Hiragana": "ありがとうございました。またおこしください。",
+              "Romaji": "arigatou gozaimashita. mata okoshi kudasai.",
+              "English": "Thank you very much. Please come again.",
+              "AudioStart": 72.12,
+              "AudioDuration": 4.716
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "restaurant_casual",
+      "Title": "レストラン（カジュアル）",
+      "Category": "Restaurant",
+      "Level": "N5",
+      "Tags": [
+        "Casual",
+        "Going Out",
+        "Good for Beginners"
+      ],
+      "Roles": [
+        {
+          "Name": "Staff",
+          "Color": "#E67E22"
+        },
+        {
+          "Name": "Customer",
+          "Color": "#1FA3B5"
+        }
+      ],
+      "Lines": [
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 19,
+              "Japanese": "いらっしゃい！何名？",
+              "Hiragana": "いらっしゃい！なんめい？",
+              "Romaji": "irasshai! nanmei?",
+              "English": "Welcome! How many?",
+              "AudioStart": 78.12,
+              "AudioDuration": 3.42
+            }
+          ]
+        },
+        {
+          "Role": 1,
+          "Options": [
+            {
+              "AudioId": 20,
+              "Japanese": "2人。",
+              "Hiragana": "ふたり。",
+              "Romaji": "futari.",
+              "English": "Two.",
+              "AudioStart": 82.12,
+              "AudioDuration": 2.052
+            },
+            {
+              "AudioId": 21,
+              "Japanese": "2人で。",
+              "Hiragana": "ふたりで。",
+              "Romaji": "futari de.",
+              "English": "For two.",
+              "AudioStart": 86.12,
+              "AudioDuration": 2.052
+            }
+          ]
+        },
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 22,
+              "Japanese": "そこ、空いてるよ。",
+              "Hiragana": "そこ、あいてるよ。",
+              "Romaji": "soko, aiteru yo.",
+              "English": "That seat is free.",
+              "AudioStart": 90.12,
+              "AudioDuration": 2.412
+            }
+          ]
+        },
+        {
+          "Role": 1,
+          "Options": [
+            {
+              "AudioId": 23,
+              "Japanese": "どうも。",
+              "Hiragana": "どうも。",
+              "Romaji": "doumo.",
+              "English": "Thanks.",
+              "AudioStart": 94.12,
+              "AudioDuration": 2.052
+            }
+          ]
+        },
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 24,
+              "Japanese": "何にする？",
+              "Hiragana": "なんにする？",
+              "Romaji": "nan ni suru?",
+              "English": "What will you have?",
+              "AudioStart": 98.12,
+              "AudioDuration": 2.052
+            }
+          ]
+        },
+        {
+          "Role": 1,
+          "Options": [
+            {
+              "AudioId": 25,
+              "Japanese": "ラーメン一つ。",
+              "Hiragana": "らーめんひとつ。",
+              "Romaji": "raamen hitotsu.",
+              "English": "One ramen.",
+              "AudioStart": 102.12,
+              "AudioDuration": 2.052
+            },
+            {
+              "AudioId": 26,
+              "Japanese": "餃子も一つ。",
+              "Hiragana": "ぎょうざもひとつ。",
+              "Romaji": "gyouza mo hitotsu.",
+              "English": "And one gyoza, too.",
+              "AudioStart": 106.12,
+              "AudioDuration": 2.052
+            }
+          ]
+        },
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 27,
+              "Japanese": "飲み物は？",
+              "Hiragana": "のみものは？",
+              "Romaji": "nomimono wa?",
+              "English": "Drinks?",
+              "AudioStart": 110.12,
+              "AudioDuration": 2.052
+            }
+          ]
+        },
+        {
+          "Role": 1,
+          "Options": [
+            {
+              "AudioId": 28,
+              "Japanese": "水でいいよ。",
+              "Hiragana": "みずでいいよ。",
+              "Romaji": "mizu de ii yo.",
+              "English": "Water is fine.",
+              "AudioStart": 114.12,
+              "AudioDuration": 2.052
+            },
+            {
+              "AudioId": 29,
+              "Japanese": "いらない。",
+              "Hiragana": "いらない。",
+              "Romaji": "iranai.",
+              "English": "No, thanks.",
+              "AudioStart": 118.12,
+              "AudioDuration": 2.052
+            }
+          ]
+        },
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 30,
+              "Japanese": "はーい、ちょっと待ってね。",
+              "Hiragana": "はーい、ちょっとまってね。",
+              "Romaji": "haai, chotto matte ne.",
+              "English": "Okay, just a moment.",
+              "AudioStart": 122.12,
+              "AudioDuration": 2.916
+            }
+          ]
+        },
+        {
+          "Role": 1,
+          "Options": [
+            {
+              "AudioId": 31,
+              "Japanese": "ごちそうさま！いくら？",
+              "Hiragana": "ごちそうさま！いくら？",
+              "Romaji": "gochisousama! ikura?",
+              "English": "Thanks for the meal! How much?",
+              "AudioStart": 126.12,
+              "AudioDuration": 3.276
+            }
+          ]
+        },
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 32,
+              "Japanese": "900円ね。",
+              "Hiragana": "きゅうひゃくえんね。",
+              "Romaji": "kyuuhyaku en ne.",
+              "English": "900 yen.",
+              "AudioStart": 130.12,
+              "AudioDuration": 2.22
+            }
+          ]
+        },
+        {
+          "Role": 1,
+          "Options": [
+            {
+              "AudioId": 33,
+              "Japanese": "はい、これで。",
+              "Hiragana": "はい、これで。",
+              "Romaji": "hai, kore de.",
+              "English": "Here you go.",
+              "AudioStart": 134.12,
+              "AudioDuration": 2.22
+            }
+          ]
+        },
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 34,
+              "Japanese": "まいど！また来てね。",
+              "Hiragana": "まいど！またきてね。",
+              "Romaji": "maido! mata kite ne.",
+              "English": "Thanks! Come again.",
+              "AudioStart": 138.12,
+              "AudioDuration": 3.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "cafe_friends",
+      "Title": "カフェで友達と",
+      "Category": "Cafe",
+      "Level": "N5",
+      "Tags": [
+        "Casual",
+        "Polite",
+        "Going Out",
+        "Friends"
+      ],
+      "Roles": [
+        {
+          "Name": "Staff",
+          "Color": "#C0392B"
+        },
+        {
+          "Name": "Aki",
+          "Color": "#2E86DE"
+        },
+        {
+          "Name": "Yuki",
+          "Color": "#27AE60"
+        }
+      ],
+      "Lines": [
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 35,
+              "Japanese": "いらっしゃいませ。ご注文をどうぞ。",
+              "Hiragana": "いらっしゃいませ。ごちゅうもんをどうぞ。",
+              "Romaji": "irasshaimase. gochuumon o douzo.",
+              "English": "Welcome. What would you like?",
+              "AudioStart": 142.12,
+              "AudioDuration": 4.332
+            }
+          ]
+        },
+        {
+          "Role": 1,
+          "Options": [
+            {
+              "AudioId": 36,
+              "Japanese": "ユキは何にする？",
+              "Hiragana": "ゆきはなににする？",
+              "Romaji": "Yuki wa nani ni suru?",
+              "English": "Yuki, what are you getting?",
+              "AudioStart": 148.12,
+              "AudioDuration": 2.22
+            }
+          ]
+        },
+        {
+          "Role": 2,
+          "Options": [
+            {
+              "AudioId": 37,
+              "Japanese": "ケーキセットにしようかな。",
+              "Hiragana": "けーきせっとにしようかな。",
+              "Romaji": "keeki setto ni shiyou ka na.",
+              "English": "Maybe the cake set.",
+              "AudioStart": 152.12,
+              "AudioDuration": 2.844
+            },
+            {
+              "AudioId": 38,
+              "Japanese": "チーズケーキがいいな。",
+              "Hiragana": "ちーずけーきがいいな。",
+              "Romaji": "chiizu keeki ga ii na.",
+              "English": "Cheesecake sounds good.",
+              "AudioStart": 156.12,
+              "AudioDuration": 2.604
+            }
+          ]
+        },
+        {
+          "Role": 1,
+          "Options": [
+            {
+              "AudioId": 39,
+              "Japanese": "いいね。私も同じのにする。",
+              "Hiragana": "いいね。わたしもおなじのにする。",
+              "Romaji": "ii ne. watashi mo onaji no ni suru.",
+              "English": "Nice. I will get the same.",
+              "AudioStart": 160.12,
+              "AudioDuration": 3.804
+            },
+            {
+              "AudioId": 40,
+              "Japanese": "僕はコーヒーだけでいいや。",
+              "Hiragana": "ぼくはこーひーだけでいいや。",
+              "Romaji": "boku wa koohii dake de ii ya.",
+              "English": "Just coffee for me.",
+              "AudioStart": 164.12,
+              "AudioDuration": 2.58
+            }
+          ]
+        },
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 41,
+              "Japanese": "お飲み物はホットとアイス、どちらになさいますか？",
+              "Hiragana": "おのみものはほっととあいす、どちらになさいますか？",
+              "Romaji": "onomimono wa hotto to aisu, dochira ni nasaimasu ka?",
+              "English": "Would you like your drinks hot or iced?",
+              "AudioStart": 168.12,
+              "AudioDuration": 4.572
+            }
+          ]
+        },
+        {
+          "Role": 2,
+          "Options": [
+            {
+              "AudioId": 42,
+              "Japanese": "ホットでお願いします。",
+              "Hiragana": "ほっとでおねがいします。",
+              "Romaji": "hotto de onegai shimasu.",
+              "English": "Hot, please.",
+              "AudioStart": 174.12,
+              "AudioDuration": 2.628
+            },
+            {
+              "AudioId": 43,
+              "Japanese": "アイスでお願いします。",
+              "Hiragana": "あいすでおねがいします。",
+              "Romaji": "aisu de onegai shimasu.",
+              "English": "Iced, please.",
+              "AudioStart": 178.12,
+              "AudioDuration": 2.628
+            }
+          ]
+        },
+        {
+          "Role": 1,
+          "Options": [
+            {
+              "AudioId": 44,
+              "Japanese": "私も同じで。",
+              "Hiragana": "わたしもおなじで。",
+              "Romaji": "watashi mo onaji de.",
+              "English": "Same for me.",
+              "AudioStart": 182.12,
+              "AudioDuration": 2.172
+            }
+          ]
+        },
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 45,
+              "Japanese": "かしこまりました。お会計はご一緒ですか？",
+              "Hiragana": "かしこまりました。おかいけいはごいっしょですか？",
+              "Romaji": "kashikomarimashita. okaikei wa goissho desu ka?",
+              "English": "Certainly. Will you be paying together?",
+              "AudioStart": 186.12,
+              "AudioDuration": 4.908
+            }
+          ]
+        },
+        {
+          "Role": 1,
+          "Options": [
+            {
+              "AudioId": 46,
+              "Japanese": "別々でお願いします。",
+              "Hiragana": "べつべつでおねがいします。",
+              "Romaji": "betsubetsu de onegai shimasu.",
+              "English": "Separately, please.",
+              "AudioStart": 192.12,
+              "AudioDuration": 2.652
+            },
+            {
+              "AudioId": 47,
+              "Japanese": "一緒でお願いします。",
+              "Hiragana": "いっしょでおねがいします。",
+              "Romaji": "issho de onegai shimasu.",
+              "English": "Together, please.",
+              "AudioStart": 196.12,
+              "AudioDuration": 2.484
+            }
+          ]
+        },
+        {
+          "Role": 0,
+          "Options": [
+            {
+              "AudioId": 48,
+              "Japanese": "ごゆっくりどうぞ。",
+              "Hiragana": "ごゆっくりどうぞ。",
+              "Romaji": "goyukkuri douzo.",
+              "English": "Please enjoy your time.",
+              "AudioStart": 200.12,
+              "AudioDuration": 2.316
+            }
+          ]
+        },
+        {
+          "Role": 2,
+          "Options": [
+            {
+              "AudioId": 49,
+              "Japanese": "ここ、雰囲気いいね。",
+              "Hiragana": "ここ、ふんいきいいね。",
+              "Romaji": "koko, fun-iki ii ne.",
+              "English": "This place has a nice atmosphere.",
+              "AudioStart": 204.12,
+              "AudioDuration": 2.892
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
