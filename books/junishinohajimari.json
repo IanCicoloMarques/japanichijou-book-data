@@ -8,51 +8,51 @@
     {
       "title": "<b>Chapter 1: 神様からのお知らせ</b>",
       "body": [
-        "むかしむかし、まだ年の数え方が決まっていなかったころのお話です。\nある年の暮れ、天の神様が動物たちを集めて、こう言いました。\n「元日の朝、わしの御殿に早く着いた順に、十二匹の動物を年の守り神にしてやろう。」",
-        "ところが、ネコだけは居眠りをしていて、神様のお話を聞きそびれてしまいました。\n目を覚ましたネコは、慌てて友達のネズミに尋ねました。\n「ねえ、神様の御殿にはいつ行けばいいんだっけ？」",
-        "ずる賢いネズミは、心の中でニヤリと笑いました。\nライバルを減らすチャンスだと思ったのです。\n「元日の次の日だよ。」\nネズミは、こう嘘をつきました。"
+        "むかしむかし、まだ<color=#e06c75>年</color>の<color=#98c379>数え方</color>が決まっていなかったころのお話です。\nある年の暮れ、天の神様が動物たちを集めて、こう言いました。\n「元日の<color=#c678dd>朝</color>、わしの御殿に早く着いた順に、<color=#61afef>十二匹</color>の<color=#e5c07b>動物</color>を年の守り神にしてやろう。」",
+        "<color=#e06c75>ところが</color>、<color=#61afef>ネコ</color>だけは居眠りをしていて、<color=#98c379>神様</color>の話を聞きそびれてしまいました。\n目を覚ました<color=#61afef>ネコ</color>は、慌てて友達の<color=#c678dd>ネズミ</color>に尋ねました。\n「ねえ、<color=#98c379>神様</color>の御殿には<color=#e5c07b>いつ</color>行けばいいんだっけ？」",
+        "<color=#e06c75>ずる賢い</color>ネズミは、<color=#61afef>心</color>の中でニヤリと笑いました。\nライバルを<color=#98c379>減らす</color>チャンスだと思ったのです。\n「<color=#c678dd>元日</color>の次の日だよ。」\nネズミは、こう<color=#e5c07b>嘘</color>をつきました。"
       ],
       "translation": [
-        "Long, long ago, before people had decided how to count the years, there was a story like this.\r\n\r\nOne year, toward the end of the year, the Heavenly God gathered all the animals together and said:\r\n\r\n“On the morning of New Year’s Day, the first twelve animals to arrive at my palace will become the guardians of the year.”\r",
-        "However, the cat was taking a nap and missed the Heavenly God’s announcement.\r\n\r\nWhen the cat woke up, it hurriedly asked its friend, the mouse:\r\n\r\n“Hey, when are we supposed to go to the Heavenly God’s palace?”\r",
-        "The clever and cunning mouse smiled to himself.\r\n\r\nHe thought, “This is my chance to get rid of a rival.”\r\n\r\n“The day after New Year’s Day,” he said.\r\n\r\nThe mouse had lied to the cat.\r\n"
+        "Long, long ago, before people had decided <color=#98c379>how to count </color>the <color=#e06c75>years</color>, there was a story like this.\n\nOne year, toward the end of the year, the Heavenly God gathered all the animals together and said:\n\n“On the <color=#c678dd>morning</color> of New Year’s Day, the first <color=#61afef>twelve </color><color=#e5c07b>animals</color> to arrive at my palace will become the guardians of the year.”\n",
+        "<color=#e06c75>However</color>, the <color=#61afef>cat</color> was taking a nap and missed what the <color=#98c379>god</color> had said.\n\nWhen the cat woke up, it hurriedly asked its friend, the <color=#c678dd>mouse</color>:\n\n“Hey, <color=#e5c07b>when</color> are we supposed to go to the Heavenly <color=#98c379>God</color>’s palace?”\n",
+        "The <color=#e06c75>cunning</color> mouse grinned to himself in his <color=#61afef>heart</color>.\n\nHe thought it was a chance <color=#98c379>to reduce</color> his rivals.\n\n“The day after <color=#c678dd>New Year’s Day</color>,” he said.\n\nThe mouse had <color=#e5c07b>lied</color> to the cat.\n"
       ],
       "kana": [
-        "むかしむかし、まだとしのかぞえかたがきまっていなかったころのおはなしです。\r\nあるとしのくれ、あまのかみさまがどうぶつたちをあつめて、こういいました。\r\n「がんじつのあさ、わしのごてんにはやくついたじゅんに、じゅうにひきのどうぶつをとしのまもりがみにしてやろう。」\r\n",
-        "ところが、ねこだけはいねむりをしていて、かみさまのおはなしをききそびれてしまいました。\r\nめをさましたねこは、あわててともだちのねずみにたずねました。\r\n「ねえ、かみさまのごてんにはいついけばいいんだっけ？」\r\n",
-        "ずるがしこいねずみは、こころのなかでにやりとわらいました。\r\nらいばるをへらすちゃんすだとおもったのです。\r\n「がんじつのつぎのひだよ。」\r\nねずみは、こううそをつきました。\r\n"
+        "むかしむかし、まだ<color=#e06c75>とし</color>の<color=#98c379>かぞえかた</color>がきまっていなかったころのおはなしです。\nあるとしのくれ、あまのかみさまがどうぶつたちをあつめて、こういいました。\n「がんじつの<color=#c678dd>あさ</color>、わしのごてんにはやくついたじゅんに、<color=#61afef>じゅうにひき</color>の<color=#e5c07b>どうぶつ</color>をとしのまもりがみにしてやろう。」\n",
+        "<color=#e06c75>ところが</color>、<color=#61afef>ねこ</color>だけはいねむりをしていて、<color=#98c379>かみさま</color>のはなしをききそびれてしまいました。\nめをさましたねこは、あわててともだちの<color=#c678dd>ねずみ</color>にたずねました。\n「ねえ、<color=#98c379>かみさま</color>のごてんには<color=#e5c07b>いつ</color>いけばいいんだっけ？」\n",
+        "<color=#e06c75>ずるがしこい</color>ねずみは、<color=#61afef>こころ</color>のなかでにやりとわらいました。\nらいばるを<color=#98c379>へらす</color>ちゃんすだとおもったのです。\n「<color=#c678dd>がんじつ</color>のつぎのひだよ。」\nねずみは、こう<color=#e5c07b>うそ</color>をつきました。\n"
       ],
       "dictionary": [
-        "年(とし) — year.\n数え方(かぞえかた) — way of counting.\n十二匹(じゅうにひき) — twelve animals.\n動物(どうぶつ) — animal.\n朝(あさ) — morning.",
-        "ところが — however, but.\nネコ(ねこ) — cat.\nお話(おはなし) — story, tale.\n神様(かみさま) — god, deity.\nネズミ(ねずみ) — mouse.",
-        "ずる賢い(ずるがしこい) — cunning, sly.\n心(こころ) — heart, mind.\n減らす(へらす) — to reduce, to decrease.\n次の日(つぎのひ) — the next day.\n嘘(うそ) — lie."
+        "<color=#e06c75>年</color>(とし) — year.\n<color=#98c379>数え方</color>(かぞえかた) — how to count.\n<color=#c678dd>朝</color>(あさ) — morning.\n<color=#61afef>十二匹</color>(じゅうにひき) — twelve animals.\n<color=#e5c07b>動物</color>(どうぶつ) — animal.",
+        "<color=#e06c75>ところが</color> — however, but.\n<color=#61afef>ネコ</color>(ねこ) — cat.\n<color=#98c379>神様</color>(かみさま) — god.\n<color=#c678dd>ネズミ</color>(ねずみ) — mouse.\n<color=#e5c07b>いつ</color> — when.",
+        "<color=#e06c75>ずる賢い</color>(ずるがしこい) — cunning, sly.\n<color=#61afef>心</color>(こころ) — heart, mind.\n<color=#98c379>減らす</color>(へらす) — to reduce, to decrease.\n<color=#c678dd>元日</color>(がんじつ) — new year’s day.\n<color=#e5c07b>嘘</color>(うそ) — lie."
       ]
     },
     {
       "title": "<b>Chapter 2: 十二支を決める競争</b>",
       "body": [
-        "さて、元日の朝が来ました。\nウシは自分の歩みが遅いことを知っていたので、誰よりも早く出発しました。",
+        "<color=#c678dd>さて</color>、元日の朝が来ました。\n<color=#e06c75>ウシ</color>は自分の歩みが<color=#61afef>遅い</color>ことを<color=#98c379>知っていた</color>ので、誰よりも早く出発しました。",
         "そして御殿へと向かう途中、小さなネズミがウシの背中にひょいと飛び乗りました。\n「ウシさん、乗せていってくれてありがとう。」\n優しいウシは何も言わず、黙々と歩き続けました。",
         "やがて御殿の門が見えてきました。\nウシが「やった、一番乗りだ」と思った、まさにその時です。",
         "ネズミがウシの頭を踏み台にして、ぴょんと飛び降り、門をくぐり抜けたのです。\n\n「神様、あけましておめでとうございます！」\nとネズミは一番乗りの挨拶をしました。",
         "こうして、ネズミが一番、ウシが二番になりました。その後、トラ、ウサギ、タツ、ヘビ、ウマ、ヒツジ、サル、トリ、イヌ、イノシシの順に到着し、十二支が決まったのです。\n"
       ],
       "translation": [
-        "Now, the morning of New Year’s Day arrived.\r\n\r\nKnowing that he was a slow walker, the Ox set off earlier than anyone else.\r\n",
+        "<color=#c678dd>Now</color>, the morning of New Year’s Day arrived.\n\nThe <color=#e06c75>ox</color> <color=#98c379>knew</color> that his pace was <color=#61afef>slow</color>, so he set out earlier than anyone else.\n",
         "On the way to the Heavenly God’s palace, a little mouse suddenly jumped onto the Ox’s back.\r\n\r\n“Thank you for giving me a ride, Mr. Ox.”\r\n\r\nThe kind-hearted Ox said nothing and simply continued walking.\r",
         "Before long, the gates of the Heavenly God’s palace came into view.\r\n\r\nJust as the Ox thought, “I’m going to be the first one here!”...\r",
         "The mouse used the Ox’s head as a stepping stone, jumped down, and scampered through the gate.\r\n\r\n“Happy New Year, Heavenly God!”\r\n\r\nThe mouse was the first to arrive and greeted the Heavenly God with a cheerful smile.\r",
         "And so, the Mouse came in first, and the Ox came in second.\r\n\r\nAfter that, the Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, and Boar arrived in that order.\r\n\r\nAnd that is how the twelve animals of the Japanese zodiac were chosen.\r\n\n"
       ],
       "kana": [
-        "さて、がんじつのあさがきました。\r\nうしはじぶんのあゆみがおそいことをしっていたので、だれよりもはやくしゅっぱつしました。\r",
+        "<color=#c678dd>さて</color>、がんじつのあさがきました。\n<color=#e06c75>うし</color>はじぶんのあゆみが<color=#61afef>おそい</color>ことを<color=#98c379>しっていた</color>ので、だれよりもはやくしゅっぱつしました。\n",
         "そしてごてんへとむかうとちゅう、ちいさなねずみがうしのせなかにひょいととびのりました。\r\n「うしさん、のせていってくれてありがとう。」\r\nやさしいうしはなにもいわず、もくもくとあるきつづけました。\r\n",
         "やがてごてんのもんがみえてきました。\r\nうしが「やった、いちばんのりだ」とおもった、まさにそのときです。\r\n",
         "ねずみがうしのあたまをふみだいにして、ぴょんととびおり、もんをくぐりぬけたのです。\r\n\r\n「かみさま、あけましておめでとうございます！」\r\nとねずみはいちばんのりのあいさつをしました。\r",
         "こうして、ねずみがいちばん、うしがにばんになりました。そのあと、とら、うさぎ、たつ、へび、うま、ひつじ、さる、とり、いぬ、いのししのじゅんにとうちゃくし、じゅうにしがきまったのです。\r"
       ],
       "dictionary": [
-        "元日(がんじつ) — New Year's Day.\n朝(あさ) — morning.\n自分(じぶん) — oneself, self.\n遅い(おそい) — slow, late.\n知る(しる) — to know.",
+        "<color=#c678dd>さて</color> — now then.\n<color=#e06c75>ウシ</color>(うし) — ox, cow.\n<color=#61afef>遅い</color>(おそい) — slow, late.\n<color=#98c379>知る</color>(しる) — to know.",
         "途中(とちゅう) — on the way, along the way.\r\n小さな(ちいさな) — small, little.\r\n背中(せなか) — back.\r\n優しい(やさしい) — kind, gentle.\r\n何も(なにも) — anything, nothing.",
         "御殿(ごてん) — palace, grand residence.\r\n門(もん) — gate.\r\n見える(みえる) — to be visible, to come into view.\r\n思う(おもう) — to think.\r\nその時(そのとき) — at that moment.",
         "頭(あたま) — head.\r\n踏み台(ふみだい) — stepping stool, something used as a foothold.\r\nあけましておめでとうございます — Happy New Year.\r\n一番乗り(いちばんのり) — first to arrive.\r\n挨拶(あいさつ) — greeting.",
@@ -63,19 +63,19 @@
       "title": "<b>Chapter 3: ネコが怒った理由</b>",
       "body": [
         "さて、翌日になって御殿へ向かったネコは、すべてが終わっていることを知り、怒りました。\n「よくもだましたな、ネズミ！許さないぞ！」\nそれ以来、ネコはネズミを見つけると追いかけるようになった、と言い伝えられています。 ",
-        "そして、ネズミにだまされたことに気づき、とても怒りました。\n\n「よくもだましたな、ネズミ！ 絶対に許さないぞ！」\n\nそれからというもの、ネコはネズミを見つけると追いかけるようになったと言われています。",
+        "そして、ネズミにだまされたことに気づき、とても怒りました。\n\n「よくもだましたな、ネズミ！ 絶対に許さないぞ！」\n\nそれからというもの、ネコはネズミを見つけると追いかけるようになったと言われています。\n\nおしまい。",
         "物語に出てきた動物たち",
         "原作：十二支のはじまり\nストーリー編集・調整：tomo\n教材向け編集：HayaTikaze\nギミック制作：Ainx"
       ],
       "translation": [
         "The next day, the Cat finally went to the Heavenly God’s palace, only to discover that everything was already over. The Cat was furious.\r\n\r\n“How dare you trick me, Mouse! I’ll never forgive you!”\r\n\r\nAnd ever since then, it is said that whenever a Cat sees a Mouse, it chases after it.\r\n",
-        "Then the Cat realized that the Mouse had tricked him and became very angry.\r\n\r\n“How dare you trick me, Mouse! I’ll never forgive you!”\r\n\r\nFrom then on, it is said that whenever the Cat sees a Mouse, it chases after it.\r\n",
+        "Then the Cat realized that the Mouse had tricked him and became very angry.\n\n“How dare you trick me, Mouse! I’ll never forgive you!”\n\nFrom then on, it is said that whenever the Cat sees a Mouse, it chases after it.\n\nThe End.",
         "The animals that appeared in the story",
         "Original Story: *The Beginning of the Twelve Zodiac Animals*\nStory Editing & Adaptation: tomo\nEducational Adaptation: HayaTikaze\nGimmick Development: Ainx"
       ],
       "kana": [
         "さて、よくじつになってごてんへむかったねこは、すべてがおわっていることをしり、おこりました。\r\n「よくもだましたな、ねずみ！ゆるさないぞ！」\r\nそれいらい、ねこはねずみをみつけるとおいかけるようになった、といいつたえられています。\r\n",
-        "そして、ねずみにだまされたことにきづき、とてもおこりました。\r\n\r\n「よくもだましたな、ねずみ！ ぜったいにゆるさないぞ！」\r\n\r\nそれからというもの、ねこはねずみをみつけるとおいかけるようになったといわれています。\r\n",
+        "そして、ねずみにだまされたことにきづき、とてもおこりました。\n\n「よくもだましたな、ねずみ！ ぜったいにゆるさないぞ！」\n\nそれからというもの、ねこはねずみをみつけるとおいかけるようになったといわれています。\n\nおしまい。",
         "ものがたりにでてきたどうぶつたち",
         "げんさく：じゅうにしのはじまり\nすとーりーへんしゅう・ちょうせい：tomo\nきょうざいむけへんしゅう：HayaTikaze\nぎみっくせいさく：Ainx"
       ],
